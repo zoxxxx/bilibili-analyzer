@@ -7,7 +7,7 @@ class UserData(Data):
         self.mid = mid
         self.data = []
         self.crawler = UserCrawler(self.mid)
-        self.path = 'data/user/{}.json'.format(self.mid)
+        self.path = 'data/users/{}.json'.format(self.mid)
         if os.path.exists(self.path):
             self.load()
             self.loaded = True

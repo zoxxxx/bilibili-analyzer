@@ -36,8 +36,25 @@ class UserCrawler(Crawler):
                 yield video
         self.logger.debug('success to get videos from user {}'.format(self.mid))
     
+    def getUserInfo(self):
+        '获取用户基本信息'
+        url = 'https://api.bilibili.com/x/space/wbi/acc/info'
+        self.logger.debug('start to get user info from user {}'.format(self.mid))
+        params = {
+            'mid': self.mid
+        }
+        html = self.getPage(url, params=params)
+        load = json.loads(html)
+        if load['code'] != 0:
+            self.logger.error('fail to get user info from user {}, error code = {}'.format(self.mid, load['code']))
+            return None
+        self.logger.debug('success to get user info from user {}'.format(self.mid))
+        return load['data']
+    
     def getData(self):
-        data = []
+        data = self.getUserInfo()
+        videos = []
         for video in self.getVideos():
-            data.append(video)
+            videos.append(video)
+        data['videos'] = videos
         return data
