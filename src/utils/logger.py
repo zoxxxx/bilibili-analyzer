@@ -1,5 +1,5 @@
 import logging
-def get_logger(__name__):
+def getLogger(__name__):
     '设置日志'
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)

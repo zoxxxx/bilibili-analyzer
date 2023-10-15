@@ -1,8 +1,7 @@
 from src import *
 
 if __name__ == "__main__":
-    print(1)
-    logger = get_logger(__name__)
+    logger = getLogger(__name__)
     crawler = Crawler()
     # url = 'https://api.bilibili.com/x/space/arc/search?mid=19577966&ps=30&tid=0&pn=1&keyword=&order=pubdate&jsonp=jsonp'
     url = 'https://api.bilibili.com/x/space/wbi/arc/search'

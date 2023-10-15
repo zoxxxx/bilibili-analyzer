@@ -4,6 +4,7 @@ import requests
 import logging
 import random
 from bs4 import BeautifulSoup
+from src.utils.logger import *
 
 class Crawler(object):
     '爬虫的基类'
@@ -13,7 +14,7 @@ class Crawler(object):
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36',
             'Referer': 'https://www.bilibili.com/',
         }
-        self.logger = logging.getLogger(__name__)
+        self.logger = getLogger(__name__)
     
     def getPage(self, url, params = None):
         '获取网页源代码'
