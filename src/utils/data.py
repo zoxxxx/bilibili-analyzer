@@ -47,6 +47,7 @@ class Data(object):
             self.logger.error('fail to load {}'.format(self.path))
             return
         self.logger.info('success to load {}'.format(self.path))
+        self.time = datetime.datetime.fromtimestamp(os.path.getmtime(self.path))
 
     def getData(self):
         if not os.path.exists(self.path):

@@ -26,7 +26,7 @@ class UserCrawler(Crawler):
             html = self.getPage(url, params=params)
             load = json.loads(html) 
             if load['code'] != 0:
-                self.logger.error('fail to get videos from user {} page {}, error code = {}'.format(self.mid, i), load['code'])
+                self.logger.error('fail to get videos from user {} page {}, error code = {}'.format(self.mid, i, load['code']))
                 break
             videos = load['data']['list']['vlist']
             if len(videos) == 0:

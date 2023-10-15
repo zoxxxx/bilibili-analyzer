@@ -1,0 +1,145 @@
+{
+    "mid": 1442367743,
+    "name": "zoxzoxzox",
+    "sex": "保密",
+    "face": "https://i2.hdslb.com/bfs/face/bd5521e14fdf39c59d2fc0b758fa26e1fc0de7f9.jpg",
+    "face_nft": 0,
+    "face_nft_type": 0,
+    "sign": "",
+    "rank": 10000,
+    "level": 4,
+    "jointime": 0,
+    "moral": 0,
+    "silence": 0,
+    "coins": 0,
+    "fans_badge": false,
+    "fans_medal": {
+        "show": false,
+        "wear": false,
+        "medal": null
+    },
+    "official": {
+        "role": 0,
+        "title": "",
+        "desc": "",
+        "type": -1
+    },
+    "vip": {
+        "type": 2,
+        "status": 1,
+        "due_date": 1735056000000,
+        "vip_pay_type": 0,
+        "theme_type": 0,
+        "label": {
+            "path": "",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+        },
+        "avatar_subscript": 1,
+        "nickname_color": "#FB7299",
+        "role": 3,
+        "avatar_subscript_url": "",
+        "tv_vip_status": 0,
+        "tv_vip_pay_type": 0,
+        "tv_due_date": 1663862400
+    },
+    "pendant": {
+        "pid": 0,
+        "name": "",
+        "image": "",
+        "expire": 0,
+        "image_enhance": "",
+        "image_enhance_frame": ""
+    },
+    "nameplate": {
+        "nid": 0,
+        "name": "",
+        "image": "",
+        "image_small": "",
+        "level": "",
+        "condition": ""
+    },
+    "user_honour_info": {
+        "mid": 0,
+        "colour": null,
+        "tags": []
+    },
+    "is_followed": false,
+    "top_photo": "http://i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+    "theme": {},
+    "sys_notice": {},
+    "live_room": null,
+    "birthday": "01-06",
+    "school": {
+        "name": "中国科学技术大学"
+    },
+    "profession": {
+        "name": "",
+        "department": "",
+        "title": "",
+        "is_show": 0
+    },
+    "tags": null,
+    "series": {
+        "user_upgrade_status": 3,
+        "show_upgrade_window": false
+    },
+    "is_senior_member": 0,
+    "mcn_info": null,
+    "gaia_res_type": 0,
+    "gaia_data": null,
+    "is_risk": false,
+    "elec": {
+        "show_info": {
+            "show": false,
+            "state": -1,
+            "title": "",
+            "icon": "",
+            "jump_url": "?oid=1442367743"
+        }
+    },
+    "contract": null,
+    "certificate_show": false,
+    "videos": [
+        {
+            "comment": 348,
+            "typeid": 233,
+            "play": 181957,
+            "pic": "http://i1.hdslb.com/bfs/archive/5b1cdcbf99b216b293b6a79e76a4b507419555b4.jpg",
+            "subtitle": "",
+            "description": "https://www.bilibili.com/video/BV1hG411A7cX 视频第一弹~ \n【中科大RoboGame逆序队】\n机械：@我没有名字真的不骗你 @zoxzoxzox @cat-of-Bohr\n电控：@Augusta__\n宣传：@飞旭feixu\n【鸣谢】\n@中国科学技术大学\n@中国科大少年班学院\n@USTC机器人俱乐部",
+            "copyright": "1",
+            "title": "中科大少年班的我们，用半年时间造了个球？",
+            "review": 0,
+            "author": "zoxzoxzox",
+            "mid": 1442367743,
+            "created": 1668163414,
+            "length": "07:14",
+            "video_review": 319,
+            "aid": 860007574,
+            "bvid": "BV1pG4y1f7Ry",
+            "hide_click": false,
+            "is_pay": 0,
+            "is_union_video": 0,
+            "is_steins_gate": 0,
+            "is_live_playback": 0,
+            "meta": null,
+            "is_avoided": 0,
+            "attribute": 0,
+            "is_charging_arc": false,
+            "vt": 0,
+            "enable_vt": 0,
+            "vt_display": "",
+            "playback_position": 0
+        }
+    ]
+}
