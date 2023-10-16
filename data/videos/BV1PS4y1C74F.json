@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1PS4y1C74F",
+    "aid": 723900351,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/160aab106b98142aee27a8503aab7bd7b9298509.jpg",
+    "title": "美国因何而强大？（能源篇）【球局-国家档案】",
+    "pubdate": 1644320892,
+    "ctime": 1644320892,
+    "desc": "地球知识局——020\n地区：美国\n时间：20世纪~至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——020\n地区：美国\n时间：20世纪~至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 521,
+    "mission_id": 340552,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 723900351,
+        "view": 204076,
+        "danmaku": 399,
+        "reply": 471,
+        "favorite": 2136,
+        "coin": 902,
+        "share": 522,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 4915,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "新年第一弹，本期我们从能源角度分析了美国近一个多世纪强大的原因。美国霸权是个十分复杂的问题，大家还想看其他什么角度，可以留言告诉我们哦~",
+    "cid": 504559976,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76913,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 504559976,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（字幕）",
+            "duration": 521,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220209qnx5t3gasclq1c2n903jg4t8u_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1CA411L7kz",
+    "aid": 332641595,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/a76a3deef1da06aff7de925bc0805a24b681b7cc.jpg",
+    "title": "绝了！妹子一失恋就跑个铁人三项【阅片无数动漫篇26】",
+    "pubdate": 1619013607,
+    "ctime": 1619013608,
+    "desc": "第二十五期BV1ty4y1h7bd：想了半天也想不出标题\n第二十四期BV1YZ4y1w7fU：师傅，稍微修一下就行\n第二十三期BV16p4y1H7YF：你管这叫自相矛盾？\n第二十二期BV1vo4y197Lc：花了一天把所有角色认出来了\n第二十一期BV1cV411B7RY：我佛了！孙悟空竟然还打过变形金刚\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第二十五期BV1ty4y1h7bd：想了半天也想不出标题\n第二十四期BV1YZ4y1w7fU：师傅，稍微修一下就行\n第二十三期BV16p4y1H7YF：你管这叫自相矛盾？\n第二十二期BV1vo4y197Lc：花了一天把所有角色认出来了\n第二十一期BV1cV411B7RY：我佛了！孙悟空竟然还打过变形金刚\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 848,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 332641595,
+        "view": 2447046,
+        "danmaku": 14814,
+        "reply": 6910,
+        "favorite": 17389,
+        "coin": 47876,
+        "share": 2531,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 212768,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本期#阅片无数#动漫篇有新题型，快来康康！",
+    "cid": 326940549,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 326940549,
+            "page": 1,
+            "from": "vupload",
+            "part": "绝了！妹子一失恋就跑个铁人三项【阅片无数动漫篇26】",
+            "duration": 848,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 332641595,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 332641595,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

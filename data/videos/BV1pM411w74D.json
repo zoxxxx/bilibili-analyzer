@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1pM411w74D",
+    "aid": 479973414,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/999d5677c025f0f265d5c9430a402b543c15476c.jpg",
+    "title": "ChatGPT：让你问点健康的，不是让你问点好康的",
+    "pubdate": 1677235076,
+    "ctime": 1677235077,
+    "desc": "当AI也不容易啊\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "当AI也不容易啊\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 161,
+    "mission_id": 1259518,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 479973414,
+        "view": 778322,
+        "danmaku": 228,
+        "reply": 502,
+        "favorite": 2541,
+        "coin": 3542,
+        "share": 538,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 81028,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "把AI给问沉默了",
+    "cid": 1023863663,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1154952,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1023863663,
+            "page": 1,
+            "from": "vupload",
+            "part": "ChatGPT：让你问点健康的，不是让你问点好康的",
+            "duration": 161,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230224a2fvnb9cv8p5lk2jqq7bhz7pq_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 479973414,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

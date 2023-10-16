@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1ax411M7jB",
+    "aid": 15542058,
+    "videos": 1,
+    "tid": 168,
+    "tname": "国产原创相关",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/41f8adb1b141367ba3c8a6d977829b3dc76cd206.jpg",
+    "title": "【凉风】嫉妒使我生殖隔离！这动画的小姐姐一个比一个好看！",
+    "pubdate": 1508497232,
+    "ctime": 1508423586,
+    "desc": "动画/天谕\n主要bgm/爱的供养\n微博@凉风有性胖次君 http://weibo.com/10112015",
+    "desc_v2": [
+        {
+            "raw_text": "动画/天谕\n主要bgm/爱的供养\n微博@凉风有性胖次君 http://weibo.com/10112015",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 514,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 15542058,
+        "view": 656205,
+        "danmaku": 6017,
+        "reply": 2038,
+        "favorite": 5038,
+        "coin": 8366,
+        "share": 710,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 4428,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 25291880,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 25291880,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 514,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

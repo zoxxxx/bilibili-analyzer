@@ -1,0 +1,194 @@
+{
+    "bvid": "BV11V4y1o74T",
+    "aid": 867893048,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/309d2c2c726000f2a83730848a8257a0eaeea768.jpg",
+    "title": "被人骑被人吃，鸵鸟：我真的会谢！【环行星球】",
+    "pubdate": 1682510400,
+    "ctime": 1682500638,
+    "desc": "没吃过鸵鸟肉，那你见过鸵鸟赛跑吗？欢迎在弹幕告诉我们答案。",
+    "desc_v2": [
+        {
+            "raw_text": "没吃过鸵鸟肉，那你见过鸵鸟赛跑吗？欢迎在弹幕告诉我们答案。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 659,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 867893048,
+        "view": 51412,
+        "danmaku": 260,
+        "reply": 141,
+        "favorite": 384,
+        "coin": 310,
+        "share": 69,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3682,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "球局旗下的环行星球今天更新啦！~ 以后会持续分享全球趣闻，大家多多关注，三连起来~",
+    "cid": 1109653878,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1109653878,
+            "page": 1,
+            "from": "vupload",
+            "part": "被人骑被人吃，鸵鸟：我真的会谢！【环行星球】",
+            "duration": 659,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230426a23kmkzgmeapf6g13ijsuwyy9_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 100785033,
+            "title": "UP主",
+            "name": "地球知识局",
+            "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1731254400000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 2,
+                "title": "地球知识局官方账号",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1186692,
+            "label_style": 0
+        },
+        {
+            "mid": 1649908095,
+            "title": "视频制作",
+            "name": "环行星球",
+            "face": "https://i0.hdslb.com/bfs/face/51a90959b3f252ca08173b0e55e7e2e6928e52a9.jpg",
+            "vip": {
+                "type": 0,
+                "status": 0,
+                "due_date": 0,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 0,
+                "title": "",
+                "desc": "",
+                "type": -1
+            },
+            "follower": 618,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

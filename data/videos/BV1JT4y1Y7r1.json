@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1JT4y1Y7r1",
+    "aid": 937994851,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/f3fbab106c50abc4e8183da8a90cd54d9fd5870e.jpg",
+    "title": "黑龙江人口减少全国第一，究竟发生了什么？【地球知识局】",
+    "pubdate": 1649329493,
+    "ctime": 1649329493,
+    "desc": "地球知识局——026\n地区：中国黑龙江省\n时间：明朝-21世纪",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——026\n地区：中国黑龙江省\n时间：明朝-21世纪",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 569,
+    "mission_id": 463399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 937994851,
+        "view": 337527,
+        "danmaku": 2089,
+        "reply": 1000,
+        "favorite": 2158,
+        "coin": 1003,
+        "share": 1048,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 6925,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "春光明媚，大雁北迁，在三亚的东北人这时候回家了吗？近些年来，东北地区的人口不断外流，规模位列全国第一！越来越多的东北人去往“天涯海角”，特别是东北三省曾经的大哥——黑龙江，人口流失愈发严重，难道黑龙江真的留不住人了？",
+    "cid": 570301651,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 318942,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 570301651,
+            "page": 1,
+            "from": "vupload",
+            "part": "final 1",
+            "duration": 569,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220408qn2hjbsswhfksai23f5bmois2_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

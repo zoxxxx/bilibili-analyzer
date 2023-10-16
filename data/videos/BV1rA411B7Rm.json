@@ -1,0 +1,118 @@
+{
+    "bvid": "BV1rA411B7Rm",
+    "aid": 309144851,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/06cb98c08ee4a8874a3f2cdfc54861151e0ab0c2.jpg",
+    "title": "狂飙嘴形对不上，电视剧拍不了的，小说能给出答案",
+    "pubdate": 1676023200,
+    "ctime": 1676016504,
+    "desc": "看完狂飙连夜肝完小说\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "看完狂飙连夜肝完小说\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 607,
+    "mission_id": 1175121,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 309144851,
+        "view": 1378066,
+        "danmaku": 2562,
+        "reply": 1662,
+        "favorite": 5850,
+        "coin": 6011,
+        "share": 3477,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 82493,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "看完狂飙连夜肝完小说",
+    "cid": 1002872456,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1002872456,
+            "page": 1,
+            "from": "vupload",
+            "part": "狂飙嘴形对不上，电视剧拍不了的，小说能给出答案",
+            "duration": 607,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230211a2wb0tsn4g6z0h2qglyr3yzbl_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 309144851,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

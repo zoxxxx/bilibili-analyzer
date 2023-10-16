@@ -1,0 +1,108 @@
+{
+    "bvid": "BV11t411p7cg",
+    "aid": 40458063,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/307852d5b958cfeedae0f213630abb0d03ebe85b.jpg",
+    "title": "【凉风】用galgame的方式打开黑子的篮球",
+    "pubdate": 1547208002,
+    "ctime": 1547193460,
+    "desc": "对于喜欢的UP主！我们要怎么对他？\n当然是投币收藏上推荐（举报取关催女装）\n欢迎关注沙雕UP主的微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "对于喜欢的UP主！我们要怎么对他？\n当然是投币收藏上推荐（举报取关催女装）\n欢迎关注沙雕UP主的微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 650,
+    "order_id": 4599,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 40458063,
+        "view": 304163,
+        "danmaku": 2093,
+        "reply": 723,
+        "favorite": 2459,
+        "coin": 5017,
+        "share": 385,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 14649,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze#【凉风】用galgame的方式打开黑子的篮球",
+    "cid": 71058331,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 71058331,
+            "page": 1,
+            "from": "vupload",
+            "part": "黑子的篮球",
+            "duration": 650,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

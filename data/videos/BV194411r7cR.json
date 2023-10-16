@@ -1,0 +1,116 @@
+{
+    "bvid": "BV194411r7cR",
+    "aid": 65151556,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/f1ca99c5acec188a4bb365bc9da73e05aa0bc6fe.jpg",
+    "title": "2019年十月新番导视！阿库娅后继有人？爆笑沙雕番层出不穷！",
+    "pubdate": 1566655243,
+    "ctime": 1566655244,
+    "desc": "给这个可怜的up主来点转发和三连好不啦！\n\n本期新番导视主要介绍：\n我的英雄学院 第四季\n刀剑神域 UW篇\nPSYCHO-PASS 第三季\n高分少女 第二季\n我们真的学不来！第二季\n食戟之灵 神之皿\n真·中华一番\n超人高中生们即便在异世界也能从容生存！\n我不是说了能力要平均值么\n小书痴的下克上 为了成为图书馆管理员不择手段\n慎重勇者~这个勇者明明超TUEEE却过度谨慎~\n旗扬！兽道\n入间同学入魔了\nBeastars\n歌舞伎町夏洛克\n篮球少年王\n星合之空\n放学后桌游俱乐部\n神田川JET GIRLS\n战×恋\nNO GUNS LIFE\n喜欢本大爷的竟然就你一个？\n歌塑世界-Songs Connection\n警视厅特务部特殊凶恶犯对策室 第七课 -特7-\n巴比伦\nSTAND MY HEROES PIECE OF TRUTH\n非洲的动物上班族\n刺客守则",
+    "desc_v2": [
+        {
+            "raw_text": "给这个可怜的up主来点转发和三连好不啦！\n\n本期新番导视主要介绍：\n我的英雄学院 第四季\n刀剑神域 UW篇\nPSYCHO-PASS 第三季\n高分少女 第二季\n我们真的学不来！第二季\n食戟之灵 神之皿\n真·中华一番\n超人高中生们即便在异世界也能从容生存！\n我不是说了能力要平均值么\n小书痴的下克上 为了成为图书馆管理员不择手段\n慎重勇者~这个勇者明明超TUEEE却过度谨慎~\n旗扬！兽道\n入间同学入魔了\nBeastars\n歌舞伎町夏洛克\n篮球少年王\n星合之空\n放学后桌游俱乐部\n神田川JET GIRLS\n战×恋\nNO GUNS LIFE\n喜欢本大爷的竟然就你一个？\n歌塑世界-Songs Connection\n警视厅特务部特殊凶恶犯对策室 第七课 -特7-\n巴比伦\nSTAND MY HEROES PIECE OF TRUTH\n非洲的动物上班族\n刺客守则",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 867,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 65151556,
+        "view": 3585791,
+        "danmaku": 50185,
+        "reply": 5688,
+        "favorite": 92535,
+        "coin": 199821,
+        "share": 10864,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 244867,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "2019年十月新番导视！阿库娅后继有人？爆笑沙雕番层出不穷！",
+    "cid": 113074228,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 113074228,
+            "page": 1,
+            "from": "vupload",
+            "part": "十月导视1.2",
+            "duration": 867,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 65151556,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

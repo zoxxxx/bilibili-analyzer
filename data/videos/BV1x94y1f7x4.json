@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1x94y1f7x4",
+    "aid": 340150027,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/9324580dd8ebb4d1ed36296d742a18cb2edcf8e2.jpg",
+    "title": "在白俄罗斯如何搞偷袭？【小约翰】",
+    "pubdate": 1648522993,
+    "ctime": 1648488554,
+    "desc": "本篇为小约翰系列之沃普沙索夫。\n\n参考资料：\n回忆录《令人不安的十字路口》\n半自传历史文选《游击队编年史》\n狄安娜·米哈伊洛娃文章《二十世纪的超级破坏者》\n罗斯国家英雄网站上沃普沙索夫的叙功传记《时代与命运》\n杂志文章《敌后二十八个月》\n绿色兄弟会文章《永远的守序者》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为小约翰系列之沃普沙索夫。\n\n参考资料：\n回忆录《令人不安的十字路口》\n半自传历史文选《游击队编年史》\n狄安娜·米哈伊洛娃文章《二十世纪的超级破坏者》\n罗斯国家英雄网站上沃普沙索夫的叙功传记《时代与命运》\n杂志文章《敌后二十八个月》\n绿色兄弟会文章《永远的守序者》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1280,
+    "mission_id": 517586,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 340150027,
+        "view": 6262255,
+        "danmaku": 36005,
+        "reply": 14161,
+        "favorite": 49130,
+        "coin": 174317,
+        "share": 9927,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 350771,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为小约翰系列之沃普沙索夫。",
+    "cid": 561505555,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 561505555,
+            "page": 1,
+            "from": "vupload",
+            "part": "终稿【B站】小约翰x重返帝国-沙普沃索夫",
+            "duration": 1280,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220329a21zz9y5xdj9lmv2ev91xj87k_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 340150027,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 340150027,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

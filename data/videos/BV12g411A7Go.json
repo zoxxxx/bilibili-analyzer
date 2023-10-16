@@ -1,0 +1,124 @@
+{
+    "bvid": "BV12g411A7Go",
+    "aid": 507072640,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/23e4e7c06050ba52c48ff25bbe50582119916ce0.jpg",
+    "title": "看视频不发弹幕结果......",
+    "pubdate": 1638185968,
+    "ctime": 1638185968,
+    "desc": "上次被B站威胁还是在上一次\n详情见：https://www.bilibili.com/video/BV1ra4y1x7Uj?from=search&seid=3745088021054434220&spm_id_from=333.337.0.0\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "上次被B站威胁还是在上一次\n详情见：https://www.bilibili.com/video/BV1ra4y1x7Uj?from=search&seid=3745088021054434220&spm_id_from=333.337.0.0\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 756,
+    "mission_id": 211180,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 507072640,
+        "view": 1572860,
+        "danmaku": 13714,
+        "reply": 4293,
+        "favorite": 11648,
+        "coin": 29557,
+        "share": 1815,
+        "now_rank": 0,
+        "his_rank": 15,
+        "like": 158295,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "上次被B站威胁还是在上一次",
+    "cid": 451472732,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 451472732,
+            "page": 1,
+            "from": "vupload",
+            "part": "我又被B站威胁了",
+            "duration": 756,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n211129a2nkz7o5tchfz217s2wn29ffn_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 507072640,
+                "type": 3,
+                "desc": "全站排行榜最高第15名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 507072640,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

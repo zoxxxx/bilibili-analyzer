@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Bx41187V9",
+    "aid": 11301801,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/6465347b1948ab1c6c8a6edfae8768acbfd0c4d8.jpg",
+    "title": "【凉风】2017年七月新番导视",
+    "pubdate": 1497412821,
+    "ctime": 1497359972,
+    "desc": "新番信息统计至2017年6月13日\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：512635593（快满） 630316975（新群）\nBGM列表\n いつもの風景から始まる物語\nMonody（钢琴版）\n梦回环(伴奏)\n风舞う红叶と実の薫り… 少女秘封倶楽部\nUnity\nWe Are Electric\nRemember The Name\nTears Don't Fall",
+    "desc_v2": [
+        {
+            "raw_text": "新番信息统计至2017年6月13日\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：512635593（快满） 630316975（新群）\nBGM列表\n いつもの風景から始まる物語\nMonody（钢琴版）\n梦回环(伴奏)\n风舞う红叶と実の薫り… 少女秘封倶楽部\nUnity\nWe Are Electric\nRemember The Name\nTears Don't Fall",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1201,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 11301801,
+        "view": 1005666,
+        "danmaku": 18874,
+        "reply": 4461,
+        "favorite": 29063,
+        "coin": 28688,
+        "share": 4900,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 1735,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 18689960,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 18689960,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1201,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 11301801,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

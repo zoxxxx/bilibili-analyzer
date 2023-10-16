@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Xt411A7yW",
+    "aid": 60865778,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/dee4d589cd3b440dec03019924083a89f14a9458.jpg",
+    "title": "爆笑反转漫画！看到结局会让你大喊卧槽！",
+    "pubdate": 1564236038,
+    "ctime": 1564236039,
+    "desc": "之前看了这个短篇漫画，觉得很有意思就做给大家看看。\n求三连啊求三连！投币收藏搞起来！UP再去给你们整点沙雕好玩的作品。\n\n关注生活中的凉风→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "之前看了这个短篇漫画，觉得很有意思就做给大家看看。\n求三连啊求三连！投币收藏搞起来！UP再去给你们整点沙雕好玩的作品。\n\n关注生活中的凉风→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 312,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 60865778,
+        "view": 972680,
+        "danmaku": 4217,
+        "reply": 1683,
+        "favorite": 9880,
+        "coin": 20967,
+        "share": 1972,
+        "now_rank": 0,
+        "his_rank": 63,
+        "like": 58801,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "当时看完这漫画，我家猫都震惊了……",
+    "cid": 105917381,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 105917381,
+            "page": 1,
+            "from": "vupload",
+            "part": "爆笑反转漫画！看到结局会让你大喊卧槽！",
+            "duration": 312,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 60865778,
+                "type": 3,
+                "desc": "全站排行榜最高第63名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

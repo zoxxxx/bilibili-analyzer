@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1r84y1J73o",
+    "aid": 609899430,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/539c964355fe2bf6f96c1dc3f49fc1010d31fdf4.jpg",
+    "title": "三体真能这样拍吗？",
+    "pubdate": 1677156482,
+    "ctime": 1677156482,
+    "desc": "既然追求zzzq那就贯彻到底\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "既然追求zzzq那就贯彻到底\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 193,
+    "mission_id": 1285848,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 609899430,
+        "view": 416317,
+        "danmaku": 468,
+        "reply": 391,
+        "favorite": 1881,
+        "coin": 4110,
+        "share": 875,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 47941,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "既然追求zzzq那就贯彻到底",
+    "cid": 1022256773,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1154952,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1022256773,
+            "page": 1,
+            "from": "vupload",
+            "part": "三体真能这样拍吗？",
+            "duration": 193,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230223qn1pb8a6wcyafnw3at4d87n11_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

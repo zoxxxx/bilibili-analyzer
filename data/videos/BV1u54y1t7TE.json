@@ -1,0 +1,128 @@
+{
+    "bvid": "BV1u54y1t7TE",
+    "aid": 843217087,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/75e0756a20f3bd2a0fbb854b5413a53b4bd93031.jpg",
+    "title": "我傻了！日本人居然这样学中文",
+    "pubdate": 1608386412,
+    "ctime": 1608377968,
+    "desc": "看来隔壁岛国的汉语教材有点东西的\n下次弄点什么好呢~\n关注生活中的凉风→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "看来隔壁岛国的汉语教材有点东西的\n下次弄点什么好呢~\n关注生活中的凉风→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 561,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 843217087,
+        "view": 3315956,
+        "danmaku": 11697,
+        "reply": 4768,
+        "favorite": 27794,
+        "coin": 137485,
+        "share": 7482,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 372366,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "这次咱们整点国外的，看看他们是怎么学中文的。不要忘了给勤奋的UP主三连喂！",
+    "cid": 268541182,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 268541182,
+            "page": 1,
+            "from": "vupload",
+            "part": "教科书",
+            "duration": 561,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 843217087,
+                "type": 2,
+                "desc": "第92期每周必看",
+                "weekly_recommend_num": 92
+            },
+            {
+                "aid": 843217087,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 843217087,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

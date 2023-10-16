@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1wh4y137te",
+    "aid": 614811556,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/c41a6bc19bcc1da9a1dc1634a21b7fffa13ce6b6.jpg",
+    "title": "二战中最神奇的战俘营是哪个？【神奇组织07】",
+    "pubdate": 1686884400,
+    "ctime": 1686816387,
+    "desc": "本篇为神奇组织之科尔迪茨战俘营。\n\n参考资料：\n帕特·里德1953年出版《科尔迪茨的故事》\n莱因霍尔德·埃格斯2007年再版《科尔迪茨：德国的故事》\n本·麦可泰尔2010年出版《城堡里的囚徒》\n亨利·查斯洛2001年出版《科尔迪茨：权威的历史》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为神奇组织之科尔迪茨战俘营。\n\n参考资料：\n帕特·里德1953年出版《科尔迪茨的故事》\n莱因霍尔德·埃格斯2007年再版《科尔迪茨：德国的故事》\n本·麦可泰尔2010年出版《城堡里的囚徒》\n亨利·查斯洛2001年出版《科尔迪茨：权威的历史》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1655,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 614811556,
+        "view": 5997893,
+        "danmaku": 37961,
+        "reply": 9266,
+        "favorite": 94062,
+        "coin": 213795,
+        "share": 22882,
+        "now_rank": 0,
+        "his_rank": 21,
+        "like": 395897,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为神奇组织之科尔迪茨战俘营。",
+    "cid": 1164479311,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1095498,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1164479311,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1655,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230615a226e264pcviako33wxh7nqem_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 614811556,
+                "type": 2,
+                "desc": "第222期每周必看",
+                "weekly_recommend_num": 222
+            },
+            {
+                "aid": 614811556,
+                "type": 3,
+                "desc": "全站排行榜最高第21名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 614811556,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

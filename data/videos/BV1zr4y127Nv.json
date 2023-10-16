@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1zr4y127Nv",
+    "aid": 763533151,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3bc68a9198cd77ea9506631ea236f879f16f4275.jpg",
+    "title": "阿富汗逆天改命有多难，基于地缘格局的详细分析【地球知识局-地缘】",
+    "pubdate": 1634039436,
+    "ctime": 1634039436,
+    "desc": "地球知识局——011\n地区：阿富汗\n时期：全历史时期",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——011\n地区：阿富汗\n时期：全历史时期",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 522,
+    "mission_id": 166436,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 763533151,
+        "view": 198456,
+        "danmaku": 283,
+        "reply": 325,
+        "favorite": 1828,
+        "coin": 1413,
+        "share": 283,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 6008,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "估计大家注意到了我们最近更新频率变慢了，但小编对地球仪发誓绝对不是去摸鱼了，而是闭门苦练技术。这不，我们做了一个新的系列--【地缘格局】，还望大家多多一键三连哦。",
+    "cid": 424044496,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76913,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 424044496,
+            "page": 1,
+            "from": "vupload",
+            "part": "final",
+            "duration": 522,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n211012a21s14kznn4o9pb31mjskh9ti_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

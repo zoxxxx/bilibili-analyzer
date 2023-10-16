@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1mp4y1J7Ay",
+    "aid": 957480402,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/18129f471e350f68a4b9ad97373f4671d08ec0c8.jpg",
+    "title": "美国最小假钞案是哪起？【硬核狠人57】",
+    "pubdate": 1692414000,
+    "ctime": 1692345421,
+    "desc": "本篇为硬核狠人之尤特纳。\n\n参考资料：\n马丁·保罗2014年出版《恶棍、匪徒和流氓：令人难以置信的恶作剧和混乱的真实故事》\n卡尔·西法基斯1984年出版《美国怪人》\n菲利普·梅兰森2005年出版《特勤局：一个神秘机构的隐藏历史》\n圣克莱尔·麦克凯尔韦1949年8月刊登于纽约客的专栏《犯罪年鉴：老880先生的故事》\n伊莱恩·哈特菲尔德2011年出版《胡言乱语的艺术家：邪教、疯子、怪人、白痴、骗子、怪人、骗子和江湖骗子的真实故事》\n特勤局官网\n丹·艾米特2014年出版《距离之内：特勤局特工保护总统的明确内幕》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之尤特纳。\n\n参考资料：\n马丁·保罗2014年出版《恶棍、匪徒和流氓：令人难以置信的恶作剧和混乱的真实故事》\n卡尔·西法基斯1984年出版《美国怪人》\n菲利普·梅兰森2005年出版《特勤局：一个神秘机构的隐藏历史》\n圣克莱尔·麦克凯尔韦1949年8月刊登于纽约客的专栏《犯罪年鉴：老880先生的故事》\n伊莱恩·哈特菲尔德2011年出版《胡言乱语的艺术家：邪教、疯子、怪人、白痴、骗子、怪人、骗子和江湖骗子的真实故事》\n特勤局官网\n丹·艾米特2014年出版《距离之内：特勤局特工保护总统的明确内幕》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1451,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 957480402,
+        "view": 4975569,
+        "danmaku": 24693,
+        "reply": 9552,
+        "favorite": 55958,
+        "coin": 149739,
+        "share": 11561,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 330445,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之尤特纳。",
+    "cid": 1238426794,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1238426794,
+            "page": 1,
+            "from": "vupload",
+            "part": "美国最小假钞案是哪起？【硬核狠人57】",
+            "duration": 1451,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230818sa2ycvrfxm5g9u0dda80p5chs_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 957480402,
+                "type": 2,
+                "desc": "第231期每周必看",
+                "weekly_recommend_num": 231
+            },
+            {
+                "aid": 957480402,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 957480402,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

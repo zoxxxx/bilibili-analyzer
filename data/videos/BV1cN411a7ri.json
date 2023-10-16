@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1cN411a7ri",
+    "aid": 489330596,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/41a7660ead60a99a8f0b7a3d349181ef2bf5988e.jpg",
+    "title": "北京洪水，这里最惨【地球知识局】",
+    "pubdate": 1691062200,
+    "ctime": 1691053803,
+    "desc": "地球知识局——067\n时间：2023年\n地点：北京",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——067\n时间：2023年\n地点：北京",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 358,
+    "mission_id": 1640753,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 489330596,
+        "view": 1089555,
+        "danmaku": 991,
+        "reply": 1531,
+        "favorite": 5201,
+        "coin": 2079,
+        "share": 2953,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 43425,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "前几天，北京遭遇了140年以来最大暴雨，这次北京暴雨受灾的重点，在门头沟和房山。门头沟尤其严重，西部山区大面积信号失联，道路桥梁损失惨重，洪水所过之处遍地废墟。今天我们讲一讲本次暴雨中的门头沟和房山，为什么能成为重灾区？\n\n除了首都北京，像河北涿州、献县以及太行山区的众多县域，同样遭遇了洪灾，但受到的关注、获得的援助要少的多，从灾难中恢复过来，也需要更长的时间。",
+    "cid": 1220987992,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1220987992,
+            "page": 1,
+            "from": "vupload",
+            "part": "北京洪水，这里最惨【地球知识局】",
+            "duration": 358,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230803sa1fdajy0biy90u2yk7gebfya_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Kb41137sw",
+    "aid": 48453145,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/745b0819151f84e199fe07baef61dc49ec9fdf61.jpg",
+    "title": "【猫片】复联4要来了，我来教大家如何辨别自家的猫是不是噬元兽",
+    "pubdate": 1554720575,
+    "ctime": 1554523560,
+    "desc": "微博@凉风Kaze\n看完了惊O队长出来的脑洞……\n没想到做出来都这个时候了！\n灵魂动画做的不比杂谈简单，喜欢的小伙伴们记得三连鼓励哦！",
+    "desc_v2": [
+        {
+            "raw_text": "微博@凉风Kaze\n看完了惊O队长出来的脑洞……\n没想到做出来都这个时候了！\n灵魂动画做的不比杂谈简单，喜欢的小伙伴们记得三连鼓励哦！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 147,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 48453145,
+        "view": 555057,
+        "danmaku": 897,
+        "reply": 1122,
+        "favorite": 5309,
+        "coin": 12808,
+        "share": 1598,
+        "now_rank": 0,
+        "his_rank": 41,
+        "like": 32332,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#恶搞##搞笑视频##喵星人##噬元兽##灵魂画风#一度想要实拍来着，无奈家里的猫不配合……",
+    "cid": 84857956,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 84857956,
+            "page": 1,
+            "from": "vupload",
+            "part": "惊O队长",
+            "duration": 147,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 48453145,
+                "type": 3,
+                "desc": "全站排行榜最高第41名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

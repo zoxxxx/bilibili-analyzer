@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1e54y1P76A",
+    "aid": 864465286,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/bd1e8ce8a01a9b475d51ad1295b187ea1e3fc380.jpg",
+    "title": "特工离婚后果会有多严重？【硬核狠人46】",
+    "pubdate": 1676602800,
+    "ctime": 1676536184,
+    "desc": "本篇为硬核狠人之哈罗德。\n\n参考资料：\n布莱恩·丹森2015年出版《间谍之子：被判从事间谍活动的最高级别中央情报局官员和他受训为俄罗斯从事间谍活动的儿子的真实故事》\n罗恩·弗里德尔2002年出版《间谍活动：现代间谍世界》\n罗纳德·凯斯勒2012年出版《FBI的秘密》\n约翰·沙利文《看门人：中情局测谎仪检查员的回忆录》\n格拉姆斯·桑德拉2012年出版《叛逆之环》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之哈罗德。\n\n参考资料：\n布莱恩·丹森2015年出版《间谍之子：被判从事间谍活动的最高级别中央情报局官员和他受训为俄罗斯从事间谍活动的儿子的真实故事》\n罗恩·弗里德尔2002年出版《间谍活动：现代间谍世界》\n罗纳德·凯斯勒2012年出版《FBI的秘密》\n约翰·沙利文《看门人：中情局测谎仪检查员的回忆录》\n格拉姆斯·桑德拉2012年出版《叛逆之环》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1578,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 864465286,
+        "view": 4773219,
+        "danmaku": 28771,
+        "reply": 11349,
+        "favorite": 49764,
+        "coin": 154276,
+        "share": 16649,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 303446,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之哈罗德。",
+    "cid": 1010458188,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1010458188,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1578,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230216a21ze4q8n2nal7x19139a9sny_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 864465286,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 864465286,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

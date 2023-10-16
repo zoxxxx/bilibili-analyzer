@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1uA4y1Z7rz",
+    "aid": 896888337,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/920f905f308bdc3b6e51a98a590bbb7f995799a6.jpg",
+    "title": "刻晴：终于想起我了是吧！",
+    "pubdate": 1653722683,
+    "ctime": 1653722683,
+    "desc": "刻晴传说任务全剧情流程！\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "刻晴传说任务全剧情流程！\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 579,
+    "mission_id": 622408,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 896888337,
+        "view": 1260422,
+        "danmaku": 3908,
+        "reply": 2699,
+        "favorite": 8284,
+        "coin": 15487,
+        "share": 3294,
+        "now_rank": 0,
+        "his_rank": 76,
+        "like": 129040,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "刻晴没有传说任务？那就自己做一个！",
+    "cid": 731895042,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 446509,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 731895042,
+            "page": 1,
+            "from": "vupload",
+            "part": "刻晴：这就是我的传说任务？！",
+            "duration": 579,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220528a210thdgrt2mfh93fjwgpp4xk_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 896888337,
+                "type": 3,
+                "desc": "全站排行榜最高第76名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 896888337,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1oT4y1M7R4",
+    "aid": 928186931,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/6d344f1a6e40a2481a72bccc9353c22f5a995c0e.jpg",
+    "title": "早期刀剑未被动画化的剧情",
+    "pubdate": 1608544812,
+    "ctime": 1608289663,
+    "desc": "刀剑神域进击篇是刀剑sao部分的剧情补充，动画明年播出，如果等不及想补剧情的话，可以去试试《刀剑神域黑衣剑士：王牌》~\n更多生活中的凉风详见微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "刀剑神域进击篇是刀剑sao部分的剧情补充，动画明年播出，如果等不及想补剧情的话，可以去试试《刀剑神域黑衣剑士：王牌》~\n更多生活中的凉风详见微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 500,
+    "order_id": 10033769,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 928186931,
+        "view": 1749772,
+        "danmaku": 5215,
+        "reply": 2873,
+        "favorite": 9753,
+        "coin": 17638,
+        "share": 2568,
+        "now_rank": 0,
+        "his_rank": 24,
+        "like": 138628,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天给你们分享下早期刀剑未被动画化的剧情",
+    "cid": 268100640,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 268100640,
+            "page": 1,
+            "from": "vupload",
+            "part": "早期刀剑未被动画化的剧情",
+            "duration": 500,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 928186931,
+                "type": 3,
+                "desc": "全站排行榜最高第24名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 928186931,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

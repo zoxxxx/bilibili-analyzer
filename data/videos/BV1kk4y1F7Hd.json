@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1kk4y1F7Hd",
+    "aid": 746190455,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/ffc8e9a4a428b02072058bf44da949ba3179a944.jpg",
+    "title": "美国警察把痔疮当毒品，猛掏三分钟！【阅片无数3rd 10】",
+    "pubdate": 1695218400,
+    "ctime": 1695125500,
+    "desc": "不知道我顶不顶得住\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "不知道我顶不顶得住\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1121,
+    "mission_id": 4003503,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 746190455,
+        "view": 5863650,
+        "danmaku": 14504,
+        "reply": 7154,
+        "favorite": 28707,
+        "coin": 43663,
+        "share": 24379,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 282091,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#阅片无数#\n不知道我顶不顶得住",
+    "cid": 1272405225,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1486385,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1272405225,
+            "page": 1,
+            "from": "vupload",
+            "part": "美国警察把痔疮当毒品，猛掏三分钟！【阅片无数3rd 10】",
+            "duration": 1121,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230919sa269t4ur94oyzu1o11nujgpc_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 746190455,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 746190455,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

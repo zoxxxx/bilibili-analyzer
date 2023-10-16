@@ -1,0 +1,496 @@
+{
+    "bvid": "BV1ZJ411v77g",
+    "aid": 78135967,
+    "videos": 1,
+    "tid": 124,
+    "tname": "社科·法律·心理",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/f15085c19f9ff3a1a6f7a31e2004b4a25cef67fe.jpg",
+    "title": "百万粉UP主2019年竟然经历了这些……【2019年年终总结】",
+    "pubdate": 1575541099,
+    "ctime": 1575533359,
+    "desc": "2019年年度总结！\n参演UP主：\n木鱼水心\n敬汉卿\n拉宏桑\n凉风Kaze\n记录生活的蛋黄派\n老师好我叫何同学\n神秘店长A\n欣小萌\n蜡笔和小勋\n\n新的一年继续加油，欢迎一起成为UP主！",
+    "desc_v2": [
+        {
+            "raw_text": "2019年年度总结！\n参演UP主：\n木鱼水心\n敬汉卿\n拉宏桑\n凉风Kaze\n记录生活的蛋黄派\n老师好我叫何同学\n神秘店长A\n欣小萌\n蜡笔和小勋\n\n新的一年继续加油，欢迎一起成为UP主！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 276,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 37090048,
+        "name": "哔哩哔哩创作中心",
+        "face": "https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg"
+    },
+    "stat": {
+        "aid": 78135967,
+        "view": 2943982,
+        "danmaku": 18131,
+        "reply": 3197,
+        "favorite": 19718,
+        "coin": 26679,
+        "share": 4621,
+        "now_rank": 0,
+        "his_rank": 54,
+        "like": 135334,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "2019在B站做UP主是怎样一种体验？经历了什么？又立下了哪些flag呢~？现在将这份感动分享给你！2020，欢迎更多的人加入UP主大家庭，一起体验创作的快乐！邀请好友成为UP主，参加#UP主激活计划#，还有大会员、最高千元奖金等你来领取：https://member.bilibili.com/studio/activate/web/invite",
+    "cid": 133689072,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 133689072,
+            "page": 1,
+            "from": "vupload",
+            "part": "UP主激活计划-2",
+            "duration": 276,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 37090048,
+            "title": "UP主",
+            "name": "哔哩哔哩创作中心",
+            "face": "https://i1.hdslb.com/bfs/face/c6712277697434a6dc40c0185c0108c39b2fc6fa.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1960214400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1624118400
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩创作中心官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 8358655,
+            "label_style": 0
+        },
+        {
+            "mid": 9824766,
+            "title": "参演",
+            "name": "敬汉卿",
+            "face": "https://i0.hdslb.com/bfs/face/fd8d7ad17af295f7c4256959705f009c5f67e9c6.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1664035200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2020百大UP主、2019年度弹幕人气奖UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 9594761,
+            "label_style": 0
+        },
+        {
+            "mid": 927587,
+            "title": "参演",
+            "name": "木鱼水心",
+            "face": "http://i2.hdslb.com/bfs/face/e922d9dc09a2d21f1400ad0f02f75ecf1b3575c8.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1868544000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/wltavwHAkL.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/802418ff03911645648b63aa193ba67997b5a0bc.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/8u7iRTPE7N.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1855584000
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 11358729,
+            "label_style": 0
+        },
+        {
+            "mid": 14110780,
+            "title": "参演",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680562,
+            "label_style": 0
+        },
+        {
+            "mid": 8366990,
+            "title": "参演",
+            "name": "-欣小萌-",
+            "face": "https://i2.hdslb.com/bfs/face/60368b5e2850cc569328e8b562d90cb28ce5b2cd.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1723219200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1695398400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2020百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 4519598,
+            "label_style": 0
+        },
+        {
+            "mid": 337521240,
+            "title": "参演",
+            "name": "记录生活的蛋黄派",
+            "face": "https://i0.hdslb.com/bfs/face/9ba6c7a0d3a2ebfe9db2f46219ece98e210d0269.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699804800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、知名美食UP主",
+                "desc": "第一届“bilibili新星计划”获奖者",
+                "type": 0
+            },
+            "follower": 8603670,
+            "label_style": 0
+        },
+        {
+            "mid": 295711424,
+            "title": "参演",
+            "name": "神秘店长A",
+            "face": "https://i2.hdslb.com/bfs/face/cdb729f3b5cb6dc9a0cb7cc9b8c63aebf1bc5b6b.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1720886400000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2019百大UP主",
+                "desc": "代表作《史上最XX的游戏》系列",
+                "type": 0
+            },
+            "follower": 2035288,
+            "label_style": 0
+        },
+        {
+            "mid": 250111460,
+            "title": "参演",
+            "name": "蜡笔和小勋",
+            "face": "https://i2.hdslb.com/bfs/face/8a8812e0a9bb3adda90044ef48830584e1efe7a2.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1731686400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2020百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 3239938,
+            "label_style": 0
+        },
+        {
+            "mid": 11870568,
+            "title": "参演",
+            "name": "拉宏桑",
+            "face": "https://i0.hdslb.com/bfs/face/a630e4e7e06ec2ed50425cbb53bcf6e8ff885726.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1698681600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度社会贡献奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 3832940,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 78135967,
+                "type": 3,
+                "desc": "全站排行榜最高第54名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

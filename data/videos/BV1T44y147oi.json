@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1T44y147oi",
+    "aid": 976161662,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/cb1e4cb3dc642fff3443f038aa68160b5bbe8425.jpg",
+    "title": "中美农业的差异，在太空中都肉眼可见【地球知识局】",
+    "pubdate": 1634819083,
+    "ctime": 1634819083,
+    "desc": "地球知识局——012\n地区：中国 美国\n时间是：从人类种地开始",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——012\n地区：中国 美国\n时间是：从人类种地开始",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 473,
+    "mission_id": 166436,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 976161662,
+        "view": 890364,
+        "danmaku": 5969,
+        "reply": 2608,
+        "favorite": 11111,
+        "coin": 6287,
+        "share": 3396,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 32448,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "大家期盼已久的《种地2》终于种出来了，这期我们深入分析了美国大平原农业和我国精耕细作农业的差异，希望大家多多一键三连哦。（需要教学版用于课堂教学的可以私信我们，留下电子邮箱即可）",
+    "cid": 428696990,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76928,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 428696990,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（改）",
+            "duration": 473,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n211021a216u083k7trnxs2z8j25arjq_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

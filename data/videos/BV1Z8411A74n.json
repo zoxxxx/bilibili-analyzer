@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1Z8411A74n",
+    "aid": 223003899,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/cb5a626d3b2ac73007c8dce768646d5896d3d95a.jpg",
+    "title": "棒球运动员为何要刺杀海森堡？【小约翰】",
+    "pubdate": 1674356400,
+    "ctime": 1674202366,
+    "desc": "本篇为小约翰之莫里斯·伯格。\n\n参考资料：\n考夫曼·路易斯1975年出版《莫里斯·伯格：运动员、学者、间谍》\n薇薇安·葛瑞1996年出版《莫里斯·伯格：本垒板后的间谍》\n尼古拉斯·戴维道夫1994年出版《捕手是个间谍：莫里斯·伯格的神秘生活》\n罗斯福博物馆和图书馆中关于OSS的资料\n中情局总部虚拟之旅网站\n比尔·李2007年出版《棒球怪人：游戏中最有趣、最离谱、最难忘的角色》\nOSS协会网站",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为小约翰之莫里斯·伯格。\n\n参考资料：\n考夫曼·路易斯1975年出版《莫里斯·伯格：运动员、学者、间谍》\n薇薇安·葛瑞1996年出版《莫里斯·伯格：本垒板后的间谍》\n尼古拉斯·戴维道夫1994年出版《捕手是个间谍：莫里斯·伯格的神秘生活》\n罗斯福博物馆和图书馆中关于OSS的资料\n中情局总部虚拟之旅网站\n比尔·李2007年出版《棒球怪人：游戏中最有趣、最离谱、最难忘的角色》\nOSS协会网站",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1680,
+    "mission_id": 1056932,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 223003899,
+        "view": 4818038,
+        "danmaku": 27841,
+        "reply": 5113,
+        "favorite": 46851,
+        "coin": 123849,
+        "share": 9715,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 325377,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为小约翰之莫里斯·伯格。",
+    "cid": 973816077,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 973816077,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1680,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230120a231nqsylhu7plz1ogpfr966s_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 223003899,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 223003899,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

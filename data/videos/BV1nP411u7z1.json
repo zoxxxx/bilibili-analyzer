@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1nP411u7z1",
+    "aid": 305521819,
+    "videos": 1,
+    "tid": 27,
+    "tname": "综合",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/581a06a77e4671230662ee42da61c3e03885b42a.jpg",
+    "title": "你是在什么精神状态下换上这个头像的？【阅片无数特别篇】",
+    "pubdate": 1669456800,
+    "ctime": 1669431410,
+    "desc": "阅片无数话题区：https://t.bilibili.com/topic/7085462/feed\n鉴定评论区精神状态\n更多生活中的凉风请参见凉风小号@凉风不姓凉\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "阅片无数话题区：https://t.bilibili.com/topic/7085462/feed\n鉴定评论区精神状态\n更多生活中的凉风请参见凉风小号@凉风不姓凉\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 603,
+    "mission_id": 1040256,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 305521819,
+        "view": 1242254,
+        "danmaku": 4623,
+        "reply": 10277,
+        "favorite": 7317,
+        "coin": 8687,
+        "share": 668,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 100900,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#阅片无数#\n网友们的头像让我很担心\n还有要求助的小伙伴可以来阅片无数话题区：https://t.bilibili.com/topic/7085462/feed",
+    "cid": 902956310,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 807,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 902956310,
+            "page": 1,
+            "from": "vupload",
+            "part": "你是在什么精神状态下换上这个头像的？【阅片无数特别篇】",
+            "duration": 603,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221125a2mztfsvof76vl1ilrgfwm8sj_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 305521819,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1rN411o7c4",
+    "aid": 503056903,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/fd324a6e7a41857229399b4530cff9e0eb9bc812.jpg",
+    "title": "真的能玩！用硬纸板做出超级马里奥【阅片无数Ⅱ 02】",
+    "pubdate": 1620828002,
+    "ctime": 1620828003,
+    "desc": "第二季01BV17A411575p：听完就笑了！20年前的配音太勇了\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第二季01BV17A411575p：听完就笑了！20年前的配音太勇了\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 960,
+    "mission_id": 20187,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 503056903,
+        "view": 2717785,
+        "danmaku": 14260,
+        "reply": 3702,
+        "favorite": 14688,
+        "coin": 52923,
+        "share": 2264,
+        "now_rank": 0,
+        "his_rank": 11,
+        "like": 235310,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天的#阅片无数#第二季我给你们准备了很多好活，不来看看吗？",
+    "cid": 337364745,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 807,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 337364745,
+            "page": 1,
+            "from": "vupload",
+            "part": "真的能玩！用硬纸板做出超级马里奥【阅片无数Ⅱ 02】",
+            "duration": 960,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 503056903,
+                "type": 3,
+                "desc": "全站排行榜最高第11名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 503056903,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

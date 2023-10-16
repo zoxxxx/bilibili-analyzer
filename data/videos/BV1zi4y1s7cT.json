@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1zi4y1s7cT",
+    "aid": 540852018,
+    "videos": 1,
+    "tid": 178,
+    "tname": "科学·探索·自然",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/12d7c70210cf1e797509a3f6adf6398b7bda684d.jpg",
+    "title": "野外求生的时候用什么擦屁股？【阅片无数特别篇】",
+    "pubdate": 1590897602,
+    "ctime": 1590844224,
+    "desc": "论整活还是你们牛逼，这些问题也太刁钻了\n关注生活中的凉风→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "论整活还是你们牛逼，这些问题也太刁钻了\n关注生活中的凉风→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 911,
+    "redirect_url": "https://www.bilibili.com/bangumi/play/ep327316",
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 0,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 540852018,
+        "view": 3220551,
+        "danmaku": 30016,
+        "reply": 7941,
+        "favorite": 125,
+        "coin": 107944,
+        "share": 20086,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 277020,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "野外求生的时候用什么擦屁股？",
+    "cid": 196859945,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 196859945,
+            "page": 1,
+            "from": "vupload",
+            "part": "野外求生的时候用什么擦屁股？【阅片无数特别篇】",
+            "duration": 911,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

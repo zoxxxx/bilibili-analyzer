@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1cx411W72T",
+    "aid": 12639326,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c31b647b31110446b06413c7e9dbd23ae40e5fba.jpg",
+    "title": "【新番咋了11】请问你掉的是这个哪个UP主？",
+    "pubdate": 1501141210,
+    "ctime": 1501141210,
+    "desc": "BGM列表（简介可以复制）\nいつもの風景から始まる物語\nPneumaticTokyo\nWindfall\n吉井明久\nUnity\nGun's &amp; Roses\nTears Don't Fall\nRiver flows in you\n狂赌之渊ED",
+    "desc_v2": [
+        {
+            "raw_text": "BGM列表（简介可以复制）\nいつもの風景から始まる物語\nPneumaticTokyo\nWindfall\n吉井明久\nUnity\nGun's &amp; Roses\nTears Don't Fall\nRiver flows in you\n狂赌之渊ED",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 732,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 12639326,
+        "view": 832436,
+        "danmaku": 13521,
+        "reply": 2596,
+        "favorite": 20474,
+        "coin": 40914,
+        "share": 1714,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 3149,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 20791020,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 20791020,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 732,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 12639326,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

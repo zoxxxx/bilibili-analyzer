@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1ka411Y7i3",
+    "aid": 213465462,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/667bb2d499311eb20192802ba4640ba2fa8bf24e.jpg",
+    "title": "养活中国14亿人口的底层地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1650545184,
+    "ctime": 1650545184,
+    "desc": "地球知识局——028\n地区：东亚\n时间：从古至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——028\n地区：东亚\n时间：从古至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 578,
+    "mission_id": 463414,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 213465462,
+        "view": 968219,
+        "danmaku": 3174,
+        "reply": 1373,
+        "favorite": 21554,
+        "coin": 14795,
+        "share": 5374,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 42183,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "肝了半个多月，我们终于把这期搞出来了！之前我们讲过一期欧洲的生命线（北大西洋暖流），今天这期是中国的生命线！是这个系列的第二集，下个月我们还会出第三集，希望大家多多一键三连，感谢大家的支持！！！",
+    "cid": 581623974,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 581623974,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（有贴片）",
+            "duration": 578,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220421qn3on8u8bztrw8mtv8fzzulwi_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 213465462,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

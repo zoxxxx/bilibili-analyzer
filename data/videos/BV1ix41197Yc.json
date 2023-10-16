@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1ix41197Yc",
+    "aid": 57208326,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/a50aa3134b5e7164316f45135dfa620631e492d1.jpg",
+    "title": "请问UP主，这是什么动画难度加强版！【阅片无数02】",
+    "pubdate": 1561860048,
+    "ctime": 1561860051,
+    "desc": "我们又见面了~为什么是又呢！明明昨天才更新！\n\n这次的难度明显高了不少，很多我都没啥把握！（划去）不过幸好我才高八斗，学富五车勉强保住了面子！\n\n快用投币收藏来支持UP主吧！=3333=\n\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "我们又见面了~为什么是又呢！明明昨天才更新！\n\n这次的难度明显高了不少，很多我都没啥把握！（划去）不过幸好我才高八斗，学富五车勉强保住了面子！\n\n快用投币收藏来支持UP主吧！=3333=\n\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 637,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 57208326,
+        "view": 2878462,
+        "danmaku": 22564,
+        "reply": 8100,
+        "favorite": 37881,
+        "coin": 101584,
+        "share": 2075,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 163064,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "请问UP主，这是什么动画难度加强版！阅片无数的请进",
+    "cid": 99898572,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 99898572,
+            "page": 1,
+            "from": "vupload",
+            "part": "请问UP主，这是什么动画难度加强版！阅片无数的请进",
+            "duration": 637,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

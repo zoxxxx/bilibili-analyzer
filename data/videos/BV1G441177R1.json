@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1G441177R1",
+    "aid": 53198845,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/518f6843e2f09dfc1cf50aed962a61a63bfc27ce.jpg",
+    "title": "洗澡的时候肥皂掉了，捡还是不捡？【粉丝问答03】",
+    "pubdate": 1558706454,
+    "ctime": 1558451495,
+    "desc": "这期的回声有点重，想尽了办法都没搞定……惆怅……\n有没有音频dalao指点一下？ \n沙雕UP主微博@凉风Kaze\n往期问答回顾↓↓↓\n第一期av47500089\n第二期av49200653",
+    "desc_v2": [
+        {
+            "raw_text": "这期的回声有点重，想尽了办法都没搞定……惆怅……\n有没有音频dalao指点一下？ \n沙雕UP主微博@凉风Kaze\n往期问答回顾↓↓↓\n第一期av47500089\n第二期av49200653",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 622,
+    "mission_id": 11337,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 53198845,
+        "view": 1063566,
+        "danmaku": 16890,
+        "reply": 3758,
+        "favorite": 18681,
+        "coin": 65539,
+        "share": 2457,
+        "now_rank": 0,
+        "his_rank": 50,
+        "like": 105098,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 93074327,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 93074327,
+            "page": 1,
+            "from": "vupload",
+            "part": "问答",
+            "duration": 622,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 53198845,
+                "type": 3,
+                "desc": "全站排行榜最高第50名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

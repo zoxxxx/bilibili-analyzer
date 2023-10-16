@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1m4411N7fa",
+    "aid": 55161906,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/dc9fa11ad8379c08a006dfcfc5163a62837e91f8.jpg",
+    "title": "只要长得可爱即使是肌肉少女你也喜欢吗？七月新番导视第二波",
+    "pubdate": 1560175206,
+    "ctime": 1560151743,
+    "desc": "第一波导视av54610133\n最后一波新番导视\n还不快点三连来支持一下这个高产UP\n\n本期新番列表：\n拳愿阿修罗\n肌肉少女 哑铃 能举多少公斤\n骚动时节的少女们啊\n女子高中生无所事事\n手品前辈（魔术学姐）\nGIVEN 被赠予的未来\nTRY KNIGHTS\n君主•埃尔梅罗二世事件簿 魔眼收集列车 Grace note\n为了女儿 我说不定连魔王都能干掉\n重来吧，魔王大人！\n异世界超能魔术师\n彼方的阿斯特拉\nCOP CRAFT\nBEM\n街角魔族",
+    "desc_v2": [
+        {
+            "raw_text": "第一波导视av54610133\n最后一波新番导视\n还不快点三连来支持一下这个高产UP\n\n本期新番列表：\n拳愿阿修罗\n肌肉少女 哑铃 能举多少公斤\n骚动时节的少女们啊\n女子高中生无所事事\n手品前辈（魔术学姐）\nGIVEN 被赠予的未来\nTRY KNIGHTS\n君主•埃尔梅罗二世事件簿 魔眼收集列车 Grace note\n为了女儿 我说不定连魔王都能干掉\n重来吧，魔王大人！\n异世界超能魔术师\n彼方的阿斯特拉\nCOP CRAFT\nBEM\n街角魔族",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 662,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 55161906,
+        "view": 1377618,
+        "danmaku": 6938,
+        "reply": 2405,
+        "favorite": 25044,
+        "coin": 41804,
+        "share": 2387,
+        "now_rank": 0,
+        "his_rank": 41,
+        "like": 69195,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "这一期简直都是我想追的番啊！！！还不快点三连来支持一下这个高产UP",
+    "cid": 96489625,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 96489625,
+            "page": 1,
+            "from": "vupload",
+            "part": "新番导视0610",
+            "duration": 662,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 55161906,
+                "type": 3,
+                "desc": "全站排行榜最高第41名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1cT411573g",
+    "aid": 469884567,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2cf21281d96c724537d9ea3e58077d72665b32e3.jpg",
+    "title": "一个美国人如何走遍长城？【小约翰】",
+    "pubdate": 1655094468,
+    "ctime": 1655092415,
+    "desc": "本篇为小约翰之盖洛。\n参考资料：\nP.W.威尔逊1927年出版《改变视野的探索者》\n盖洛游记《扬子江上的美国人》\n盖洛游记《中国的长城》\n盖洛游记《中国十八省府》\n盖洛游记《中国五岳》\n威廉·林赛2009年出版《两个威廉的长城》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为小约翰之盖洛。\n参考资料：\nP.W.威尔逊1927年出版《改变视野的探索者》\n盖洛游记《扬子江上的美国人》\n盖洛游记《中国的长城》\n盖洛游记《中国十八省府》\n盖洛游记《中国五岳》\n威廉·林赛2009年出版《两个威廉的长城》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1297,
+    "mission_id": 668487,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 469884567,
+        "view": 4031064,
+        "danmaku": 26994,
+        "reply": 8176,
+        "favorite": 66533,
+        "coin": 259805,
+        "share": 9963,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 351042,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为小约翰之盖洛。",
+    "cid": 745763156,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 745763156,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-盖洛-成片",
+            "duration": 1297,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220613a21k87ms9cjvpd229nyt2g7ke_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 469884567,
+                "type": 2,
+                "desc": "第169期每周必看",
+                "weekly_recommend_num": 169
+            },
+            {
+                "aid": 469884567,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 469884567,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

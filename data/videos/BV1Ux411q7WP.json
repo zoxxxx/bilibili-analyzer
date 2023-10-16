@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Ux411q7WP",
+    "aid": 12177629,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c31b647b31110446b06413c7e9dbd23ae40e5fba.jpg",
+    "title": "【新番咋了10】还有这种让人贤者模式的番？",
+    "pubdate": 1499999419,
+    "ctime": 1499976875,
+    "desc": "微博@凉风有性胖次君 http://weibo.com/10112015\nBGM列表\nいつもの風景から始まる物語\nMonody（钢琴版）\nWindfall\n幼女幻奏\nRemember The Name\nいつかの、いくつかのきみとのせかい\nTears Don't Fall\nRiver flows in you\nshØut",
+    "desc_v2": [
+        {
+            "raw_text": "微博@凉风有性胖次君 http://weibo.com/10112015\nBGM列表\nいつもの風景から始まる物語\nMonody（钢琴版）\nWindfall\n幼女幻奏\nRemember The Name\nいつかの、いくつかのきみとのせかい\nTears Don't Fall\nRiver flows in you\nshØut",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 753,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 12177629,
+        "view": 1123384,
+        "danmaku": 18006,
+        "reply": 4018,
+        "favorite": 35134,
+        "coin": 32272,
+        "share": 2455,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 2118,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风有性胖次君##搞笑#",
+    "cid": 20075570,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 20075570,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 753,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 12177629,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

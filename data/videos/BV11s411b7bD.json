@@ -1,0 +1,135 @@
+{
+    "bvid": "BV11s411b7bD",
+    "aid": 8174402,
+    "videos": 3,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/bc94d7a430b4b846376731e37ae78388fe898de4.jpg",
+    "title": "【凉风】一言不合就女装！我可能看了假的一拳超人",
+    "pubdate": 1485162327,
+    "ctime": 1497432866,
+    "desc": "番名/一拳超人  BGM/太多了不说 片尾曲/tears don't fall\n微博@凉风有性胖次君 http://weibo.com/10112015",
+    "desc_v2": [
+        {
+            "raw_text": "番名/一拳超人  BGM/太多了不说 片尾曲/tears don't fall\n微博@凉风有性胖次君 http://weibo.com/10112015",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 376,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 8174402,
+        "view": 631812,
+        "danmaku": 3266,
+        "reply": 694,
+        "favorite": 6645,
+        "coin": 7416,
+        "share": 3009,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 4116,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 13444289,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 13444289,
+            "page": 1,
+            "from": "vupload",
+            "part": "竟然女装了！我可能看了假的一拳超人",
+            "duration": 300,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 13444290,
+            "page": 2,
+            "from": "vupload",
+            "part": "正常结局_batch",
+            "duration": 23,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 13444291,
+            "page": 3,
+            "from": "vupload",
+            "part": "真结局_batch",
+            "duration": 53,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

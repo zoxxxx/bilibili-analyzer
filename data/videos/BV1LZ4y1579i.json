@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1LZ4y1579i",
+    "aid": 372273868,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3130304a3329224c1bcc8a7d4c66c0139f36f0f1.jpg",
+    "title": "大 学 传 统 文 化",
+    "pubdate": 1601985642,
+    "ctime": 1601911629,
+    "desc": "让我康康视频里的几个你们都躺枪了吗？\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "让我康康视频里的几个你们都躺枪了吗？\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 358,
+    "mission_id": 14547,
+    "order_id": 10030853,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 372273868,
+        "view": 1840137,
+        "danmaku": 9046,
+        "reply": 2918,
+        "favorite": 6860,
+        "coin": 15268,
+        "share": 2204,
+        "now_rank": 0,
+        "his_rank": 16,
+        "like": 178257,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "开学了#小电视喊你来报道啦#\n今天阿凉带你们看看大学的几样“传统文化”",
+    "cid": 242540791,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 242540791,
+            "page": 1,
+            "from": "vupload",
+            "part": "大 学 传 统 文 化",
+            "duration": 358,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 372273868,
+                "type": 3,
+                "desc": "全站排行榜最高第16名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 372273868,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

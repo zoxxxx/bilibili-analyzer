@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1By4y1u7dX",
+    "aid": 803602368,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/2b123187fae175a3fda22171cf2ee16ffd0196b2.jpg",
+    "title": "诺列加爱不爱听摇滚乐？【奇葩小国22】",
+    "pubdate": 1623383002,
+    "ctime": 1623383002,
+    "desc": "本文参考资料:\n《窃听风云:美国中央情报局》詹静芳.詹幼鹏\n\n《从美军对诺列加的音乐战说起》王建华\n\n《毒品、金钱与死亡:诺列加毒品走私案解密》赵念渝\n\n《巴拿马国防军司令诺列加》王献民\n\n《诺列加的人生悲喜剧》刘滢\n\n《托里霍斯主义浅析》么素珍\n\n《奥马尔.托里霍斯将军》吴永\n\n《美国对巴拿马运河政策研究》柳瑞\n\n《卡特政府在巴拿马运河新条约上的双重政治博弈》杨建国",
+    "desc_v2": [
+        {
+            "raw_text": "本文参考资料:\n《窃听风云:美国中央情报局》詹静芳.詹幼鹏\n\n《从美军对诺列加的音乐战说起》王建华\n\n《毒品、金钱与死亡:诺列加毒品走私案解密》赵念渝\n\n《巴拿马国防军司令诺列加》王献民\n\n《诺列加的人生悲喜剧》刘滢\n\n《托里霍斯主义浅析》么素珍\n\n《奥马尔.托里霍斯将军》吴永\n\n《美国对巴拿马运河政策研究》柳瑞\n\n《卡特政府在巴拿马运河新条约上的双重政治博弈》杨建国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1454,
+    "mission_id": 26363,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 803602368,
+        "view": 9053081,
+        "danmaku": 42505,
+        "reply": 8218,
+        "favorite": 66132,
+        "coin": 255285,
+        "share": 18715,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 347324,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "快马加鞭地来了来了",
+    "cid": 352289080,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 352289080,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰--巴拿马",
+            "duration": 1454,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

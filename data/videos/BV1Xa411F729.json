@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1Xa411F729",
+    "aid": 203094617,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/5d732e9ea8297db3faa999dd3c540d5e583212f5.jpg",
+    "title": "我的悲惨在你之上!【阅片无数动漫篇18】",
+    "pubdate": 1607522406,
+    "ctime": 1607522407,
+    "desc": "第十七期BV1uK41137vx：对雕像老婆唱歌把人唱活了！\n第十六期BV1TD4y1R7sk：骚操作诞生！看到这一幕笑腺爆炸！\n第十五期BV1JA411j76v：你家猫长这样？\n第十四期BV1ma4y1L7jL：我当场裂开！五个魔法少女没有一个是妹子\n第十三期BV1ny4y1C7Xu：在教室里使用时间暂停后\n第十二期BV18p4y1Y7ZF：这动画主角是个屁\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第十七期BV1uK41137vx：对雕像老婆唱歌把人唱活了！\n第十六期BV1TD4y1R7sk：骚操作诞生！看到这一幕笑腺爆炸！\n第十五期BV1JA411j76v：你家猫长这样？\n第十四期BV1ma4y1L7jL：我当场裂开！五个魔法少女没有一个是妹子\n第十三期BV1ny4y1C7Xu：在教室里使用时间暂停后\n第十二期BV18p4y1Y7ZF：这动画主角是个屁\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 768,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 203094617,
+        "view": 3628106,
+        "danmaku": 21422,
+        "reply": 4755,
+        "favorite": 24685,
+        "coin": 81537,
+        "share": 3945,
+        "now_rank": 0,
+        "his_rank": 6,
+        "like": 299199,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本期#阅片无数#动漫篇告诉你什么才叫我的痛苦在你之上\n富婆富佬们，三连，饿饿！",
+    "cid": 264559351,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 264559351,
+            "page": 1,
+            "from": "vupload",
+            "part": "谁敢比我惨啊【阅片无数动漫篇18】",
+            "duration": 768,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 203094617,
+                "type": 3,
+                "desc": "全站排行榜最高第6名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 203094617,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

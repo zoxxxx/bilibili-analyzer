@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1WP4y1o7ei",
+    "aid": 900710602,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/a8013abf9dc0b0eeab2d215d64784da04c93e352.jpg",
+    "title": "省会是不是越大越好？你所在的省更像哪个国家？【地球知识局】",
+    "pubdate": 1663413175,
+    "ctime": 1663413175,
+    "desc": "地球知识局——041\n时间：中世纪-21世纪\n地点：中国-法国-德国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——041\n时间：中世纪-21世纪\n地点：中国-法国-德国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 608,
+    "mission_id": 847998,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 900710602,
+        "view": 1968094,
+        "danmaku": 10070,
+        "reply": 2364,
+        "favorite": 21798,
+        "coin": 8360,
+        "share": 3781,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 71901,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "好久没讲过城市了，今天我们讲的不是某一个城市，而是现代城市的一条隐含定律，在这一定律下，社会资源的分配，在空间上是极度不均的，就像游戏里出生点太烂不如直接GG，现实中出生点一样会极大改变你的人生，虽然人生不能读档，但了解下原理，至少不会在错误的选择上较劲，是吧，好了，上正片！",
+    "cid": 835829596,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 721866,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 835829596,
+            "page": 1,
+            "from": "vupload",
+            "part": "省会是不是越大越好？你所在的省更像哪个国家？【地球知识局】",
+            "duration": 608,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220917qn2eafiwdql1qmbpp3pqm2y71_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 900710602,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

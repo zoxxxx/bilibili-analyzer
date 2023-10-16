@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1YZ4y1w7fU",
+    "aid": 374679570,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/dab318e1987378d415393377d119ae6d994219eb.jpg",
+    "title": "师傅，稍微修一下就行【阅片无数动漫篇24】",
+    "pubdate": 1615989606,
+    "ctime": 1615989607,
+    "desc": "第二十三期BV16p4y1H7YF：你管这叫自相矛盾？\n第二十二期BV1vo4y197Lc：花了一天把所有角色认出来了\n第二十一期BV1cV411B7RY：我佛了！孙悟空竟然还打过变形金刚\n第二十期BV1wV411b715：这才是大人该看的二次元英语书\n第十九期BV1ri4y1F7Rg：我麻了! 这动画太离谱了\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第二十三期BV16p4y1H7YF：你管这叫自相矛盾？\n第二十二期BV1vo4y197Lc：花了一天把所有角色认出来了\n第二十一期BV1cV411B7RY：我佛了！孙悟空竟然还打过变形金刚\n第二十期BV1wV411b715：这才是大人该看的二次元英语书\n第十九期BV1ri4y1F7Rg：我麻了! 这动画太离谱了\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 734,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 374679570,
+        "view": 2610014,
+        "danmaku": 1001,
+        "reply": 3620,
+        "favorite": 21759,
+        "coin": 74322,
+        "share": 4063,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 266377,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本期#阅片无数#动漫篇讲的理发这个事，中枪的可以举个手！",
+    "cid": 321996568,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 321996568,
+            "page": 1,
+            "from": "vupload",
+            "part": "动漫篇24整改",
+            "duration": 734,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 374679570,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 374679570,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

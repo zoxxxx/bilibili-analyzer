@@ -1,0 +1,123 @@
+{
+    "bvid": "BV165411u7EB",
+    "aid": 460657446,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/96b31f9fc4c04eb5d4b5e6b9948b4b8e1d721a2d.jpg",
+    "title": "书没白读！我是全村第一个画出祝融真身的人",
+    "pubdate": 1621764249,
+    "ctime": 1621764249,
+    "desc": "祝融是个复杂的角色，既在神话里出现也在史书里出现。各类资料书有些还会互相冲突，因此本视频提供的论据都以视频里出现的原文为准。好好吃饭，也要好好学习！关注凉风，我们一起学点好玩的。\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "祝融是个复杂的角色，既在神话里出现也在史书里出现。各类资料书有些还会互相冲突，因此本视频提供的论据都以视频里出现的原文为准。好好吃饭，也要好好学习！关注凉风，我们一起学点好玩的。\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 559,
+    "mission_id": 20599,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 460657446,
+        "view": 1061760,
+        "danmaku": 4074,
+        "reply": 2142,
+        "favorite": 7043,
+        "coin": 28854,
+        "share": 791,
+        "now_rank": 0,
+        "his_rank": 32,
+        "like": 130404,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "成为学习区UP主第一期，无任何恰饭成分，放心观看",
+    "cid": 343027923,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 343027923,
+            "page": 1,
+            "from": "vupload",
+            "part": "书没白读！我是全村第一个画出祝融真身的人",
+            "duration": 559,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 460657446,
+                "type": 3,
+                "desc": "全站排行榜最高第32名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 460657446,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

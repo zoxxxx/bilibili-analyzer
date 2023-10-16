@@ -1,0 +1,116 @@
+{
+    "bvid": "BV19x411Q7bt",
+    "aid": 9683448,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/721918f5bba85744dac44ac86a998e78e4cb1f45.jpg",
+    "title": "【凉风滑稽】用十几部四月新番连成的滑稽故事：决战黑saber前夜（上）",
+    "pubdate": 1491616820,
+    "ctime": 1497432866,
+    "desc": "本作内容续接上一部滑稽系列视频：av8924209\n滑稽系列\n这是一个靠滑稽自宫引发奇迹的爱情故事av8924209\n为了情人节脱团滑稽也是拼命了然而av8592840\n穿越到未来拯救滑稽dalao！av8338979\n滑稽dalao竟然被人暗杀了！av7993548\n这是一个跌宕起伏的滑稽故事！av7335993\n无限循环的滑稽相遇！av5269752\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：14483912（已满） 550767352（新群）",
+    "desc_v2": [
+        {
+            "raw_text": "本作内容续接上一部滑稽系列视频：av8924209\n滑稽系列\n这是一个靠滑稽自宫引发奇迹的爱情故事av8924209\n为了情人节脱团滑稽也是拼命了然而av8592840\n穿越到未来拯救滑稽dalao！av8338979\n滑稽dalao竟然被人暗杀了！av7993548\n这是一个跌宕起伏的滑稽故事！av7335993\n无限循环的滑稽相遇！av5269752\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：14483912（已满） 550767352（新群）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 515,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 9683448,
+        "view": 403323,
+        "danmaku": 2601,
+        "reply": 1107,
+        "favorite": 5778,
+        "coin": 12458,
+        "share": 1020,
+        "now_rank": 0,
+        "his_rank": 47,
+        "like": 1763,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 16003378,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 16003378,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 515,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 9683448,
+                "type": 3,
+                "desc": "全站排行榜最高第47名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

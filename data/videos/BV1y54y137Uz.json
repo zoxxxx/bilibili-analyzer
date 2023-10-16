@@ -1,0 +1,244 @@
+{
+    "bvid": "BV1y54y137Uz",
+    "aid": 845944075,
+    "videos": 1,
+    "tid": 210,
+    "tname": "手办·模玩",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/051024da903ec5d4ace026c199eefd111654dde1.jpg",
+    "title": "第一次？创作初体验，从入门到放弃。",
+    "pubdate": 1622880000,
+    "ctime": 1622863611,
+    "desc": "哔哩哔哩幻星集特别版手办——【青幻之镰】&【星耀使魔】创作过程大揭秘！第一期",
+    "desc_v2": [
+        {
+            "raw_text": "哔哩哔哩幻星集特别版手办——【青幻之镰】&【星耀使魔】创作过程大揭秘！第一期",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 833,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 845944075,
+        "view": 844394,
+        "danmaku": 3607,
+        "reply": 1588,
+        "favorite": 4272,
+        "coin": 5974,
+        "share": 1466,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 70243,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "凉风创作初体验！从入门到放弃。灵魂画手重现江湖，看影法师如何妙笔生花。",
+    "cid": 348947289,
+    "dimension": {
+        "width": 2560,
+        "height": 1440,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 348947289,
+            "page": 1,
+            "from": "vupload",
+            "part": "第一次？创作初体验，从入门到放弃。",
+            "duration": 833,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 2560,
+                "height": 1440,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 14110780,
+            "title": "UP主",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680561,
+            "label_style": 0
+        },
+        {
+            "mid": 35365327,
+            "title": "视频制作",
+            "name": "bilibiliGoods",
+            "face": "https://i1.hdslb.com/bfs/face/c9c767b660c2c77ca1defa8dcceb346a16b5cb62.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1617897600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩文化消费品牌 bilibiliGoods官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1226054,
+            "label_style": 0
+        },
+        {
+            "mid": 259849771,
+            "title": "参演",
+            "name": "STAR影法师",
+            "face": "http://i1.hdslb.com/bfs/face/42a1704ca482b7b79ecaf2dc6920a98b64e3ddc9.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1695312000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 0,
+                "title": "",
+                "desc": "",
+                "type": -1
+            },
+            "follower": 57262,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 845944075,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Dt411f7Fh",
+    "aid": 33676353,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/8ae40464852115896e016bdd2f0b2600ec0e9767.jpg",
+    "title": "【凉风】扔个技能都要花98个亿？！带你看史上最“烧钱”的动画",
+    "pubdate": 1539345607,
+    "ctime": 1539335771,
+    "desc": "原片：《C 金钱掌控》\n对于喜欢的UP主！我们要怎么对它？\n当然是投币收藏上推荐（举报取关催女装）\n欢迎关注沙雕up的微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "原片：《C 金钱掌控》\n对于喜欢的UP主！我们要怎么对它？\n当然是投币收藏上推荐（举报取关催女装）\n欢迎关注沙雕up的微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 572,
+    "order_id": 3173,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 33676353,
+        "view": 1033532,
+        "danmaku": 3681,
+        "reply": 2247,
+        "favorite": 7385,
+        "coin": 16156,
+        "share": 1007,
+        "now_rank": 0,
+        "his_rank": 32,
+        "like": 33363,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 58961755,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 58961755,
+            "page": 1,
+            "from": "vupload",
+            "part": "1012 C【高清】02_x264",
+            "duration": 572,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 33676353,
+                "type": 3,
+                "desc": "全站排行榜最高第32名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1vx411L7hq",
+    "aid": 16392571,
+    "videos": 1,
+    "tid": 86,
+    "tname": "特摄",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/c834b58f3e6e38dadaebe4868a2f9cad8338a84d.jpg",
+    "title": "【凉风】被屎淹死的奥特曼你见过吗？",
+    "pubdate": 1510909234,
+    "ctime": 1510852583,
+    "desc": "最棒的人都关注了微博@凉风有性胖次君 http://weibo.com/10112015",
+    "desc_v2": [
+        {
+            "raw_text": "最棒的人都关注了微博@凉风有性胖次君 http://weibo.com/10112015",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 708,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 16392571,
+        "view": 1291785,
+        "danmaku": 10282,
+        "reply": 3233,
+        "favorite": 19684,
+        "coin": 28360,
+        "share": 5284,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 18680,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 26745283,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 26745283,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 708,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1R44y1f7Yv",
+    "aid": 986555749,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/d76155b3c9d53787338464aebfd62a469317a3e5.jpg",
+    "title": "不懂英语如何刺探英国情报？【硬核狠人40】",
+    "pubdate": 1665716400,
+    "ctime": 1665647481,
+    "desc": "本篇为硬核狠人之艾丽萨.巴兹纳。\n\n参考资料：\n巴兹纳回忆录《我是西塞罗》\n马克·西蒙斯2014年出版《西塞罗特工：希特勒最好的间谍》\n理查德·怀斯1999年出版《西塞罗间谍事件：二战中德国获取英国机密》\n杰尔·韦斯特1985年出版《谎言的线索：二战间谍神话》\n亚当·乐博2000年出版《幸存的希特勒：第三帝国的选择、腐败和妥协》\n莫伊奇兹的《西塞罗行动》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之艾丽萨.巴兹纳。\n\n参考资料：\n巴兹纳回忆录《我是西塞罗》\n马克·西蒙斯2014年出版《西塞罗特工：希特勒最好的间谍》\n理查德·怀斯1999年出版《西塞罗间谍事件：二战中德国获取英国机密》\n杰尔·韦斯特1985年出版《谎言的线索：二战间谍神话》\n亚当·乐博2000年出版《幸存的希特勒：第三帝国的选择、腐败和妥协》\n莫伊奇兹的《西塞罗行动》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1323,
+    "mission_id": 932586,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 986555749,
+        "view": 5415609,
+        "danmaku": 20143,
+        "reply": 2922,
+        "favorite": 29562,
+        "coin": 93250,
+        "share": 8225,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 257272,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之艾丽萨.巴兹纳。",
+    "cid": 860463974,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 860463974,
+            "page": 1,
+            "from": "vupload",
+            "part": "不懂英语如何刺探英国情报？【硬核狠人40】",
+            "duration": 1323,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n221013qn2gdx41myw0vexw86adjdwpb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 986555749,
+                "type": 2,
+                "desc": "第187期每周必看",
+                "weekly_recommend_num": 187
+            },
+            {
+                "aid": 986555749,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 986555749,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

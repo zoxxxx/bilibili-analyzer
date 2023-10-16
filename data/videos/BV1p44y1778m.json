@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1p44y1778m",
+    "aid": 977631067,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2dfca2c65ba6ace698f6adc2b0fcea2d33b65dd0.jpg",
+    "title": "年 终 总 结",
+    "pubdate": 1640786414,
+    "ctime": 1640786418,
+    "desc": "感谢室友们的出镜，感谢教练和我的声乐老师对我帮助，同时感谢协助我完成脱口秀的硬核喜剧的编剧们，最后我要感谢我的女朋友，当然也要感谢屏幕前支持我的小伙伴们。",
+    "desc_v2": [
+        {
+            "raw_text": "感谢室友们的出镜，感谢教练和我的声乐老师对我帮助，同时感谢协助我完成脱口秀的硬核喜剧的编剧们，最后我要感谢我的女朋友，当然也要感谢屏幕前支持我的小伙伴们。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 366,
+    "mission_id": 257862,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 977631067,
+        "view": 1359901,
+        "danmaku": 11956,
+        "reply": 6051,
+        "favorite": 12389,
+        "coin": 49446,
+        "share": 3163,
+        "now_rank": 0,
+        "his_rank": 27,
+        "like": 173901,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "想对你们说的都在这里了",
+    "cid": 470880659,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 470880659,
+            "page": 1,
+            "from": "vupload",
+            "part": "【凉风】年底了，是时候给你们一个交代了",
+            "duration": 366,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211229a2237g7y9ouxdmg2m6t9fij06_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 977631067,
+                "type": 2,
+                "desc": "第145期每周必看",
+                "weekly_recommend_num": 145
+            },
+            {
+                "aid": 977631067,
+                "type": 3,
+                "desc": "全站排行榜最高第27名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 977631067,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

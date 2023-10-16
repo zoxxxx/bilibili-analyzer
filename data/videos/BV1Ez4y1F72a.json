@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Ez4y1F72a",
+    "aid": 576898626,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/88f78f097f86fd3ff966cbb118b565445e5879f3.jpg",
+    "title": "谁成全了德军的“逃跑计划”？【神奇组织11】",
+    "pubdate": 1696820400,
+    "ctime": 1696766713,
+    "desc": "本篇为神奇组织之海岸司令部。\n\n参考资料：\n克里斯·阿什沃思1992年出版《英国皇家空军海岸司令部：1936-1969年》\n英国皇家空军官网\n约翰·巴克利2018年出版《第二次世界大战中的英国空军海岸司令部》\n安德鲁·亨得利2006年出版《灰姑娘服务：英国皇家空军海岸司令部1939-1945》\n卡尤斯·贝克尔1971年出版《该死的大海：德国海军的战争日记》\n大卫·格雷2015年出版《全德国：皇家海军对抗轴心国战争》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为神奇组织之海岸司令部。\n\n参考资料：\n克里斯·阿什沃思1992年出版《英国皇家空军海岸司令部：1936-1969年》\n英国皇家空军官网\n约翰·巴克利2018年出版《第二次世界大战中的英国空军海岸司令部》\n安德鲁·亨得利2006年出版《灰姑娘服务：英国皇家空军海岸司令部1939-1945》\n卡尤斯·贝克尔1971年出版《该死的大海：德国海军的战争日记》\n大卫·格雷2015年出版《全德国：皇家海军对抗轴心国战争》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1664,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 576898626,
+        "view": 3138230,
+        "danmaku": 17664,
+        "reply": 4057,
+        "favorite": 37043,
+        "coin": 101474,
+        "share": 5588,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 217554,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为神奇组织之海岸司令部。",
+    "cid": 1293044805,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1095498,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1293044805,
+            "page": 1,
+            "from": "vupload",
+            "part": "谁成就了德军的“逃跑计划”？【神奇组织11】",
+            "duration": 1664,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n231008sa5euu19tfin8z2j47vf9xpii_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 576898626,
+                "type": 2,
+                "desc": "第238期每周必看",
+                "weekly_recommend_num": 238
+            },
+            {
+                "aid": 576898626,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 576898626,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

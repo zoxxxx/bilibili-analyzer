@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1w64y1s7Ef",
+    "aid": 762159102,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/84457c9be4cdb8b0fa71beaf2e24c91e5e113f90.jpg",
+    "title": "疯狂开采40年，英国油田被掏空了【地球知识局】",
+    "pubdate": 1628252979,
+    "ctime": 1628252979,
+    "desc": "地球知识局——006\n地区：西欧、英国\n时期：20-21世纪",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——006\n地区：西欧、英国\n时期：20-21世纪",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 425,
+    "mission_id": 63528,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 762159102,
+        "view": 103967,
+        "danmaku": 105,
+        "reply": 133,
+        "favorite": 572,
+        "coin": 392,
+        "share": 84,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3467,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "老铁们，久等了，我们终于开始讲欧洲了！",
+    "cid": 383804462,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 383804462,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（有字幕）",
+            "duration": 425,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n210806a23osb6725wiqiy3onu02y1am_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

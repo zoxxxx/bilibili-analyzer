@@ -1,0 +1,122 @@
+{
+    "bvid": "BV1ca411c76V",
+    "aid": 203117252,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c8ee54fe32100c4898ed0f20cac05887e93bb801.jpg",
+    "title": "绝了！重读小学全年级语文，发现了很多好玩的东西",
+    "pubdate": 1607781607,
+    "ctime": 1607781610,
+    "desc": "小学语文毕业了，开心吗？\n更多生活中的凉风详见微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "小学语文毕业了，开心吗？\n更多生活中的凉风详见微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 657,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 203117252,
+        "view": 3056360,
+        "danmaku": 23033,
+        "reply": 5915,
+        "favorite": 31291,
+        "coin": 149244,
+        "share": 5661,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 349992,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "不整那三年级了，今天我们直接毕业！\n喜欢这个系列的小伙伴多多三连支持一下，还想看什么科目的视频也可以留言告诉我！",
+    "cid": 265724111,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 265724111,
+            "page": 1,
+            "from": "vupload",
+            "part": "绝了！重读小学全年级语文，发现了很多好玩的东西",
+            "duration": 657,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 203117252,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 203117252,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1RG4y1G7qo",
+    "aid": 818296328,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/1f8e9fa399e73190721f8f15e73394582a017e0a.jpg",
+    "title": "人口激增！巴基斯坦如何喂饱2.25亿人？【地球知识局】",
+    "pubdate": 1669981200,
+    "ctime": 1669973946,
+    "desc": "地球知识局——048\n时间：20-21世纪\n地点：巴基斯坦",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——048\n时间：20-21世纪\n地点：巴基斯坦",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 670,
+    "mission_id": 1056932,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 818296328,
+        "view": 440017,
+        "danmaku": 659,
+        "reply": 701,
+        "favorite": 2180,
+        "coin": 2150,
+        "share": 366,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 13013,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "虽然中国人口正在加速冲入老龄化，但世界人口还在快速增长，上个月正式突破80亿，印度是其中的增量大户，但如果比较增速，跟我们很铁的巴基斯坦更是叹为观止，2000年以来增长了惊人的58％，但巴铁吃饭基本依赖一条印度河，他真的能绕开马尔萨斯陷阱么？",
+    "cid": 909900512,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76928,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 909900512,
+            "page": 1,
+            "from": "vupload",
+            "part": "人口激增！巴基斯坦如何喂饱2.25亿人？【地球知识局】",
+            "duration": 670,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n221202a227kijzh5cv3ffm9azhixto6_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

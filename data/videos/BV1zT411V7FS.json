@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1zT411V7FS",
+    "aid": 469774555,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/23d320cfd924dff4b6e20fdb4e074ff8e1d0e2c3.jpg",
+    "title": "完了，差点被小学题难住！高考可咋整哦！【阅片无数Ⅱ 47】",
+    "pubdate": 1654696800,
+    "ctime": 1654696805,
+    "desc": "第二季46BV1ZF411V76X：王心凌：导演，我不行了\n第二季45BV1ku41167Pw：对方球员：裁判，他开挂\n第二季44BV1d54y1f7a3：你怎么知道我在练辟邪剑法？\n第二季43BV1b34y1a7Kh：不写作业会被奥特曼打死哦\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "第二季46BV1ZF411V76X：王心凌：导演，我不行了\n第二季45BV1ku41167Pw：对方球员：裁判，他开挂\n第二季44BV1d54y1f7a3：你怎么知道我在练辟邪剑法？\n第二季43BV1b34y1a7Kh：不写作业会被奥特曼打死哦\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 849,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 469774555,
+        "view": 2266100,
+        "danmaku": 9572,
+        "reply": 3458,
+        "favorite": 13148,
+        "coin": 36810,
+        "share": 1710,
+        "now_rank": 0,
+        "his_rank": 23,
+        "like": 205497,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#阅片无数#\n各位感觉自己考的怎么样？",
+    "cid": 741051752,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 807,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 741051752,
+            "page": 1,
+            "from": "vupload",
+            "part": "完了，差点被小学题难住！高考可咋整哦！【阅片无数Ⅱ 47】",
+            "duration": 849,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220608a238hiamqtcnsdk12rpr2l9cw_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 469774555,
+                "type": 2,
+                "desc": "第168期每周必看",
+                "weekly_recommend_num": 168
+            },
+            {
+                "aid": 469774555,
+                "type": 3,
+                "desc": "全站排行榜最高第23名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 469774555,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

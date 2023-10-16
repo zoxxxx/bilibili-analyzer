@@ -1,0 +1,129 @@
+{
+    "bvid": "BV1RU4y1p737",
+    "aid": 672116504,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/09f573570212bd9f7224e032096b9bbcb92287ff.jpg",
+    "title": "变态狂最耻辱的一天【阅片无数79】",
+    "pubdate": 1615384810,
+    "ctime": 1615384811,
+    "desc": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n第七十八期BV1RV411e7eQ：为什么抓犯人前要先跳舞啊！\n第七十七期BV19K4y1W7Cw：小伙长得太帅，能直接把人帅死！\n第七十六期BV12t4y1z7p8：一根倔强的电线杆\n第七十五期BV1H54y1x7DU：谈恋爱吗？送你坐牢的那种\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n第七十八期BV1RV411e7eQ：为什么抓犯人前要先跳舞啊！\n第七十七期BV19K4y1W7Cw：小伙长得太帅，能直接把人帅死！\n第七十六期BV12t4y1z7p8：一根倔强的电线杆\n第七十五期BV1H54y1x7DU：谈恋爱吗？送你坐牢的那种\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 833,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 672116504,
+        "view": 3612351,
+        "danmaku": 26484,
+        "reply": 5409,
+        "favorite": 26117,
+        "coin": 74933,
+        "share": 4171,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 312494,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天#阅片无数#教各位如何给变态狂暴击！",
+    "cid": 308223191,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 308223191,
+            "page": 1,
+            "from": "vupload",
+            "part": "变态狂最耻辱的一天【阅片无数79】",
+            "duration": 833,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 672116504,
+                "type": 2,
+                "desc": "第103期每周必看",
+                "weekly_recommend_num": 103
+            },
+            {
+                "aid": 672116504,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 672116504,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

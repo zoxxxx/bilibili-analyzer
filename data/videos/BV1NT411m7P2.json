@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1NT411m7P2",
+    "aid": 480331442,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/112a55bf594e5c4407cd60935537bdd9796c04d3.jpg",
+    "title": "史诗级寒潮全面报告：北极龙王横扫美国【地球知识局】",
+    "pubdate": 1673613117,
+    "ctime": 1673613117,
+    "desc": "地球知识局——051\n时间：2022年\n地点：美国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——051\n时间：2022年\n地点：美国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 662,
+    "mission_id": 1203673,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 480331442,
+        "view": 645940,
+        "danmaku": 1337,
+        "reply": 999,
+        "favorite": 4934,
+        "coin": 7247,
+        "share": 1655,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 28181,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《地球操作系统》的第十期出来啦！之前的选题我们大都是讲解地球上的各种原理，比如厄尔尼诺、副高、西风带，这次我们用一个具体案例来还原一次超级寒潮的全过程，依旧干货满满。感谢大家的支持，上正片！",
+    "cid": 964185592,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 964185592,
+            "page": 1,
+            "from": "vupload",
+            "part": "史诗级寒潮全面报告：北极龙王横扫美国【地球知识局】",
+            "duration": 662,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230113a21x35kocwhflc1758toxgrm7_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 480331442,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

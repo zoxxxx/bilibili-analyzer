@@ -1,0 +1,116 @@
+{
+    "bvid": "BV144411h7mE",
+    "aid": 50532781,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/7763f4a040abe5899f1490f4e4e0aed070ebbac4.jpg",
+    "title": "不要死挑战！苦瓜、臭豆腐、芥末和柠檬一起吃是什么感觉？",
+    "pubdate": 1556274301,
+    "ctime": 1556274301,
+    "desc": "是真男人就像我这样恰柠檬啊\n我发誓我再也不吃臭豆腐了！\n给我十万我也......我考虑一下！",
+    "desc_v2": [
+        {
+            "raw_text": "是真男人就像我这样恰柠檬啊\n我发誓我再也不吃臭豆腐了！\n给我十万我也......我考虑一下！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 651,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 50532781,
+        "view": 686427,
+        "danmaku": 11642,
+        "reply": 2912,
+        "favorite": 10193,
+        "coin": 37882,
+        "share": 2803,
+        "now_rank": 0,
+        "his_rank": 42,
+        "like": 55546,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze#小伙将恶魔食材与柠檬混吃，吃完差点暴毙！",
+    "cid": 88452803,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 88452803,
+            "page": 1,
+            "from": "vupload",
+            "part": "恰柠檬",
+            "duration": 651,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 50532781,
+                "type": 3,
+                "desc": "全站排行榜最高第42名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

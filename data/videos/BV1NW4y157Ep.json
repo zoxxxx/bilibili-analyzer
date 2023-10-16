@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1NW4y157Ep",
+    "aid": 947203845,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/d82c509bd679e63322bcebd09bb1d6c17f652981.jpg",
+    "title": "中国现在，非常缺铜！【地球知识局】",
+    "pubdate": 1672659000,
+    "ctime": 1672645022,
+    "desc": "地球知识局——050\n时间：全新世\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——050\n时间：全新世\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 575,
+    "mission_id": 1203673,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 947203845,
+        "view": 2048945,
+        "danmaku": 4533,
+        "reply": 4857,
+        "favorite": 12121,
+        "coin": 5128,
+        "share": 4613,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 66396,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "我局之前出了一期《中国 缺铁》，但作为资源进口大国，缺的又何止这一项，我们在铜方面的对外依存度与铁不相上下，所以今天是战略资源系列的第二期——《中国 缺铜》，依旧干货满满，从这片大地分析我们的铜资源不足在哪，别国的铜又强在哪。话不多说，上正片！",
+    "cid": 947927489,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 947927489,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国现在，非常缺铜！【地球知识局】",
+            "duration": 575,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230102a211kxhprbs66s93uc6nep8o0_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 947203845,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

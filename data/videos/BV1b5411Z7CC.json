@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1b5411Z7CC",
+    "aid": 466128613,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/ebe08870cce7a975feb767d3f5ce92eee34c4441.jpg",
+    "title": "全家老小挑战B站早期入站题",
+    "pubdate": 1644033614,
+    "ctime": 1644033625,
+    "desc": "这才是动漫高手该做的题\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "这才是动漫高手该做的题\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 587,
+    "mission_id": 352192,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 466128613,
+        "view": 1323411,
+        "danmaku": 8479,
+        "reply": 3877,
+        "favorite": 6934,
+        "coin": 15779,
+        "share": 1497,
+        "now_rank": 0,
+        "his_rank": 90,
+        "like": 147460,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "看看谁才是我们寝室的浓度王者！",
+    "cid": 497431515,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 497431515,
+            "page": 1,
+            "from": "vupload",
+            "part": "全家老小挑战B站早期入站题",
+            "duration": 587,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220130a21k8yvdt07p31n2gebivmce0_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 466128613,
+                "type": 3,
+                "desc": "全站排行榜最高第90名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 466128613,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

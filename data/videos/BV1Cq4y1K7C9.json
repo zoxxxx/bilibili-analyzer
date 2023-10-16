@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1Cq4y1K7C9",
+    "aid": 547620075,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/2eef7fcc1b8e101e7cd6715a158f3fb11d1f572f.jpg",
+    "title": "同样是种田，贫富差距咋就这么大？【地球知识局】",
+    "pubdate": 1629983803,
+    "ctime": 1629983804,
+    "desc": "地球知识局——008\n地区：冰岛、丹麦、乌克兰、伊拉克、埃及、坦桑尼亚、印度\n时期：从古至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——008\n地区：冰岛、丹麦、乌克兰、伊拉克、埃及、坦桑尼亚、印度\n时期：从古至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 612,
+    "mission_id": 94887,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 547620075,
+        "view": 131111,
+        "danmaku": 127,
+        "reply": 130,
+        "favorite": 1029,
+        "coin": 1038,
+        "share": 304,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3766,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天我国官方发布了全国可耕地面积最新数据——19.179亿亩。而最近两周来，我们也深入分析了全球十余个地区的农业、耕地状况和社会意义，希望大家能够三连多多支持，奥利给！",
+    "cid": 397316263,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76928,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 397316263,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（改）",
+            "duration": 612,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n210826a210hatvkv6fh9w3hev2tcr47_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1U34y1Z7w7",
+    "aid": 820787498,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/77bc2842ba952db3e072d88bbad8af384307fe60.jpg",
+    "title": "中国现在，非常缺金！【地球知识局】",
+    "pubdate": 1674649800,
+    "ctime": 1674638889,
+    "desc": "地球知识局——052\n时间：全新世\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——052\n时间：全新世\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 665,
+    "mission_id": 1203673,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 820787498,
+        "view": 1048461,
+        "danmaku": 2899,
+        "reply": 2000,
+        "favorite": 6435,
+        "coin": 2932,
+        "share": 1040,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 30901,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "继缺铁、缺铜之后，今天是战略资源系列的第三期——《中国 缺金》，作为一种非常稀有的贵金属，你也缺金我也缺金，全世界都缺金，我国格外需要更多的金储备。为什么黄金如此稀缺？为什么有的国家黄金就特别多？马上就让你搞明白，话不多说，上正片！",
+    "cid": 979433152,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 979433152,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国现在，非常缺金！【地球知识局】",
+            "duration": 665,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230125qn1kda4j4g1uht41ncdva9p5w_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 820787498,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

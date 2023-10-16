@@ -1,0 +1,293 @@
+{
+    "bvid": "BV12r4y1z71t",
+    "aid": 766911980,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c29dbd6168674eb35f349d70def857f0df12a29b.jpg",
+    "title": "很抱歉以这样的方式和你们见面",
+    "pubdate": 1646384404,
+    "ctime": 1646379183,
+    "desc": "网恋有风险，人设随心变\n如果有小伙伴看到96110反诈专线电话，请及时接听，避免财产损失！\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "网恋有风险，人设随心变\n如果有小伙伴看到96110反诈专线电话，请及时接听，避免财产损失！\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 646,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 766911980,
+        "view": 2288696,
+        "danmaku": 8395,
+        "reply": 3171,
+        "favorite": 16466,
+        "coin": 53078,
+        "share": 6532,
+        "now_rank": 0,
+        "his_rank": 23,
+        "like": 221681,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "进 狱 系 男 主",
+    "cid": 541319235,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 541319235,
+            "page": 1,
+            "from": "vupload",
+            "part": "很抱歉以这样的方式和你们见面",
+            "duration": 646,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220304qn1kk6rbii360sq2sgupgol8p_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 14110780,
+            "title": "UP主",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680561,
+            "label_style": 0
+        },
+        {
+            "mid": 1028125818,
+            "title": "参演",
+            "name": "上海检察",
+            "face": "https://i0.hdslb.com/bfs/face/86f002415e2fe832902780fac750e73521430ab3.jpg",
+            "vip": {
+                "type": 0,
+                "status": 0,
+                "due_date": 0,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 4,
+                "title": "上海市人民检察院官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1557,
+            "label_style": 0
+        },
+        {
+            "mid": 401545403,
+            "title": "参演",
+            "name": "警民直通车上海",
+            "face": "http://i2.hdslb.com/bfs/face/31fe2d69642cfa116ae5e4bab848114c146263eb.jpg",
+            "vip": {
+                "type": 0,
+                "status": 0,
+                "due_date": 0,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 4,
+                "title": "上海市公安局官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 91274,
+            "label_style": 0
+        },
+        {
+            "mid": 1870096460,
+            "title": "视频制作",
+            "name": "凉风不姓凉",
+            "face": "https://i2.hdslb.com/bfs/face/1554433a521acea8e9af64d5365fab69352b967e.jpg",
+            "vip": {
+                "type": 0,
+                "status": 0,
+                "due_date": 0,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 0,
+                "title": "",
+                "desc": "",
+                "type": -1
+            },
+            "follower": 59188,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 766911980,
+                "type": 3,
+                "desc": "全站排行榜最高第23名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 766911980,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1AL4y1G7QK",
+    "aid": 851558189,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/4690b9780cc0d953db1d9614cfc15a6e4f5b5034.jpg",
+    "title": "对于我们国家来说，马六甲海峡为什么难以被替代【球局-地缘】",
+    "pubdate": 1645015156,
+    "ctime": 1645015156,
+    "desc": "地球知识局——021\n地区：东南亚\n时间：17世纪~至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——021\n地区：东南亚\n时间：17世纪~至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 523,
+    "mission_id": 340552,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 851558189,
+        "view": 742358,
+        "danmaku": 1719,
+        "reply": 487,
+        "favorite": 4339,
+        "coin": 2151,
+        "share": 772,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 13181,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "全球八大海上枢纽中，我们最依赖的马六甲海峡究竟有没有备胎方案呢？",
+    "cid": 510440985,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 510440985,
+            "page": 1,
+            "from": "vupload",
+            "part": "final1",
+            "duration": 523,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220216a238vlyqnngj6dt26trl5ipqb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

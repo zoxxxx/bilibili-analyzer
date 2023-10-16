@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1Gt4y117MH",
+    "aid": 625577566,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b1c14459274d12a7794a4d0762114a62b48d2736.jpg",
+    "title": "你管这叫抢银行？【阅片无数46】",
+    "pubdate": 1588773647,
+    "ctime": 1588684619,
+    "desc": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第四十五期BV1rA41147BN：竟然有人在新闻联播里看动画！\n第四十四期BV1qa4y1x71d：听听这是人说的话？\n第四十三期BV14t4y127yi：男子因造谣自己被警方逮捕而被警方逮捕\n第四十二期BV1uT4y1G7Kw：高中男子一学期谈753个对象？！\n第四十一期BV1Ca4y1t7YG：总觉得这狗哪里不对劲？",
+    "desc_v2": [
+        {
+            "raw_text": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第四十五期BV1rA41147BN：竟然有人在新闻联播里看动画！\n第四十四期BV1qa4y1x71d：听听这是人说的话？\n第四十三期BV14t4y127yi：男子因造谣自己被警方逮捕而被警方逮捕\n第四十二期BV1uT4y1G7Kw：高中男子一学期谈753个对象？！\n第四十一期BV1Ca4y1t7YG：总觉得这狗哪里不对劲？",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 824,
+    "mission_id": 13400,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 625577566,
+        "view": 6536276,
+        "danmaku": 56367,
+        "reply": 11164,
+        "favorite": 62988,
+        "coin": 181771,
+        "share": 13086,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 540427,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "这TM是抢银行？\n想知道这个沙雕劫犯的结局不要错过本期的#阅片无数#",
+    "cid": 187409845,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 187409845,
+            "page": 1,
+            "from": "vupload",
+            "part": "这TM是抢银行？",
+            "duration": 824,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 625577566,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 625577566,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

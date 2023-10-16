@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1F64y1x7h8",
+    "aid": 761854330,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a3aac2de10307b84c4ae77fb14b37ab2aad88356.jpg",
+    "title": "河南特大暴雨，从何而来？【地球知识局】",
+    "pubdate": 1626960102,
+    "ctime": 1626960102,
+    "desc": "地球知识局——004\n地区：中国河南省\n时期：2021年",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——004\n地区：中国河南省\n时期：2021年",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 420,
+    "mission_id": 41608,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 761854330,
+        "view": 194748,
+        "danmaku": 233,
+        "reply": 137,
+        "favorite": 1329,
+        "coin": 1408,
+        "share": 580,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 5598,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "最近河南遭遇特大暴雨，全国人民都很关心，由中国气象科学研究院的专家提供学术支持，我们制作一期相关视频，为大家解答暴雨灾害背后的气象原因",
+    "cid": 374766137,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 374766137,
+            "page": 1,
+            "from": "vupload",
+            "part": "final（最终）",
+            "duration": 420,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n210722a2enf3zpqw3m0530xjrp838s7_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1RX4y1A7dZ",
+    "aid": 716332075,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/81ac79c6bd347647457bcb7c532c233f50927573.jpg",
+    "title": "如何在西非做一个横跳之王？【奇葩小国23】",
+    "pubdate": 1624590973,
+    "ctime": 1624590973,
+    "desc": "本文主要参考资料:\n\n达荷美、贝宁的历史英文维基\n\n \n\n克雷库、马加、 托梅廷、 阿皮蒂的英文维基\n\n \n\n《贝宁政治权力概念的连续性和破裂，1972-2001 年》卡米拉\n\n \n\n《达荷美、贝宁历史》多苏.阿方斯\n\n \n\nhttps://www.britannica.com/biography/Mathieu-Kerekou 不列颠百科上跟克雷库相关的资料明细",
+    "desc_v2": [
+        {
+            "raw_text": "本文主要参考资料:\n\n达荷美、贝宁的历史英文维基\n\n \n\n克雷库、马加、 托梅廷、 阿皮蒂的英文维基\n\n \n\n《贝宁政治权力概念的连续性和破裂，1972-2001 年》卡米拉\n\n \n\n《达荷美、贝宁历史》多苏.阿方斯\n\n \n\nhttps://www.britannica.com/biography/Mathieu-Kerekou 不列颠百科上跟克雷库相关的资料明细",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1215,
+    "mission_id": 26363,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 716332075,
+        "view": 8904831,
+        "danmaku": 30986,
+        "reply": 8534,
+        "favorite": 35839,
+        "coin": 123934,
+        "share": 9361,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 250812,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为奇葩小国之贝宁。",
+    "cid": 435679489,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 435679489,
+            "page": 1,
+            "from": "vupload",
+            "part": "【改】小约翰-贝宁",
+            "duration": 1215,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211103a23bn286e3iivzp3tj7k8lkl1_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

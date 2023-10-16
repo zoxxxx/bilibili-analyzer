@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1oJ411R7As",
+    "aid": 76595745,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/54e77cdf35b8a3a241f1795345210c46e7272468.jpg",
+    "title": "万恶之源！沙雕UP主在群里发的表情包都是从哪来的？【阅片无数特别篇】",
+    "pubdate": 1574481621,
+    "ctime": 1574481628,
+    "desc": "你们喜闻乐见的表情包又来了！\n喜欢的小伙伴别忘了转发点赞投币收藏四连支持UP主哦！\n关注生活中的凉风→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "你们喜闻乐见的表情包又来了！\n喜欢的小伙伴别忘了转发点赞投币收藏四连支持UP主哦！\n关注生活中的凉风→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 434,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 76595745,
+        "view": 3645924,
+        "danmaku": 15874,
+        "reply": 2430,
+        "favorite": 35657,
+        "coin": 96172,
+        "share": 5016,
+        "now_rank": 0,
+        "his_rank": 16,
+        "like": 255641,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "妈的，我愿意干！\n这个沙雕UP主在群里发的表情包都是从哪来的？",
+    "cid": 131017494,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 131017494,
+            "page": 1,
+            "from": "vupload",
+            "part": "万恶之源！沙雕UP主在群里发的表情包都是从哪来的？【阅片无数特别篇】",
+            "duration": 434,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 76595745,
+                "type": 3,
+                "desc": "全站排行榜最高第16名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

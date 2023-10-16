@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1ir4y1d7ru",
+    "aid": 744868750,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/2b24401082f0399014dd9b153f0c56686376bbfb.jpg",
+    "title": "中国到底，缺不缺这俩金属？【地球知识局】",
+    "pubdate": 1692102600,
+    "ctime": 1692094858,
+    "desc": "地球知识局——069\n时间：21世纪\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——069\n时间：21世纪\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 616,
+    "mission_id": 1640753,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 744868750,
+        "view": 224714,
+        "danmaku": 622,
+        "reply": 546,
+        "favorite": 1535,
+        "coin": 1463,
+        "share": 214,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 12572,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "战略资源系列最新一期来了！之前讲的都是中国紧缺的资源，今天讲讲不缺的。在中国，有两种金属因为出口管制而广为人知，镓和锗，这两位都是用于高端制造的稀有金属，我国的产量占了全球很大比例，【但深加工产品又严重依赖西方进口】，可以说是不缺但同时也很缺，今天就来讲讲这两种风口浪尖的资源，上正片！",
+    "cid": 1235072740,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1235072740,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国到底，缺不缺这两种稀有金属？【地球知识局】",
+            "duration": 616,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230815sa2lsgml1kay2w6123soqydlt_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

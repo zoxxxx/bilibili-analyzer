@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1kF411Z71o",
+    "aid": 274709096,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/8c7ff12a0020aa565075330ab00c789355179957.jpg",
+    "title": "加拿大如何被德军攻占？【神奇组织10】",
+    "pubdate": 1691809200,
+    "ctime": 1691755387,
+    "desc": "本篇为神奇组织之加拿大战争金融委员会。\n\n参考资料：\n杰夫·肯森1996年出版《加拿大战争期间的宣传和审查制度》\n杰夫·肯森2004年出版《圣徒、罪人和士兵：加拿大的第二次世界大战》\n加拿大战争金融委员会1943年出版的小册子《税收和储蓄如何帮助我们赢得战争》\n马斯·怀特爵士1921年出版《加拿大战时金融的故事》（主要了解胜利债券的前身）\n乔迪·佩伦2014年出版《爱国共识：团结、士气和温尼伯第二次世界大战》\n安大略档案馆关于委员会的电子档案资料\n加拿大政府出版物网站关于委员会的搜索页\n卡瑟博特·冈宁2004年出版《北湾的家园1939-1945：城市、公民和二战》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为神奇组织之加拿大战争金融委员会。\n\n参考资料：\n杰夫·肯森1996年出版《加拿大战争期间的宣传和审查制度》\n杰夫·肯森2004年出版《圣徒、罪人和士兵：加拿大的第二次世界大战》\n加拿大战争金融委员会1943年出版的小册子《税收和储蓄如何帮助我们赢得战争》\n马斯·怀特爵士1921年出版《加拿大战时金融的故事》（主要了解胜利债券的前身）\n乔迪·佩伦2014年出版《爱国共识：团结、士气和温尼伯第二次世界大战》\n安大略档案馆关于委员会的电子档案资料\n加拿大政府出版物网站关于委员会的搜索页\n卡瑟博特·冈宁2004年出版《北湾的家园1939-1945：城市、公民和二战》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1688,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 274709096,
+        "view": 4267555,
+        "danmaku": 31977,
+        "reply": 7035,
+        "favorite": 46281,
+        "coin": 131206,
+        "share": 10825,
+        "now_rank": 0,
+        "his_rank": 21,
+        "like": 288533,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为神奇组织之加拿大战争金融委员会。",
+    "cid": 1230643126,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1095498,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1230643126,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1688,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230811saw8ii7t5wufskkk0s4413u0l_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 274709096,
+                "type": 3,
+                "desc": "全站排行榜最高第21名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 274709096,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

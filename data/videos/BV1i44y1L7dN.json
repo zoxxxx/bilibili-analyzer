@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1i44y1L7dN",
+    "aid": 978303838,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/eda340f5576dfcee66ed4e29813bc09cc8f0c8ef.jpg",
+    "title": "全国人口只有618人，世界最小神权国家为什么能活到今天？【球局-城市】",
+    "pubdate": 1642595330,
+    "ctime": 1642595330,
+    "desc": "地球知识局——019\n地区：梵蒂冈\n时间：中世纪~至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——019\n地区：梵蒂冈\n时间：中世纪~至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 891,
+    "mission_id": 340552,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 978303838,
+        "view": 89020,
+        "danmaku": 312,
+        "reply": 124,
+        "favorite": 563,
+        "coin": 425,
+        "share": 118,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2804,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "作为世界上领土面积最小的国家，梵蒂冈仅拥有618位公民，但其存在历史已有千年之久。这个独特的国家是如何延续至今的，今天就让我们一起康康这个奇葩的国家。",
+    "cid": 487900304,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 721866,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 487900304,
+            "page": 1,
+            "from": "vupload",
+            "part": "final2",
+            "duration": 891,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220119a23qbr0k6qrfojckrpt4g0li4_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

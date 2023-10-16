@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1UE411C7Le",
+    "aid": 71497480,
+    "videos": 44,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/a7b3dc9e15a4794e636a87ef9067a0c9ac1be61c.jpg",
+    "title": "【互动视频】萌妹子不要钱，四个嘿嘿！",
+    "pubdate": 1571313623,
+    "ctime": 1571306535,
+    "desc": "感谢隔壁的秃头帮忙设计互动流程，我还真不太会搞互动视频\n\n微博：凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "感谢隔壁的秃头帮忙设计互动流程，我还真不太会搞互动视频\n\n微博：凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 520,
+    "order_id": 10012828,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 1,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 71497480,
+        "view": 416568,
+        "danmaku": 4228,
+        "reply": 881,
+        "favorite": 4020,
+        "coin": 9402,
+        "share": 1485,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 51101,
+        "dislike": 0,
+        "evaluation": "9.1分",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "我老凉今天就是要白送你四个前凸后翘的萌妹子，你给我至少进来把妹子领了再走啊！#互动视频##凉风Kaze##搞笑#",
+    "cid": 123888795,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 123888795,
+            "page": 1,
+            "from": "vupload",
+            "part": "开始界面",
+            "duration": 11,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "stein_guide_cid": 99543100,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

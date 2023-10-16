@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1KV4y1678N",
+    "aid": 868831852,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/74b4b6b5bff523f33762d7d9e3b8b1b062d2bd6a.jpg",
+    "title": "中国现在，非常缺铀！【地球知识局】",
+    "pubdate": 1684494026,
+    "ctime": 1684494027,
+    "desc": "地球知识局——061\n时间：21世纪\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——061\n时间：21世纪\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 507,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 868831852,
+        "view": 913839,
+        "danmaku": 2827,
+        "reply": 2092,
+        "favorite": 5882,
+        "coin": 2578,
+        "share": 627,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 35439,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "缺啥系列最新一期来了，之前讲过金、铁、铜、锂，他们无一例外都是大宗商品。今天这位，贸易规模比较小，但“劲儿”非常大！也是之前很多朋友催我们出的，那就是——铀，核武器、核电站都离不开他。本期依旧干货满满，我们话不多说，上正片！",
+    "cid": 1134945243,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1134945243,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国现在，非常缺铀！【地球知识局】",
+            "duration": 507,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230519a21z731chf173zrve6llwbldu_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

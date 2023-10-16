@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1jd4y1D798",
+    "aid": 386361430,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/9fc018f3e30cec9d65e9f51d0fee8e12da7971b5.jpg",
+    "title": "印度超级工程，要把恒河水送到千家万户，干净又卫生！【地球知识局】",
+    "pubdate": 1658838844,
+    "ctime": 1658838845,
+    "desc": "地球知识局——035\n地区：印度\n时间：20-21世纪",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——035\n地区：印度\n时间：20-21世纪",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 566,
+    "mission_id": 668487,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 386361430,
+        "view": 448301,
+        "danmaku": 804,
+        "reply": 510,
+        "favorite": 1917,
+        "coin": 1132,
+        "share": 344,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 16055,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "不少人对恒河水都嗤之以鼻，但在极度缺水的印度，恒河水还真的是几亿人的活命水，而且“团结”的印度人还要把宝贵的水源送到千里之外的同胞手里，如此超级工程也算是一桩“印度梦”了吧，今天我们就来康康《印度超级工程》的第二集——北水南调大计划！",
+    "cid": 785003617,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76856,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 785003617,
+            "page": 1,
+            "from": "vupload",
+            "part": "final",
+            "duration": 566,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220726qn1u41zkxlafrzq1qg3epqw7u_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

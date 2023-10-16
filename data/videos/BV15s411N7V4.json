@@ -1,0 +1,117 @@
+{
+    "bvid": "BV15s411N7V4",
+    "aid": 27704471,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/25a9e3aac7493d41176042bca078f8a5df232c16.jpg",
+    "title": "【凉风】虽然打仗我不行，但是我可以肛道理啊！",
+    "pubdate": 1532692847,
+    "ctime": 1532513264,
+    "desc": "关注up主微博，更多精彩尽在@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "关注up主微博，更多精彩尽在@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 438,
+    "order_id": 2258,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 27704471,
+        "view": 660525,
+        "danmaku": 3337,
+        "reply": 1455,
+        "favorite": 2467,
+        "coin": 7448,
+        "share": 725,
+        "now_rank": 0,
+        "his_rank": 29,
+        "like": 16218,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze#我如果出生在三国，那绝壁是个枭雄级的人物！",
+    "cid": 47819329,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 47819329,
+            "page": 1,
+            "from": "vupload",
+            "part": "我很牛逼",
+            "duration": 438,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 27704471,
+                "type": 3,
+                "desc": "全站排行榜最高第29名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

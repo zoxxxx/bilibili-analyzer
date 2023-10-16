@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1Dx411R7Hy",
+    "aid": 56893042,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/3ade66ea4cbc9d070fc6bb8b25e50ab8e0c141a6.jpg",
+    "title": "异世界疯狂撩妹！对面竟然是块钢板？这也太惨了吧！",
+    "pubdate": 1561636808,
+    "ctime": 1561553576,
+    "desc": "微博@凉风kaze \n\n寻找伊芙琳的地址\nhttps://game.bilibili.com/finalgear/",
+    "desc_v2": [
+        {
+            "raw_text": "微博@凉风kaze \n\n寻找伊芙琳的地址\nhttps://game.bilibili.com/finalgear/",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 491,
+    "order_id": 10002991,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 56893042,
+        "view": 1049168,
+        "danmaku": 6536,
+        "reply": 1578,
+        "favorite": 6643,
+        "coin": 13520,
+        "share": 1580,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 43823,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "异世界疯狂撩妹！对面竟然是块钢板？虽然很惨，但还是要笑出声！哈哈哈哈哈哈哈哈！",
+    "cid": 99539183,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 99539183,
+            "page": 1,
+            "from": "vupload",
+            "part": "异世界疯狂撩妹！对面竟然是块钢板？这也太惨了吧！",
+            "duration": 491,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

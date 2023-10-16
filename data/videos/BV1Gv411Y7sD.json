@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1Gv411Y7sD",
+    "aid": 246788522,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b055976e4f3d1e7825cde9ede51457ccc3096f83.jpg",
+    "title": "看完立省1000集！名侦探柯南主线最新总结！",
+    "pubdate": 1613880018,
+    "ctime": 1613880033,
+    "desc": "想看更详细的主线解说,可以看up主之前做的视频\n柯南主线剧情回顾解说丨其一 BV1Cx411s7U5\n柯南20多年主线剧情回顾丨其二丨水无怜奈篇 BV1ex411G7J8\n柯南20多年主线剧情回顾丨其三丨波本篇丨神秘列车篇 BV1Dx411g7c3\n柯南TV动画主线剧情回顾丨其四丨朗姆篇 BV1tx41137wx\n柯南主线剧情回顾|其五|BOSS揭晓篇 BV134411V7a4",
+    "desc_v2": [
+        {
+            "raw_text": "想看更详细的主线解说,可以看up主之前做的视频\n柯南主线剧情回顾解说丨其一 BV1Cx411s7U5\n柯南20多年主线剧情回顾丨其二丨水无怜奈篇 BV1ex411G7J8\n柯南20多年主线剧情回顾丨其三丨波本篇丨神秘列车篇 BV1Dx411g7c3\n柯南TV动画主线剧情回顾丨其四丨朗姆篇 BV1tx41137wx\n柯南主线剧情回顾|其五|BOSS揭晓篇 BV134411V7a4",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 686,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 246788522,
+        "view": 3200690,
+        "danmaku": 8444,
+        "reply": 6267,
+        "favorite": 31632,
+        "coin": 63862,
+        "share": 11146,
+        "now_rank": 0,
+        "his_rank": 6,
+        "like": 261801,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "看完立省1000集！名侦探柯南主线最新总结！\n心疼琴酒的请给这个视频一个三连，你们的爱是给酒厂莫大的鼓励",
+    "cid": 300562882,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 300562882,
+            "page": 1,
+            "from": "vupload",
+            "part": "看完立省1000集！名侦探柯南主线最新总结！",
+            "duration": 686,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 246788522,
+                "type": 3,
+                "desc": "全站排行榜最高第6名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 246788522,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1sW4y1a7uU",
+    "aid": 941667482,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/70a1066624732f4e78c5654ae275c28e835ca77d.jpg",
+    "title": "四川盆地独特气候的地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1659874320,
+    "ctime": 1659863538,
+    "desc": "地球知识局——037\n地区：中国-四川\n时间：21世纪",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——037\n地区：中国-四川\n时间：21世纪",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 456,
+    "mission_id": 668537,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 941667482,
+        "view": 341424,
+        "danmaku": 2039,
+        "reply": 675,
+        "favorite": 3118,
+        "coin": 1685,
+        "share": 1350,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 11841,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "温馨提示：过量饮酒，有害健康",
+        "vt": 0
+    },
+    "dynamic": "中国在以前曾有很多地方被称为“天府之国”，如今“天府之国”主要指四川盆地。土地肥沃，气候温和，雨量充沛，这是四川盆地沃野千里的基础地理条件。而独特气候的背后，离不开地球操作系统的整体作用。",
+    "cid": 796378642,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 796378642,
+            "page": 1,
+            "from": "vupload",
+            "part": "final1",
+            "duration": 456,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220807qnd8q3ju7eo7lt37xijpng20p_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

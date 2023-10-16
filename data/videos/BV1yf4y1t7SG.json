@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1yf4y1t7SG",
+    "aid": 291324667,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/285944592da6b37409a450a8fa3654308be613dc.jpg",
+    "title": "公开处刑！up主的毕业迷惑行为大赏",
+    "pubdate": 1624629613,
+    "ctime": 1624606393,
+    "desc": "祝所有的毕业生们毕业快乐！\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "祝所有的毕业生们毕业快乐！\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 539,
+    "mission_id": 39408,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 291324667,
+        "view": 2331660,
+        "danmaku": 14621,
+        "reply": 6003,
+        "favorite": 12893,
+        "coin": 39487,
+        "share": 1955,
+        "now_rank": 0,
+        "his_rank": 11,
+        "like": 245162,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "公开处刑！up主的毕业迷惑行为大赏\n#这波毕业双击999#",
+    "cid": 359412330,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 359412330,
+            "page": 1,
+            "from": "vupload",
+            "part": "公开处刑！up主的毕业迷惑行为大赏",
+            "duration": 539,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 291324667,
+                "type": 3,
+                "desc": "全站排行榜最高第11名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 291324667,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Qb411G7KM",
+    "aid": 49815511,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/e58f3cf9a601c19e4f7918c9517cc19a1fc35b0a.jpg",
+    "title": "Skr~用大碗宽面的方式解说四月新番【新番咋了第二季04】",
+    "pubdate": 1555679313,
+    "ctime": 1555679313,
+    "desc": "有小伙伴私信让我恰柠檬，让我康康有多少好事的。\n每一万收藏我就恰一个柠檬，拍视频为证！\n你能满血秒我？\n\n微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "有小伙伴私信让我恰柠檬，让我康康有多少好事的。\n每一万收藏我就恰一个柠檬，拍视频为证！\n你能满血秒我？\n\n微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 509,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 49815511,
+        "view": 992073,
+        "danmaku": 5727,
+        "reply": 2158,
+        "favorite": 30020,
+        "coin": 90814,
+        "share": 2265,
+        "now_rank": 0,
+        "his_rank": 10,
+        "like": 95155,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "有小伙伴私信让我恰柠檬，让我康康有多少好事的。\n每一万收藏我就恰一个柠檬，拍视频为证！\n你能满血秒我？",
+    "cid": 87250154,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 87250154,
+            "page": 1,
+            "from": "vupload",
+            "part": "xfzl",
+            "duration": 509,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 49815511,
+                "type": 3,
+                "desc": "全站排行榜最高第10名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

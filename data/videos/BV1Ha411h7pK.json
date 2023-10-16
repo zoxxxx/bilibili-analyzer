@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1Ha411h7pK",
+    "aid": 211958605,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/f3c2528e2b62cbf7d3cf64be5c6b7e46d52433c3.jpg",
+    "title": "非洲的赌债应该怎么还？【奇葩小国34】",
+    "pubdate": 1646374879,
+    "ctime": 1646374880,
+    "desc": "本篇为奇葩小国之加蓬（下）。\n\n参考资料：\n加蓬政府官网（含国家档案馆电子资料）\n休伯特·德尚《加蓬15年》\n亚历山大·吉斯2004年出版《法国行政人员眼中“土著领袖”的演变：1922-1967 年，莱昂姆巴和加蓬参与地方权力方式的变化》\n邦戈的脸书\n巴黎大学期刊《加蓬的政治共识，从 1960 年至今》\n法新社为老邦戈制作的年表《执政41年》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为奇葩小国之加蓬（下）。\n\n参考资料：\n加蓬政府官网（含国家档案馆电子资料）\n休伯特·德尚《加蓬15年》\n亚历山大·吉斯2004年出版《法国行政人员眼中“土著领袖”的演变：1922-1967 年，莱昂姆巴和加蓬参与地方权力方式的变化》\n邦戈的脸书\n巴黎大学期刊《加蓬的政治共识，从 1960 年至今》\n法新社为老邦戈制作的年表《执政41年》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1212,
+    "mission_id": 463399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 211958605,
+        "view": 10670120,
+        "danmaku": 38425,
+        "reply": 9071,
+        "favorite": 41216,
+        "coin": 136815,
+        "share": 9516,
+        "now_rank": 0,
+        "his_rank": 10,
+        "like": 310857,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为奇葩小国之加蓬（下）。",
+    "cid": 541329648,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 541329648,
+            "page": 1,
+            "from": "vupload",
+            "part": "【B站】小约翰-加蓬下",
+            "duration": 1212,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220304a2z4m5pr39t8hc3ickft5gjxi_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 211958605,
+                "type": 2,
+                "desc": "第155期每周必看",
+                "weekly_recommend_num": 155
+            },
+            {
+                "aid": 211958605,
+                "type": 3,
+                "desc": "全站排行榜最高第10名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 211958605,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

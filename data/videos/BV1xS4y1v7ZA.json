@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1xS4y1v7ZA",
+    "aid": 727623740,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/d3061b7f83a5a36ce615b43b085cf5c22cb24a6f.jpg",
+    "title": "阿妮亚：爹强妈猛我无敌！在线暴揍UP主！",
+    "pubdate": 1655524843,
+    "ctime": 1655524866,
+    "desc": "你们觉得我这暗杀技术能打几分？\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "你们觉得我这暗杀技术能打几分？\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 295,
+    "mission_id": 646959,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 727623740,
+        "view": 853290,
+        "danmaku": 838,
+        "reply": 773,
+        "favorite": 3153,
+        "coin": 9812,
+        "share": 513,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 83934,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "我快被打死了！",
+    "cid": 749449533,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 446509,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 749449533,
+            "page": 1,
+            "from": "vupload",
+            "part": "阿妮亚：爹强妈猛我无敌！在线暴揍UP主！",
+            "duration": 295,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220618a2dlw3radoy4mi32w52ijkf90_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 727623740,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,300 @@
+{
+    "bvid": "BV1BL411379J",
+    "aid": 463970924,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/18ced63b8d344041e8c2e0c30f8d8e2d3f7cc239.jpg",
+    "title": "早知道消防队这么玩我就不来了",
+    "pubdate": 1636430401,
+    "ctime": 1635995305,
+    "desc": "消防员真的太强了，不愧是要从死神手里抢人的男人！如果你们喜欢这种类型的体验视频请记得多多三连哦！\n更多消防员相关内容可以订阅https://b23.tv/d7YPTy \n#B站蓝朋友图鉴#",
+    "desc_v2": [
+        {
+            "raw_text": "消防员真的太强了，不愧是要从死神手里抢人的男人！如果你们喜欢这种类型的体验视频请记得多多三连哦！\n更多消防员相关内容可以订阅https://b23.tv/d7YPTy \n#B站蓝朋友图鉴#",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 554,
+    "mission_id": 212803,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 463970924,
+        "view": 1661343,
+        "danmaku": 8320,
+        "reply": 3000,
+        "favorite": 25645,
+        "coin": 134051,
+        "share": 7086,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 216259,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "消防员真的太强了，不愧是要从死神手里抢人的男人！如果你们喜欢这种类型的体验视频请记得多多三连哦！",
+    "cid": 435758636,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 435758636,
+            "page": 1,
+            "from": "vupload",
+            "part": "早知道消防队这么玩我就不来了",
+            "duration": 554,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211103a23i41i0bn7dd481ll0x0azs9_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 14110780,
+            "title": "UP主",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680562,
+            "label_style": 0
+        },
+        {
+            "mid": 1331484300,
+            "title": "参演",
+            "name": "中国消防",
+            "face": "https://i0.hdslb.com/bfs/face/1b1f5375d18d9715eab30e3b7fc7a8d9c26214b7.jpg",
+            "vip": {
+                "type": 0,
+                "status": 0,
+                "due_date": 0,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 4,
+                "title": "国家消防救援局官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 221692,
+            "label_style": 0
+        },
+        {
+            "mid": 290573666,
+            "title": "参演",
+            "name": "中国森林消防",
+            "face": "https://i2.hdslb.com/bfs/face/a63d146f5c542efbe4eeb4d815e3212344e4eae0.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1774972800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1727712000
+            },
+            "official": {
+                "role": 4,
+                "title": "国家消防救援局官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 401021,
+            "label_style": 0
+        },
+        {
+            "mid": 393331099,
+            "title": "参演",
+            "name": "上海消防",
+            "face": "http://i1.hdslb.com/bfs/face/2744bcadccaaeddb6066a599eefe1cbdeef0458e.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1550764800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 4,
+                "title": "上海市消防救援总队官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 48319,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 463970924,
+                "type": 2,
+                "desc": "第138期每周必看",
+                "weekly_recommend_num": 138
+            },
+            {
+                "aid": 463970924,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 463970924,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

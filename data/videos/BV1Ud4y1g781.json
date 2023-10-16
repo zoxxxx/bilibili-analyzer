@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1Ud4y1g781",
+    "aid": 345298545,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/04316a762cdc57c6419582e4f0ef6c125ca34947.jpg",
+    "title": "沙特超级工程！把一百万人装进一座沙漠新城，怎么搞？【地球知识局】",
+    "pubdate": 1662380113,
+    "ctime": 1662379761,
+    "desc": "地球知识局——040\n时间：2019 - 未来\n地点：沙特阿拉伯\n\n从杭州到利雅得，跨越7500海里，中国的云技术与智慧城市经验是如何在沙特阿拉伯开枝散叶的？",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——040\n时间：2019 - 未来\n地点：沙特阿拉伯\n\n从杭州到利雅得，跨越7500海里，中国的云技术与智慧城市经验是如何在沙特阿拉伯开枝散叶的？",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 340,
+    "mission_id": 847998,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 345298545,
+        "view": 179513,
+        "danmaku": 334,
+        "reply": 162,
+        "favorite": 740,
+        "coin": 409,
+        "share": 303,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 6035,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "沙特，中东第一大国，也是第一土壕国，因挥金如土而出名。但石油铁饭碗不可能吃一万年，所以沙特也要搞搞多种经营，而且都是高端范儿未来范儿，争取再富五百年。最近又搞了个大动作，是一座科幻感十足的沙漠城市，但难度很大，且不论硬件，软件都很难搞，看来还是得跟东方基建狂魔学习一个。话不多说，上正片！",
+    "cid": 824672321,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76856,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 824672321,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 340,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220905qn38w93xko1o19u31swvl1gxv_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

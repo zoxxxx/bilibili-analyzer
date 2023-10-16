@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1P5411L78A",
+    "aid": 457523078,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/7195601d765218b27f5dcaa5d1f4dde8f38f0694.jpg",
+    "title": "学生复仇数学老师，逼其两小时做完整本习题【阅片无数70】",
+    "pubdate": 1603893602,
+    "ctime": 1603893604,
+    "desc": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第六十九期BV1Jy4y1B7Pj：全站应该没几个人看过这全员变态的日剧\n第六十八期BV1zf4y1B7WE：三小时从单身到离异\n第六十七期BV1dp4y1a7MH：什么剧？穷得挤洗菜池子\n第六十六期BV1Ct4y1q7nH：据说这片让无数男孩一夜长大\n第六十五期BV1oZ4y1N7fY：我又上电视了！！！\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第六十九期BV1Jy4y1B7Pj：全站应该没几个人看过这全员变态的日剧\n第六十八期BV1zf4y1B7WE：三小时从单身到离异\n第六十七期BV1dp4y1a7MH：什么剧？穷得挤洗菜池子\n第六十六期BV1Ct4y1q7nH：据说这片让无数男孩一夜长大\n第六十五期BV1oZ4y1N7fY：我又上电视了！！！\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 697,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 457523078,
+        "view": 3137581,
+        "danmaku": 16216,
+        "reply": 2563,
+        "favorite": 18193,
+        "coin": 58142,
+        "share": 2949,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 257023,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天#阅片无数#里这个学生的操作简直丧心病狂！\n10月就要过去了卑微阿鸡在线求个三连",
+    "cid": 250123299,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 250123299,
+            "page": 1,
+            "from": "vupload",
+            "part": "学生复仇数学老师，逼其两小时做完整本习题【阅片无数70】",
+            "duration": 697,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 457523078,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 457523078,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

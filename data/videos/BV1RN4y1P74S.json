@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1RN4y1P74S",
+    "aid": 901097219,
+    "videos": 1,
+    "tid": 251,
+    "tname": "三农",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/610f6d045d2bb4d17ad3fb27885ba4e82f9281ee.jpg",
+    "title": "实地探访，云南西双版纳这个村，有何特别之处？【地球知识局】",
+    "pubdate": 1664452800,
+    "ctime": 1664441913,
+    "desc": "地球知识局——042\n时间：2021年8月 - 今\n地点：中国 云南 西双版纳",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——042\n时间：2021年8月 - 今\n地点：中国 云南 西双版纳",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 282,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 901097219,
+        "view": 127090,
+        "danmaku": 81,
+        "reply": 89,
+        "favorite": 284,
+        "coin": 191,
+        "share": 92,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2506,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "大家好，今天出一期外勤节目，这次我们去西双版纳啦，提到西双版纳你们估计想到的都是雨林，以及雨林里的各种热带动物植物，但西双版纳州可是有着140万人口，而且很多人分散居住在山区中的各个村子里，这次我们就是去探访其中一个叫倒淌箐的村子，据说当地在一年内搞了一番从里到外的大改造，从生计来源到精神面貌都大变样了。话不多说，上正片！",
+    "cid": 846761124,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 846761124,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 282,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220929a22casnwfb12rmfvfo7y2or14_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

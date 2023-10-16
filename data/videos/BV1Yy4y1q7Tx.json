@@ -1,0 +1,128 @@
+{
+    "bvid": "BV1Yy4y1q7Tx",
+    "aid": 800424964,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/2f860e2fd4965be7c66c9d4f8f8ab6a4d1a244a7.jpg",
+    "title": "绝了！重读一年级语文发现很多好玩的东西",
+    "pubdate": 1606572018,
+    "ctime": 1606572020,
+    "desc": "唉，小学时候的天真不在，我脏了！\n更多生活中的凉风详见微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "唉，小学时候的天真不在，我脏了！\n更多生活中的凉风详见微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 604,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 800424964,
+        "view": 5642921,
+        "danmaku": 106501,
+        "reply": 11044,
+        "favorite": 78599,
+        "coin": 402564,
+        "share": 22066,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 703763,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "绝了！重读一年级语文发现很多好玩的东西\n本期视频要是勾起各位老逼们的回忆别忘了一键三连支持下哦！",
+    "cid": 260549754,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 260549754,
+            "page": 1,
+            "from": "vupload",
+            "part": "绝了！重读一年级语文发现很多好玩的东西",
+            "duration": 604,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 800424964,
+                "type": 2,
+                "desc": "第89期每周必看",
+                "weekly_recommend_num": 89
+            },
+            {
+                "aid": 800424964,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 800424964,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

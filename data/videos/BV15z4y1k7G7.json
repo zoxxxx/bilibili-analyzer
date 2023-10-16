@@ -1,0 +1,107 @@
+{
+    "bvid": "BV15z4y1k7G7",
+    "aid": 585372210,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b95eb262ef828bfa3a45483b99f498573f6d3f41.jpg",
+    "title": "女粉竟然安利我看这个？",
+    "pubdate": 1605326401,
+    "ctime": 1605326414,
+    "desc": "为什么我一个直男会看得这么开心？\n更多生活中的凉风详见微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "为什么我一个直男会看得这么开心？\n更多生活中的凉风详见微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 600,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 585372210,
+        "view": 2294373,
+        "danmaku": 19643,
+        "reply": 6805,
+        "favorite": 20452,
+        "coin": 52107,
+        "share": 26570,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 226487,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "看这片的时候我一直在笑都没停过！\n三连不是用来鼓励你最爱的凉仔的吗！",
+    "cid": 255543779,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 255543779,
+            "page": 1,
+            "from": "vupload",
+            "part": "女粉竟然安利我看这个",
+            "duration": 600,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

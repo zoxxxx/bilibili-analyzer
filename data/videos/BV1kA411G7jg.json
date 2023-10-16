@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1kA411G7jg",
+    "aid": 333100197,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/0a17e8e622153ddb573de77313839996a18a88cc.jpg",
+    "title": "古 巴 人 民 真 蒸 汽【奇葩小国19】",
+    "pubdate": 1620879389,
+    "ctime": 1620879389,
+    "desc": "本文主要参考资料:\n\n《窃听风云:美国中央情报局》詹静芳.詹幼鹏\n\n《猪湾事件与古巴共产主义道路选择》朱大伟\n\n《从洛佩斯到猪湾事件:美国对古巴政策的演变》袁灿兴\n\n《猪湾事件前后中央情报局情报失误评析》钱峰\n\n《刺杀卡斯特罗》徐世澄\n\n《苏联在古巴导弹危机中的隐蔽行动探析》高庆军\n\n《勃列日涅夫时期苏联对古巴推行的扩张政策》郑迪\n\n《古巴经济模式更新:十年回顾与反思》里卡多.托雷斯.佩雷兹",
+    "desc_v2": [
+        {
+            "raw_text": "本文主要参考资料:\n\n《窃听风云:美国中央情报局》詹静芳.詹幼鹏\n\n《猪湾事件与古巴共产主义道路选择》朱大伟\n\n《从洛佩斯到猪湾事件:美国对古巴政策的演变》袁灿兴\n\n《猪湾事件前后中央情报局情报失误评析》钱峰\n\n《刺杀卡斯特罗》徐世澄\n\n《苏联在古巴导弹危机中的隐蔽行动探析》高庆军\n\n《勃列日涅夫时期苏联对古巴推行的扩张政策》郑迪\n\n《古巴经济模式更新:十年回顾与反思》里卡多.托雷斯.佩雷兹",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1407,
+    "mission_id": 20599,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 333100197,
+        "view": 12021084,
+        "danmaku": 53900,
+        "reply": 11192,
+        "favorite": 90952,
+        "coin": 267230,
+        "share": 40224,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 386730,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "如何用一个词侮辱美国？古巴。",
+    "cid": 345188312,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 345188312,
+            "page": 1,
+            "from": "vupload",
+            "part": "古巴",
+            "duration": 1407,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

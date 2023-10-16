@@ -1,0 +1,257 @@
+{
+    "bvid": "BV1Z54y1E7HQ",
+    "aid": 846829887,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/cc68a35544ed6b6679375524a6c932999c63a437.jpg",
+    "title": "面对水灾，我们能做什么？",
+    "pubdate": 1626880819,
+    "ctime": 1626880819,
+    "desc": "希望这个视频，可以保护到你。",
+    "desc_v2": [
+        {
+            "raw_text": "希望这个视频，可以保护到你。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 430,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 846829887,
+        "view": 2578470,
+        "danmaku": 5456,
+        "reply": 8089,
+        "favorite": 30831,
+        "coin": 109027,
+        "share": 7832,
+        "now_rank": 0,
+        "his_rank": 6,
+        "like": 303411,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "希望这个视频，可以保护到你。",
+    "cid": 374185019,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 374185019,
+            "page": 1,
+            "from": "vupload",
+            "part": "面对水灾，我们能做什么？",
+            "duration": 430,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n210721a23569rglo1aa2wnx0711kr4a_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 14110780,
+            "title": "UP主",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680561,
+            "label_style": 0
+        },
+        {
+            "mid": 472807480,
+            "title": "策划",
+            "name": "中国长安网",
+            "face": "https://i1.hdslb.com/bfs/face/8b2173ef2a406492217c4ceda645c1273b25ed82.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1649692800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 4,
+                "title": "中央政法委新闻网站",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 881512,
+            "label_style": 0
+        },
+        {
+            "mid": 1534642081,
+            "title": "策划",
+            "name": "学习强国",
+            "face": "https://i1.hdslb.com/bfs/face/d7ea71b8d9b189ee3d37bc742ddd350ca817850d.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1686844800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 5,
+                "title": "“学习强国”学习平台官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 678347,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 846829887,
+                "type": 2,
+                "desc": "第122期每周必看",
+                "weekly_recommend_num": 122
+            },
+            {
+                "aid": 846829887,
+                "type": 3,
+                "desc": "全站排行榜最高第6名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 846829887,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

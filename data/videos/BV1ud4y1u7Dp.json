@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1ud4y1u7Dp",
+    "aid": 346029383,
+    "videos": 1,
+    "tid": 178,
+    "tname": "科学·探索·自然",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a8459520823598d10ae92bd318914b46fa2b64c5.jpg",
+    "title": "实拍山东黄河入海口，这座因石油而生的城市，还是有点其它东西的【地球知识局】",
+    "pubdate": 1664542604,
+    "ctime": 1664542039,
+    "desc": "地球知识局——043\n时间：2022年9月\n地点：黄河沿线",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——043\n时间：2022年9月\n地点：黄河沿线",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 455,
+    "mission_id": 963893,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 346029383,
+        "view": 64664,
+        "danmaku": 142,
+        "reply": 62,
+        "favorite": 271,
+        "coin": 301,
+        "share": 160,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3137,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "黄河之行第一站——山东东营，作为位于黄河入海口的城市，是我们此行的第一站，这里因石油而生，大马路边就能见到“磕头机”，但又不只是石油，快来跟我们一起康康~",
+    "cid": 847916299,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 847916299,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 455,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220930qn36mlcde379lr12fakrjzd8y_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

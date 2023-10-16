@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1Fx41197bt",
+    "aid": 57580280,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/6b1f6c1f67915b938295a84df2451dc7edf67271.jpg",
+    "title": "世界毁灭在即，男主沉迷游戏，最后竟然……真的被BOSS摁在地上打爆狗头",
+    "pubdate": 1562068843,
+    "ctime": 1562063847,
+    "desc": "生活中的凉风请参见→微博@凉风Kaze\n\nPs：缇娜真可爱呀~",
+    "desc_v2": [
+        {
+            "raw_text": "生活中的凉风请参见→微博@凉风Kaze\n\nPs：缇娜真可爱呀~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 516,
+    "order_id": 10006755,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 57580280,
+        "view": 681640,
+        "danmaku": 4459,
+        "reply": 1389,
+        "favorite": 3917,
+        "coin": 6059,
+        "share": 1305,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 30043,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "世界毁灭在即，男主沉迷游戏，最后竟然……真的被BOSS摁在地上打爆狗头",
+    "cid": 100517763,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 100517763,
+            "page": 1,
+            "from": "vupload",
+            "part": "世界毁灭在即，男主沉迷游戏，最后竟然……真的被BOSS摁在地上打爆狗头",
+            "duration": 516,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

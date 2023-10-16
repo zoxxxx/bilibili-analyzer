@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1954y1b7N5",
+    "aid": 845099003,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c287738774579294b4569245768670f444ea9276.jpg",
+    "title": "东非高原会上演一出《你的名字》吗？【奇葩小国16】",
+    "pubdate": 1618112105,
+    "ctime": 1618108782,
+    "desc": "本文主要参考资料:\n\n《欧加登战争时期非洲之角的联盟转换研究》霍龙\n\n《欧加登战争与七十年代中后期美苏关系》潘霄飏\n\n《激战非洲之角:欧加登战争》宋心荣\n\n《血腥战争撕裂非洲之角》邵威\n\n《飞翔在非洲之角上空的北极熊:1977年苏联战略大空运》惠凯",
+    "desc_v2": [
+        {
+            "raw_text": "本文主要参考资料:\n\n《欧加登战争时期非洲之角的联盟转换研究》霍龙\n\n《欧加登战争与七十年代中后期美苏关系》潘霄飏\n\n《激战非洲之角:欧加登战争》宋心荣\n\n《血腥战争撕裂非洲之角》邵威\n\n《飞翔在非洲之角上空的北极熊:1977年苏联战略大空运》惠凯",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1540,
+    "mission_id": 16881,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 845099003,
+        "view": 10560194,
+        "danmaku": 49514,
+        "reply": 10081,
+        "favorite": 71441,
+        "coin": 284623,
+        "share": 20893,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 342050,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "一定要看到后半段",
+    "cid": 322484275,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 322484275,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-索马里",
+            "duration": 1540,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

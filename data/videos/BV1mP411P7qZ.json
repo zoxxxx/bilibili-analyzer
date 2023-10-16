@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1mP411P7qZ",
+    "aid": 304109155,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/55aa9f9ec1e7c7cec699eb3053196ccdc397d6a3.jpg",
+    "title": "地表最大干旱区的底层地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1665576900,
+    "ctime": 1665570061,
+    "desc": "地球知识局——044\n时间：全新世\n地点：撒哈拉沙漠",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——044\n时间：全新世\n地点：撒哈拉沙漠",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 649,
+    "mission_id": 1013250,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 304109155,
+        "view": 457663,
+        "danmaku": 734,
+        "reply": 389,
+        "favorite": 5987,
+        "coin": 9938,
+        "share": 1309,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 20745,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《地球操作系统》系列的第六集终于肝出来了！这次我们把目光移向“地表最大干旱区”，其背后的格局非常大，涉及地球万年尺度的周期性变化，人类在这种规律面前或许渺小如沙粒，但同样有机会“制天命而用之”！总之，非常值得一看，话不多说，上正片！",
+    "cid": 859690012,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 859690012,
+            "page": 1,
+            "from": "vupload",
+            "part": "地表最大干旱区的底层地理逻辑，究竟是什么？【地球知识局】",
+            "duration": 649,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221012qn2aodkut54enbto4ct4ls3s4_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 304109155,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

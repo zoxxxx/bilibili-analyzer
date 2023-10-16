@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1g84y117dU",
+    "aid": 605241400,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/27c3ddfed9a918c126cf3b8e18c92aa064fc2587.jpg",
+    "title": "中国现在，非常缺铁！【地球知识局】",
+    "pubdate": 1668686400,
+    "ctime": 1668679185,
+    "desc": "地球知识局——047\n时间：全新世\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——047\n时间：全新世\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 559,
+    "mission_id": 1080166,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 605241400,
+        "view": 1287103,
+        "danmaku": 3697,
+        "reply": 2058,
+        "favorite": 8000,
+        "coin": 6765,
+        "share": 1432,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 47292,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局又开新坑了！之前我们经常上天，这次我们要入地康康，研究一下中国的缺铁问题。虽然中国钢铁产量碾压全世界，但其中最重要的原料“铁”，有八成都依赖进口，导致长期给国外铁矿寡头打工，中国明明有那么多铁矿，为什么还这么“缺铁”呢？话不多说，上正片！",
+    "cid": 894347035,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 894347035,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国现在，非常缺铁！【地球知识局】",
+            "duration": 559,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n221117a211r2ibwm1ezdt2d55rgw5n9_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 605241400,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

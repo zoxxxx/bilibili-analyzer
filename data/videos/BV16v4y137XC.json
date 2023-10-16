@@ -1,0 +1,110 @@
+{
+    "bvid": "BV16v4y137XC",
+    "aid": 554821559,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/463d46c7ff6450c67f0ae8fabf4d1a1b79adce56.jpg",
+    "title": "北京人喝到的水，一半来自哪？答案是陕西的安康【地球知识局】",
+    "pubdate": 1654689600,
+    "ctime": 1654673696,
+    "desc": "地球知识局——031\n地区：陕西\n时间：20世纪50年代~今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——031\n地区：陕西\n时间：20世纪50年代~今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 388,
+    "mission_id": 668487,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 554821559,
+        "view": 221393,
+        "danmaku": 627,
+        "reply": 843,
+        "favorite": 1274,
+        "coin": 828,
+        "share": 895,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 5726,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "放眼全国，人均水资源拥有量最少的地区既不是新疆也不是西藏，而是华北。为了解决华北的用水问题，国家启动了规模宏大的南水北调工程。其中，北京人民喝到的水，大部分就来自陕西秦岭中的一个小城。",
+    "cid": 741140749,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76856,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 741140749,
+            "page": 1,
+            "from": "vupload",
+            "part": "final1",
+            "duration": 388,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220608qn1qm5eioia1vtm24iq06qrr0_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

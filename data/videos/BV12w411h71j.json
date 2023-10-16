@@ -1,0 +1,125 @@
+{
+    "bvid": "BV12w411h71j",
+    "aid": 321671671,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/294df7d88d5af9621c1a5381369b1b69eaaaabea.jpg",
+    "title": "开那么快是狗吧！！！【阅片无数3rd 12】",
+    "pubdate": 1696428000,
+    "ctime": 1696325177,
+    "desc": "敢让狗带是真不怕狗带\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "敢让狗带是真不怕狗带\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1071,
+    "mission_id": 4003503,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 321671671,
+        "view": 1107039,
+        "danmaku": 4158,
+        "reply": 2519,
+        "favorite": 6578,
+        "coin": 22511,
+        "share": 1470,
+        "now_rank": 0,
+        "his_rank": 67,
+        "like": 118030,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#阅片无数#\n敢让狗带是真不怕狗带",
+    "cid": 1287633891,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1486385,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1287633891,
+            "page": 1,
+            "from": "vupload",
+            "part": "开那么快是狗吧！！！【阅片无数3rd 12】",
+            "duration": 1071,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n231003sa3fs447x81e5g52w24fap0zj_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 321671671,
+                "type": 3,
+                "desc": "全站排行榜最高第67名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 321671671,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

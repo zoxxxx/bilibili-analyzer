@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1CA411f7kV",
+    "aid": 307316876,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/371daed55fdcd9b20132d3878e7b14aa1d5d3601.jpg",
+    "title": "老婆不在家偷偷玩角色扮演",
+    "pubdate": 1673002800,
+    "ctime": 1672985839,
+    "desc": "动作加箱庭，初体验还行\n更多生活中的凉风请参见→小号@凉风不姓凉\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "动作加箱庭，初体验还行\n更多生活中的凉风请参见→小号@凉风不姓凉\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 655,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 307316876,
+        "view": 530072,
+        "danmaku": 480,
+        "reply": 1303,
+        "favorite": 1204,
+        "coin": 2085,
+        "share": 315,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 49455,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "看我发型帅吗？",
+    "cid": 953397983,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 953397983,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 655,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230106a213q3hixvi0m1t23f2tv8hxw_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

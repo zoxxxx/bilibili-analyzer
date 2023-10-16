@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1X8411k7cr",
+    "aid": 234565149,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/fad52d6b2c4f7e5ec52b391dc3acdcbf3af60f2c.jpg",
+    "title": "一个个浓眉大眼的，都做成青铜器了！【地球知识局】",
+    "pubdate": 1697192120,
+    "ctime": 1697192120,
+    "desc": "时间：2023年10月1日\n地区：四川广汉",
+    "desc_v2": [
+        {
+            "raw_text": "时间：2023年10月1日\n地区：四川广汉",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 302,
+    "mission_id": 1698492,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 234565149,
+        "view": 83319,
+        "danmaku": 90,
+        "reply": 103,
+        "favorite": 692,
+        "coin": 140,
+        "share": 104,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3280,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "自古以来，上层社会都希望把自己和普通人区分开来，尤其是在“视觉”上，从发型到着装，从绘画到雕塑，这种区别无处不在，在不同的文化下，风格又截然不同。\n\n比如因“浓眉大眼”著称的三星堆，就是一种独特的风格，如果你细细分辨，是可以从中看出古蜀国的两大统治阶级的，一个掌管武力，一个掌管宗教，在如今看来可能十分陌生，但古蜀文明也延续了数百年之久。\n\n透过现象看本质，不光是对中国，而是对人类的理解，都更加深刻了。",
+    "cid": 1298016843,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1298016843,
+            "page": 1,
+            "from": "vupload",
+            "part": "一个个浓眉大眼的，都做成青铜器了！【地球知识局】",
+            "duration": 302,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n231013a21ek5juxzdeydy27yw7zyxtp_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

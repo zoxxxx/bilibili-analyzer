@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Fs4y1Z7fL",
+    "aid": 992915010,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/57735d112ad164a8dc02bde08621e6c5202d2e7d.jpg",
+    "title": "炒作界的宗师是谁？【硬核狠人48】",
+    "pubdate": 1677898800,
+    "ctime": 1677883856,
+    "desc": "本篇为硬核狠人之巴纳姆。\n\n参考资料：\n巴纳姆1855年出版的第一本自传《PT巴纳姆的生活：他自己写的》\n巴纳姆1869年出版的第二本自传《奋斗与胜利》\n巴纳姆的第三本书《赚钱的艺术》\n海伦·威尔斯1957年出版《美国艺人巴纳姆》\n欧文·华莱士1959年出版《神话般的表演者：PT巴纳姆的生平和时代》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之巴纳姆。\n\n参考资料：\n巴纳姆1855年出版的第一本自传《PT巴纳姆的生活：他自己写的》\n巴纳姆1869年出版的第二本自传《奋斗与胜利》\n巴纳姆的第三本书《赚钱的艺术》\n海伦·威尔斯1957年出版《美国艺人巴纳姆》\n欧文·华莱士1959年出版《神话般的表演者：PT巴纳姆的生平和时代》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1668,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 992915010,
+        "view": 5295983,
+        "danmaku": 27130,
+        "reply": 4729,
+        "favorite": 44029,
+        "coin": 108044,
+        "share": 14248,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 284165,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之巴纳姆。",
+    "cid": 1038026282,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1038026282,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1668,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230304a2gp0dpmh27744r4xrkb61odl_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 992915010,
+                "type": 2,
+                "desc": "第207期每周必看",
+                "weekly_recommend_num": 207
+            },
+            {
+                "aid": 992915010,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 992915010,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

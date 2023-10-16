@@ -1,0 +1,118 @@
+{
+    "bvid": "BV1ro4y1f7x4",
+    "aid": 375166151,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/9eb15d6ba2a9ce972e6338d866846159c85b9728.jpg",
+    "title": "偷袭救不了阿根廷老铁【奇葩小国17】",
+    "pubdate": 1618627926,
+    "ctime": 1618627926,
+    "desc": "本文主要参考资料:\n\n《里根政府就马岛战争的危机决策与外交战略》忻怿\n\n《从马岛战争看英美特殊关系》孙佳佳\n\n《马岛战争起因再探》英美阿外交错觉\n\n《从阿根廷角度看马岛战争的原因》任柳佳\n\n《马岛战争中英阿战略决策探析》王文峰\n\n《马岛战后的阿根廷政局》杨仲杰 \n\n《邓小平与中英香港问题谈判中的几场较量》\n\n《马岛战争启示:阿根廷为何会败？》朱磊 张根亮",
+    "desc_v2": [
+        {
+            "raw_text": "本文主要参考资料:\n\n《里根政府就马岛战争的危机决策与外交战略》忻怿\n\n《从马岛战争看英美特殊关系》孙佳佳\n\n《马岛战争起因再探》英美阿外交错觉\n\n《从阿根廷角度看马岛战争的原因》任柳佳\n\n《马岛战争中英阿战略决策探析》王文峰\n\n《马岛战后的阿根廷政局》杨仲杰 \n\n《邓小平与中英香港问题谈判中的几场较量》\n\n《马岛战争启示:阿根廷为何会败？》朱磊 张根亮",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1398,
+    "mission_id": 16881,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 375166151,
+        "view": 13143781,
+        "danmaku": 48609,
+        "reply": 8343,
+        "favorite": 53907,
+        "coin": 198204,
+        "share": 25583,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 336586,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "阿根廷VS英格兰",
+    "cid": 325231511,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 325231511,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-阿根廷",
+            "duration": 1398,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 375166151,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1Xc411c7rT",
+    "aid": 273755040,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/0d8dd5ea75a3bec46ffcb1139996404926b8f3c7.jpg",
+    "title": "北方超级高温的底层地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1690084800,
+    "ctime": 1690037810,
+    "desc": "地球知识局——066\n时间：2023年\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——066\n时间：2023年\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 549,
+    "mission_id": 1640753,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 273755040,
+        "view": 303529,
+        "danmaku": 980,
+        "reply": 922,
+        "favorite": 4042,
+        "coin": 5568,
+        "share": 1234,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 21978,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《地球操作系统》第15期来啦！这次我们重要涉及了一个重要的概念——遥相关，这和最近两个月中国北方的极端高温关系紧密，地球另一边的北大西洋如何影响中国北方的高温？和西风带波动又是什么关系？全球变暖如何在背后操纵极端天气？今天我们就来仔细讲讲，话不多说，上正片！",
+    "cid": 1206210229,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1206210229,
+            "page": 1,
+            "from": "vupload",
+            "part": "北方超级高温的底层地理逻辑，究竟是什么？【地球知识局】",
+            "duration": 549,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230722sa2t6vhfc5qmc5s1u0aesigzr_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 273755040,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

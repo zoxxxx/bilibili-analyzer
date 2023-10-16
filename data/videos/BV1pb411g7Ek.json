@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1pb411g7Ek",
+    "aid": 48283006,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/71b3ae38024b3a7428008f6e07b63a8e7d0f96c1.jpg",
+    "title": "一拳更新了，不，它没有！【新番咋了第二季03】",
+    "pubdate": 1554429651,
+    "ctime": 1554429656,
+    "desc": "微博@凉风Kaze\n辣死狗后面有彩蛋\n这期先说目前看的，下期内容会更丰富。\n\n温馨提示：\n熬夜追一拳不科学\n因为你不知道它这一季准备了多少总集篇",
+    "desc_v2": [
+        {
+            "raw_text": "微博@凉风Kaze\n辣死狗后面有彩蛋\n这期先说目前看的，下期内容会更丰富。\n\n温馨提示：\n熬夜追一拳不科学\n因为你不知道它这一季准备了多少总集篇",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 48283006,
+        "view": 1835182,
+        "danmaku": 3798,
+        "reply": 3272,
+        "favorite": 28071,
+        "coin": 92138,
+        "share": 1924,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 106764,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze##动漫杂谈##四月新番#一拳更新了，不，它没有！",
+    "cid": 84574815,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 84574815,
+            "page": 1,
+            "from": "vupload",
+            "part": "一拳更新了，不，它没有",
+            "duration": 399,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 48283006,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

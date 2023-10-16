@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1Du41177pe",
+    "aid": 532551906,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/6f3df96384cfc8c19f81c3bbfc2d4601e5a2ccda.jpg",
+    "title": "中国现在，非常缺银！【地球知识局】",
+    "pubdate": 1692705600,
+    "ctime": 1692698258,
+    "desc": "地球知识局——070\n时间：21世纪\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——070\n时间：21世纪\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 563,
+    "mission_id": 1640753,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 532551906,
+        "view": 1568359,
+        "danmaku": 3076,
+        "reply": 3308,
+        "favorite": 9619,
+        "coin": 2570,
+        "share": 1121,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 55612,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "《战略资源》系列的第八期来了，这次是千呼万唤始出来的——银！从大明到大清，中国在银本位这个坑里折腾了近五百年，每次短缺就就要苦一苦百姓。作为曾经的大额通货，中国其实非常缺银，作为如今的战略资源，中国仍然非常缺银，这期视频我们就来尝试解析中国缺银的问题，上正片！",
+    "cid": 1243141206,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 979391,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1243141206,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国现在，非常缺银！【地球知识局】",
+            "duration": 563,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230822sa12atz3ik8fh6y3oz4q7innw_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 532551906,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

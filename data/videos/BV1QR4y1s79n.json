@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1QR4y1s79n",
+    "aid": 337216655,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/95aa1578bb19c1dbfe4ce6da9796717353f5a5d0.jpg",
+    "title": "日本超级工程，东京人造陆地，规模之大在太空中都肉眼可见【球局-城市】",
+    "pubdate": 1638968403,
+    "ctime": 1638968411,
+    "desc": "地球知识局——016\n地区：日本东京\n时间：20-21世纪",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——016\n地区：日本东京\n时间：20-21世纪",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 388,
+    "mission_id": 234512,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 337216655,
+        "view": 164759,
+        "danmaku": 334,
+        "reply": 282,
+        "favorite": 989,
+        "coin": 466,
+        "share": 173,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 4794,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "大东京圈是世界最大的都市圈之一，其人口规模超过3800万，但土地却十分紧缺。日本人不得不向海上扩建城市，从而造就了世界上独一无二的人工岛群。人工岛对于日本来说意味着什么？已建成的人工岛群又在日本的经济社会中发挥着怎样的作用？本期视频，就让我们一起一探究竟。",
+    "cid": 457443990,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 721866,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 457443990,
+            "page": 1,
+            "from": "vupload",
+            "part": "东京湾人造岛（改）",
+            "duration": 388,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n211209a23obogrmxgthr82ykvc2ajcb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

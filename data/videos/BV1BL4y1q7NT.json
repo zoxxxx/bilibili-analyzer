@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1BL4y1q7NT",
+    "aid": 849039510,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/0986c1bd571a89160242119c0848d48a98949c68.jpg",
+    "title": "如何在没有人质的情况下拿到赎金？【硬核狠人15】",
+    "pubdate": 1636513207,
+    "ctime": 1636468497,
+    "desc": "本篇为硬核狠人之桑基。\n\n参考资料：\n蒂莫西·W·比约克曼2016年出版的英文传记《凡尔纳·桑基：美国第一个公敌》\n南达科他州立大学历史老师丽莎·林德尔英文传记《没有更大的威胁：凡尔纳·桑基和查尔斯·博特彻二世绑架案》\n《明尼波利斯星报》1933年3月17日报道《博恩先生确定绑架者》\n新泽西档案馆官网上关于林德伯格案的证据文件。\n布朗宫酒店官网\n博特彻家族基金会官网",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之桑基。\n\n参考资料：\n蒂莫西·W·比约克曼2016年出版的英文传记《凡尔纳·桑基：美国第一个公敌》\n南达科他州立大学历史老师丽莎·林德尔英文传记《没有更大的威胁：凡尔纳·桑基和查尔斯·博特彻二世绑架案》\n《明尼波利斯星报》1933年3月17日报道《博恩先生确定绑架者》\n新泽西档案馆官网上关于林德伯格案的证据文件。\n布朗宫酒店官网\n博特彻家族基金会官网",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1432,
+    "mission_id": 216577,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 849039510,
+        "view": 7550291,
+        "danmaku": 20131,
+        "reply": 6673,
+        "favorite": 33207,
+        "coin": 107545,
+        "share": 7301,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 253861,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之桑基。",
+    "cid": 439421571,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 439421571,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-绑票天才",
+            "duration": 1432,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211109a23005wyg6b0pidooq30i9759_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 849039510,
+                "type": 2,
+                "desc": "第138期每周必看",
+                "weekly_recommend_num": 138
+            },
+            {
+                "aid": 849039510,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 849039510,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1hb411c7MY",
+    "aid": 35570123,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/3913213c0d43fda8e6f685a6f60287908067b295.jpg",
+    "title": "因帅洗白？斩获90亿票房？领三份工资？柯南新剧场版观前必看！",
+    "pubdate": 1541688995,
+    "ctime": 1541688995,
+    "desc": "给《柯南剧场版：零的执行人》国内上映先行预热做的视频！哦对了……柯南主线系列，好像内容又够作一期了的样子..... 本期收藏过两万五，将出一期《零的执行人》相关的视频。",
+    "desc_v2": [
+        {
+            "raw_text": "给《柯南剧场版：零的执行人》国内上映先行预热做的视频！哦对了……柯南主线系列，好像内容又够作一期了的样子..... 本期收藏过两万五，将出一期《零的执行人》相关的视频。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 644,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 35570123,
+        "view": 1051329,
+        "danmaku": 6735,
+        "reply": 3919,
+        "favorite": 25695,
+        "coin": 43719,
+        "share": 7720,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 43964,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#名侦探柯南##动漫杂谈#柯南的新剧场版是那个男人的主场……所以看之前不来了解下那个男人为啥这么屌么！",
+    "cid": 62373146,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 62373146,
+            "page": 1,
+            "from": "vupload",
+            "part": "安室透",
+            "duration": 644,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 35570123,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

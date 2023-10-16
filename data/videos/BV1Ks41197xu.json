@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1Ks41197xu",
+    "aid": 3816432,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/1a93684f2753cbee481f19e1d70b4794d7800d86.jpg",
+    "title": "【AMV】【clannad】那一天之后你再也无法对我微笑",
+    "pubdate": 1455262572,
+    "ctime": 1497432866,
+    "desc": "自制 BGM/樱川 用的live版开场的念白和CD版的正片\r\n素材/clannad after story\r\n呐，我们还有很多很多事情没有一起去实现呢\r\n呐，我们的孩子是以你的名字命名的哦\r\n呐，她已经会问我关于妈妈的事了\r\n——妈妈是怎样的一个人呢？\r\n——妈妈啊，是一个很笨拙又缺乏自信的人，一个很普通但又非常努力的人，但她却是爸爸最爱的人……",
+    "desc_v2": [
+        {
+            "raw_text": "自制 BGM/樱川 用的live版开场的念白和CD版的正片\r\n素材/clannad after story\r\n呐，我们还有很多很多事情没有一起去实现呢\r\n呐，我们的孩子是以你的名字命名的哦\r\n呐，她已经会问我关于妈妈的事了\r\n——妈妈是怎样的一个人呢？\r\n——妈妈啊，是一个很笨拙又缺乏自信的人，一个很普通但又非常努力的人，但她却是爸爸最爱的人……",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 433,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 3816432,
+        "view": 233872,
+        "danmaku": 1378,
+        "reply": 1214,
+        "favorite": 7598,
+        "coin": 11255,
+        "share": 2325,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 14074,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 6129470,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 6129470,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 433,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

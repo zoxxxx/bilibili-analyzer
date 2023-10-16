@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1F441137HJ",
+    "aid": 56180214,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3ee3278110c89d03f1fca38ce1dcc56451378679.jpg",
+    "title": "十年后你还会看动画吗？最近十年100部动画超燃混剪！",
+    "pubdate": 1561212007,
+    "ctime": 1561016494,
+    "desc": "最近b站十周年，很多人都在做相关的视频，自然我也收到了邀请。本来第一时间的想法还是想做杂谈之类的，但是因为我是一个沙雕的人设，真的说起一些煽情的话，怕你们会笑场然后变得别扭吧。所以还是回归了最初当up主选择的方向，那就是混剪。我觉得对于动画每个人都有各自的理解，我说再多也不过一家之言，还不如此时无声胜有声。希望你们这次就一边听歌，一边看画面，然后一起回忆起自己的入坑之作，为目前为止还没弃坑动画的自己，鼓个掌吧。b站十周年，谢谢你们。\n\n微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "最近b站十周年，很多人都在做相关的视频，自然我也收到了邀请。本来第一时间的想法还是想做杂谈之类的，但是因为我是一个沙雕的人设，真的说起一些煽情的话，怕你们会笑场然后变得别扭吧。所以还是回归了最初当up主选择的方向，那就是混剪。我觉得对于动画每个人都有各自的理解，我说再多也不过一家之言，还不如此时无声胜有声。希望你们这次就一边听歌，一边看画面，然后一起回忆起自己的入坑之作，为目前为止还没弃坑动画的自己，鼓个掌吧。b站十周年，谢谢你们。\n\n微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 262,
+    "mission_id": 11499,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 56180214,
+        "view": 2604922,
+        "danmaku": 46425,
+        "reply": 11230,
+        "favorite": 141454,
+        "coin": 192058,
+        "share": 15598,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 212734,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#干杯十周年# 小破站十年了，我真正意义上的入坑也十年了，那么你们是哪一年入坑的呢，快来弹幕评论里告诉我吧！只要你喜欢动漫，我们就是好朋友！顺便，这次的简介，我码的字最多了。#献给还没有弃坑动画的你们#",
+    "cid": 98194601,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 98194601,
+            "page": 1,
+            "from": "vupload",
+            "part": "震撼灵魂！十年一百部动画超燃混剪！你指尖跃动的电光是我此生不变的信仰！",
+            "duration": 262,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 56180214,
+                "type": 2,
+                "desc": "第14期每周必看",
+                "weekly_recommend_num": 14
+            },
+            {
+                "aid": 56180214,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

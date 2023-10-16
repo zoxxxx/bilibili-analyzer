@@ -1,0 +1,129 @@
+{
+    "bvid": "BV1Vz411v7RC",
+    "aid": 201258347,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/e874be136851830e2499b89df549f649cc50f9dd.jpg",
+    "title": "妹子为了阻止男的跳楼当场告白！【阅片无数动漫篇01】",
+    "pubdate": 1594476044,
+    "ctime": 1594476047,
+    "desc": "没想到吧，你凉大胖又回来了！\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "没想到吧，你凉大胖又回来了！\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 774,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 201258347,
+        "view": 13145615,
+        "danmaku": 106457,
+        "reply": 13645,
+        "favorite": 126720,
+        "coin": 690716,
+        "share": 12958,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 982165,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "顺应民意本期为加更的#阅片无数#动漫篇第一期\n有什么意见反馈可以在评论区提出来！",
+    "cid": 211465040,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 211465040,
+            "page": 1,
+            "from": "vupload",
+            "part": "妹子为了阻止男的跳楼当场告白！【阅片无数动漫篇01】",
+            "duration": 774,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 201258347,
+                "type": 2,
+                "desc": "第69期每周必看",
+                "weekly_recommend_num": 69
+            },
+            {
+                "aid": 201258347,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 201258347,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

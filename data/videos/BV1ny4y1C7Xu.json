@@ -1,0 +1,129 @@
+{
+    "bvid": "BV1ny4y1C7Xu",
+    "aid": 797400796,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5d36587f6e9af2d6359ca0268e14f55d463ee603.jpg",
+    "title": "在教室里使用时间暂停后【阅片无数动漫篇13】",
+    "pubdate": 1602943247,
+    "ctime": 1602943250,
+    "desc": "第十二期BV18p4y1Y7ZF：这动画主角是个屁\n第十一期BV1Ny4y1C7oZ：处男到了十八岁就会死！\n第十期BV1d5411b745：学到了！柯南竟推理出小兰内衣情况\n第九期BV1Yt4y1i7hH：史上最高杰作！恋爱游戏里竟然没有妹子\n第八期BV1s5411h7eY：猛男决斗，输的变成妹子\n第七期BV1jk4y12728：神：你必须要和100个女生交往！\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第十二期BV18p4y1Y7ZF：这动画主角是个屁\n第十一期BV1Ny4y1C7oZ：处男到了十八岁就会死！\n第十期BV1d5411b745：学到了！柯南竟推理出小兰内衣情况\n第九期BV1Yt4y1i7hH：史上最高杰作！恋爱游戏里竟然没有妹子\n第八期BV1s5411h7eY：猛男决斗，输的变成妹子\n第七期BV1jk4y12728：神：你必须要和100个女生交往！\n更多生活中的凉风请参见→微博@凉风Kaza\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 735,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 797400796,
+        "view": 3799531,
+        "danmaku": 21508,
+        "reply": 4091,
+        "favorite": 27910,
+        "coin": 81937,
+        "share": 3736,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 315716,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "今天这期#阅片无数#动漫篇看得我脸红心跳好生羡慕！\n顺便，更新如此稳定的up主，快用你的三连给他鼓励吧",
+    "cid": 246770521,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 246770521,
+            "page": 1,
+            "from": "vupload",
+            "part": "在教室里使用时间暂停后【阅片无数动漫篇13】",
+            "duration": 735,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 797400796,
+                "type": 2,
+                "desc": "第83期每周必看",
+                "weekly_recommend_num": 83
+            },
+            {
+                "aid": 797400796,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 797400796,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,195 @@
+{
+    "bvid": "BV1yU4y1x7xq",
+    "aid": 671096521,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/70213e255cf71a9fcf014364a051db88b0ee8933.jpg",
+    "title": "如何靠捡屎成为世界首富？【奇葩小国05】",
+    "pubdate": 1610075702,
+    "ctime": 1610028157,
+    "desc": "瑙鲁这个家里有屎的国家，完美地向我们展示了一个暴发户的一生——从暴富到返贫。",
+    "desc_v2": [
+        {
+            "raw_text": "瑙鲁这个家里有屎的国家，完美地向我们展示了一个暴发户的一生——从暴富到返贫。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1155,
+    "mission_id": 15417,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 671096521,
+        "view": 7035091,
+        "danmaku": 22130,
+        "reply": 3147,
+        "favorite": 22077,
+        "coin": 50103,
+        "share": 21865,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 180406,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "鸟粪富国是如何被掏空的？",
+    "cid": 278986872,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 278986872,
+            "page": 1,
+            "from": "vupload",
+            "part": "【B站版】小约翰-瑙鲁",
+            "duration": 1155,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 23947287,
+            "title": "UP主",
+            "name": "小约翰可汗",
+            "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699200000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1678723200
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度最高人气奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7269285,
+            "label_style": 0
+        },
+        {
+            "mid": 15262818,
+            "title": "研发",
+            "name": "史图馆",
+            "face": "https://i0.hdslb.com/bfs/face/0be8c6d59a2b574561b62ad2eaa1167f4ae6fb31.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1773158400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1626364800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名科普UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1895075,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1o54y1f7JM",
+    "aid": 853911777,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/8c2f1bd34df785cd4a9d916a490755f877225079.jpg",
+    "title": "东汉顶流格局有多大？【小约翰】",
+    "pubdate": 1652265157,
+    "ctime": 1652263492,
+    "desc": "本篇为小约翰之黄巾风云。\n\n参考资料：\n《后汉党锢之祸起因新探》王煜焜\n\n《论汉灵帝时代》李晓苏\n\n《从汉灵帝变刺史为州牧分析东汉末诸侯割据成因》宋中选\n\n《试论东汉后期士大夫集团势力的膨胀与党锢之祸》朱顺玲\n\n《黄巾乱:成为帝国梦魇的非典型民变》周渝\n\n《东汉末年天下州郡的迅速私有化》付开镜、董坤玉\n\n《东汉末军阀与豪族关系研究》王煜焜\n\n《东汉外戚、宦官之间的斗争与士大夫的分化整个》方燕",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为小约翰之黄巾风云。\n\n参考资料：\n《后汉党锢之祸起因新探》王煜焜\n\n《论汉灵帝时代》李晓苏\n\n《从汉灵帝变刺史为州牧分析东汉末诸侯割据成因》宋中选\n\n《试论东汉后期士大夫集团势力的膨胀与党锢之祸》朱顺玲\n\n《黄巾乱:成为帝国梦魇的非典型民变》周渝\n\n《东汉末年天下州郡的迅速私有化》付开镜、董坤玉\n\n《东汉末军阀与豪族关系研究》王煜焜\n\n《东汉外戚、宦官之间的斗争与士大夫的分化整个》方燕",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1133,
+    "mission_id": 463399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 853911777,
+        "view": 5892318,
+        "danmaku": 29060,
+        "reply": 6272,
+        "favorite": 33509,
+        "coin": 76000,
+        "share": 6977,
+        "now_rank": 0,
+        "his_rank": 6,
+        "like": 262448,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为小约翰之黄巾风云。",
+    "cid": 717561870,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 717561870,
+            "page": 1,
+            "from": "vupload",
+            "part": "【改】小约翰-黄巾起义",
+            "duration": 1133,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220511a23f8ntxjc1f35w2mm2w4zl6f_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 853911777,
+                "type": 2,
+                "desc": "第164期每周必看",
+                "weekly_recommend_num": 164
+            },
+            {
+                "aid": 853911777,
+                "type": 3,
+                "desc": "全站排行榜最高第6名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 853911777,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

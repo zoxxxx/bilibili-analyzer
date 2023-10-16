@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1Xx41127qe",
+    "aid": 10277846,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/5e84e5b48c8bdfefb6ea5d80d5bf6ee2a7dc444d.jpg",
+    "title": "地表最强！杀老师急速秘密大公开！",
+    "pubdate": 1493828701,
+    "ctime": 1497432866,
+    "desc": "我看暗杀教室和你们的不太一样……\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：14483912（已满） 550767352（已满）512635593（新群）",
+    "desc_v2": [
+        {
+            "raw_text": "我看暗杀教室和你们的不太一样……\n微博@凉风有性胖次君 http://weibo.com/10112015\n动画游戏女装群：14483912（已满） 550767352（已满）512635593（新群）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 159,
+    "order_id": 29,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 10277846,
+        "view": 302098,
+        "danmaku": 1343,
+        "reply": 889,
+        "favorite": 1566,
+        "coin": 3015,
+        "share": 335,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 1436,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 16981202,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 16981202,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 159,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

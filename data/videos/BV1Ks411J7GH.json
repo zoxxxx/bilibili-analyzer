@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Ks411J7GH",
+    "aid": 26769862,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/279e0be79c5b05faac44112c6132e0f773c6cdf9.jpg",
+    "title": "【新番咋了32】醒醒，你们的血小板并不想见你！",
+    "pubdate": 1531483252,
+    "ctime": 1531480002,
+    "desc": "夏天到了，你们喜欢凉风嘛！\n来，关注up微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "夏天到了，你们喜欢凉风嘛！\n来，关注up微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 710,
+    "order_id": 2259,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 26769862,
+        "view": 1593463,
+        "danmaku": 12272,
+        "reply": 3570,
+        "favorite": 15063,
+        "coin": 56744,
+        "share": 3325,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 36544,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze##新番咋了#夏天到了，除了欧派和血小板，你更需要的是凉风（挺身而出",
+    "cid": 46072241,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 46072241,
+            "page": 1,
+            "from": "vupload",
+            "part": "新番咋了32-A_x264",
+            "duration": 710,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 26769862,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

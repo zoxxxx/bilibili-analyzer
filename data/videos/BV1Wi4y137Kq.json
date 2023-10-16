@@ -1,0 +1,129 @@
+{
+    "bvid": "BV1Wi4y137Kq",
+    "aid": 541405407,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/45b6947f1cb18e64e9ce6a8a8bcb1964f1441979.jpg",
+    "title": "人类早期击杀牛头人珍贵影像【阅片无数56】",
+    "pubdate": 1595494283,
+    "ctime": 1595494283,
+    "desc": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第五十五期BV1sz411v7b8：网恋女友竟是一起搬砖的工友！\n第五十四期BV16D4y1S7fz：Woc！60年前的电影太能撩了！\n第五十三期BV1e54y1B7W6：马化腾曾扮妹子陪聊！\n第五十二期BV1ZK411p7LX：妈，你听我解释……\n第五十一期BV1Vv41167MG：小猪获救后被做成香肠",
+    "desc_v2": [
+        {
+            "raw_text": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第五十五期BV1sz411v7b8：网恋女友竟是一起搬砖的工友！\n第五十四期BV16D4y1S7fz：Woc！60年前的电影太能撩了！\n第五十三期BV1e54y1B7W6：马化腾曾扮妹子陪聊！\n第五十二期BV1ZK411p7LX：妈，你听我解释……\n第五十一期BV1Vv41167MG：小猪获救后被做成香肠",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 747,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 541405407,
+        "view": 5315087,
+        "danmaku": 37250,
+        "reply": 11326,
+        "favorite": 46591,
+        "coin": 161057,
+        "share": 9932,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 527610,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本期#阅片无数#给各位带来人类早期击杀牛头人珍贵影像\n绝对精彩！",
+    "cid": 215698030,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 215698030,
+            "page": 1,
+            "from": "vupload",
+            "part": "人类早期击杀牛头人珍贵影像【阅片无数56】",
+            "duration": 747,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 541405407,
+                "type": 2,
+                "desc": "第70期每周必看",
+                "weekly_recommend_num": 70
+            },
+            {
+                "aid": 541405407,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 541405407,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

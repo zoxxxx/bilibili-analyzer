@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Ct411E79d",
+    "aid": 60123325,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/b29badf5cb1c3adfb470d6011fbac4c1d4d1d00d.jpg",
+    "title": "AWSL！肌肉少女竟然还有真人版！这下真的是猛男必看了！【新番咋了第二季06】",
+    "pubdate": 1563710411,
+    "ctime": 1563697490,
+    "desc": "迟来的新番第二期~请大家继续用投币收藏支持UP主鸭！\n\n关注生活中的凉风→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "迟来的新番第二期~请大家继续用投币收藏支持UP主鸭！\n\n关注生活中的凉风→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 587,
+    "order_id": 10008714,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 60123325,
+        "view": 1394293,
+        "danmaku": 9052,
+        "reply": 1431,
+        "favorite": 9530,
+        "coin": 15065,
+        "share": 1758,
+        "now_rank": 0,
+        "his_rank": 45,
+        "like": 53973,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "AWSL！肌肉少女竟然还有真人版！这下真的是猛男必看了！#街球艺术#",
+    "cid": 104693300,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 104693300,
+            "page": 1,
+            "from": "vupload",
+            "part": "AWSL！肌肉少女竟然还有真人版！这下真的是猛男必看了！【新番咋了第二季06】",
+            "duration": 587,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 60123325,
+                "type": 3,
+                "desc": "全站排行榜最高第45名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

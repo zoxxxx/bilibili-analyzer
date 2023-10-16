@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1P44y117HS",
+    "aid": 974447545,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/4df1dcb518fbb4340e3ad2fa80f57fe2450722eb.jpg",
+    "title": "看个电影为啥要跟总统过不去？【硬核狠人05】",
+    "pubdate": 1627615689,
+    "ctime": 1627615689,
+    "desc": "本文主要参考资料:\n约翰·辛克利英文维基\n里根刺杀案英文维基\nCNN编辑的约翰·辛克利的年表\n新闻周刊的辛克利传记\n 圣伊丽莎白精神病院英文维基\n 约翰·辛克利英文传记以及关键人物简述\n纽约时报刺杀后的报道《辛克利一家忍受痛苦》\n林肯·卡普兰整理的刺杀案辩护审判策略，1984年出版\n帕尔的回忆录，2013年出版。\n如需提供链接，可私信up主",
+    "desc_v2": [
+        {
+            "raw_text": "本文主要参考资料:\n约翰·辛克利英文维基\n里根刺杀案英文维基\nCNN编辑的约翰·辛克利的年表\n新闻周刊的辛克利传记\n 圣伊丽莎白精神病院英文维基\n 约翰·辛克利英文传记以及关键人物简述\n纽约时报刺杀后的报道《辛克利一家忍受痛苦》\n林肯·卡普兰整理的刺杀案辩护审判策略，1984年出版\n帕尔的回忆录，2013年出版。\n如需提供链接，可私信up主",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1134,
+    "mission_id": 63528,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 974447545,
+        "view": 8624799,
+        "danmaku": 36621,
+        "reply": 9617,
+        "favorite": 39010,
+        "coin": 127614,
+        "share": 19472,
+        "now_rank": 0,
+        "his_rank": 31,
+        "like": 278910,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人篇之硬盒粉丝约翰·辛克利。",
+    "cid": 379137040,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 379137040,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-刺杀里根",
+            "duration": 1134,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n210730a23gacvz6cba7q13ptuyl4igw_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 974447545,
+                "type": 3,
+                "desc": "全站排行榜最高第31名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 974447545,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

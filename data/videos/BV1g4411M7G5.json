@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1g4411M7G5",
+    "aid": 54610133,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c2a06921f34f8b4dbeb201f73bd88f890df33699.jpg",
+    "title": "只要长的可爱即使是变态你也喜欢吗？七月新番导视第一波",
+    "pubdate": 1559959219,
+    "ctime": 1559714756,
+    "desc": "打算把新番导视做的详细一点，所以打算分期讲。下面是第一波的新番↓↓↓第二波就在路上……很快了……\n\n在地下城寻求邂逅是否搞错了什么\n某科学的一方通行\n擅长捉弄人的高木同学 第二季\n炎炎消防队\n海盗战记\n致曾为神之众兽\n普通攻击是全体二连击 这样的妈妈你喜欢吗\n平凡职业造就世界最强\n只要长得可爱 即使是变态你也喜欢吗\nDR.STONE\n中之人基因组 实况中 \n你遭难了吗\nGRANBELM\n蝴蝶绮 年轻信长\n\nUP主微博@凉风Kaze，←这里私信更容易被看到",
+    "desc_v2": [
+        {
+            "raw_text": "打算把新番导视做的详细一点，所以打算分期讲。下面是第一波的新番↓↓↓第二波就在路上……很快了……\n\n在地下城寻求邂逅是否搞错了什么\n某科学的一方通行\n擅长捉弄人的高木同学 第二季\n炎炎消防队\n海盗战记\n致曾为神之众兽\n普通攻击是全体二连击 这样的妈妈你喜欢吗\n平凡职业造就世界最强\n只要长得可爱 即使是变态你也喜欢吗\nDR.STONE\n中之人基因组 实况中 \n你遭难了吗\nGRANBELM\n蝴蝶绮 年轻信长\n\nUP主微博@凉风Kaze，←这里私信更容易被看到",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 687,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 54610133,
+        "view": 1528323,
+        "danmaku": 8561,
+        "reply": 2250,
+        "favorite": 29896,
+        "coin": 48054,
+        "share": 2677,
+        "now_rank": 0,
+        "his_rank": 23,
+        "like": 81475,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "暑假要到了！七月新番看点啥？点这就对了~只要三连给的好，UP高产少不了！",
+    "cid": 96633319,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 96633319,
+            "page": 1,
+            "from": "vupload",
+            "part": "0611新番导视上3gai",
+            "duration": 687,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 54610133,
+                "type": 3,
+                "desc": "全站排行榜最高第23名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

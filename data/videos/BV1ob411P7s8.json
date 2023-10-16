@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1ob411P7s8",
+    "aid": 34638706,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/dddbf829d5144c48a167d104167604dc7d904f80.jpg",
+    "title": "【新番咋了37】真男人就应该干·········",
+    "pubdate": 1540548032,
+    "ctime": 1540548032,
+    "desc": "大家那么熟了，还要啥简介？\n听说投币收藏的人会变成锦鲤……",
+    "desc_v2": [
+        {
+            "raw_text": "大家那么熟了，还要啥简介？\n听说投币收藏的人会变成锦鲤……",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 681,
+    "mission_id": 10849,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 34638706,
+        "view": 872787,
+        "danmaku": 4059,
+        "reply": 1707,
+        "favorite": 11271,
+        "coin": 51490,
+        "share": 670,
+        "now_rank": 0,
+        "his_rank": 11,
+        "like": 42868,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#凉风Kaze##新番咋了#有些作品是男人就该干哥布林！有些作品是男人就该干哥布林！",
+    "cid": 60685500,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 60685500,
+            "page": 1,
+            "from": "vupload",
+            "part": "新番咋啦37_x264",
+            "duration": 681,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 34638706,
+                "type": 3,
+                "desc": "全站排行榜最高第11名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

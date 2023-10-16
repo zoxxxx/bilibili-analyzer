@@ -1,0 +1,108 @@
+{
+    "bvid": "BV14s4y1T7ba",
+    "aid": 954080460,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/bdd18779e96d90151115db12de2c72875f829709.jpg",
+    "title": "非洲神功大成，有神魔底层文化逻辑？【地球知识局】",
+    "pubdate": 1685102400,
+    "ctime": 1685093329,
+    "desc": "地球知识局——062\n时间：20-21世纪\n地点：非洲",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——062\n时间：20-21世纪\n地点：非洲",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 515,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 954080460,
+        "view": 205531,
+        "danmaku": 411,
+        "reply": 277,
+        "favorite": 2633,
+        "coin": 1587,
+        "share": 345,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 14379,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "前阵看了不少非洲本土电影，虽然都是几倍速看的，但还挺入坑，和在非洲的粉丝交流后更是大开眼界，做一期给大家介绍介绍，就当是开个新坑，大家有什么更好的类似选题也可以告诉我们啊🙌",
+    "cid": 1142608868,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1142608868,
+            "page": 1,
+            "from": "vupload",
+            "part": "非洲神功大成，有神魔底层文化逻辑？【地球知识局】",
+            "duration": 515,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230526a26cxdibyxh70onwx6lqznfbq_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

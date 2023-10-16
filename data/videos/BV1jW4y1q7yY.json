@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1jW4y1q7yY",
+    "aid": 943142229,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/868183f5e4a7af603a67fe7a886ecf5ddf5f52b9.jpg",
+    "title": "听到这种声音你就应该…",
+    "pubdate": 1663388480,
+    "ctime": 1663386744,
+    "desc": "居 安 思 危\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+    "desc_v2": [
+        {
+            "raw_text": "居 安 思 危\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！\n求三连！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 346,
+    "mission_id": 870292,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 943142229,
+        "view": 805015,
+        "danmaku": 1422,
+        "reply": 1336,
+        "favorite": 7327,
+        "coin": 25459,
+        "share": 1272,
+        "now_rank": 0,
+        "his_rank": 82,
+        "like": 110601,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "希望我们都不会用上！",
+    "cid": 835413382,
+    "dimension": {
+        "width": 3840,
+        "height": 2160,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 835413382,
+            "page": 1,
+            "from": "vupload",
+            "part": "听到这种声音你就应该…",
+            "duration": 346,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 3840,
+                "height": 2160,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220917a2518txziq1rw1bqr6yks6cs3_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 943142229,
+                "type": 3,
+                "desc": "全站排行榜最高第82名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 943142229,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

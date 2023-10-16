@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1oq4y1B7pM",
+    "aid": 592016883,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/c29fb3efa42361c0b66d45e97c9fd5312edc276a.jpg",
+    "title": "谁会带着冷兵器参加二战？【硬核狠人18】",
+    "pubdate": 1638280124,
+    "ctime": 1638280124,
+    "desc": "本篇为硬核狠人之杰克·丘吉尔。\n\n参考资料：\n丘吉尔家族编年史\n杰克·丘吉尔传记《无限勇气》\n罗伯特·巴尔·史密斯文章《罕见的勇士》\n南蒂罗尔大释放\n杰克·丘吉尔讣告\n杰克·丘吉尔的口述录音\n《巴格达窃贼》出演人员资料",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之杰克·丘吉尔。\n\n参考资料：\n丘吉尔家族编年史\n杰克·丘吉尔传记《无限勇气》\n罗伯特·巴尔·史密斯文章《罕见的勇士》\n南蒂罗尔大释放\n杰克·丘吉尔讣告\n杰克·丘吉尔的口述录音\n《巴格达窃贼》出演人员资料",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1314,
+    "mission_id": 233782,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 592016883,
+        "view": 9203729,
+        "danmaku": 31331,
+        "reply": 12641,
+        "favorite": 56478,
+        "coin": 170029,
+        "share": 18544,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 331589,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "以后再叫我鸽宗你良心过得去吗？",
+    "cid": 452181875,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 452181875,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-硬核狠人-杰克丘吉尔",
+            "duration": 1314,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211130a21yzdla6j2wh43p58kt7te6s_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 592016883,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 592016883,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

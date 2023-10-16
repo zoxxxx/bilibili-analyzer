@@ -1,0 +1,214 @@
+{
+    "bvid": "BV17z411b7AL",
+    "aid": 200100154,
+    "videos": 1,
+    "tid": 124,
+    "tname": "社科·法律·心理",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/b8cae05b0640ae50557285e57daeb03fa9fc8162.jpg",
+    "title": "撕别人家作业犯法吗？",
+    "pubdate": 1586577635,
+    "ctime": 1585907542,
+    "desc": "世界竟有如此多的奇妙物语！\n关注生活中的凉风→微博@凉风Kaze\n给罗老师打个广告~\n《罗老师法律小课堂》独家节目会在每周二、周五的中午12:00发布，欢迎大家关注！",
+    "desc_v2": [
+        {
+            "raw_text": "世界竟有如此多的奇妙物语！\n关注生活中的凉风→微博@凉风Kaze\n给罗老师打个广告~\n《罗老师法律小课堂》独家节目会在每周二、周五的中午12:00发布，欢迎大家关注！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1120,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 200100154,
+        "view": 8364626,
+        "danmaku": 203061,
+        "reply": 24500,
+        "favorite": 149576,
+        "coin": 455067,
+        "share": 85544,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 986145,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "撕别人家作业犯法吗？",
+    "cid": 173397803,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 173397803,
+            "page": 1,
+            "from": "vupload",
+            "part": "撕别人家作业犯法吗？",
+            "duration": 1120,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 14110780,
+            "title": "UP主",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680562,
+            "label_style": 0
+        },
+        {
+            "mid": 517327498,
+            "title": "参演",
+            "name": "罗翔说刑法",
+            "face": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1727107200000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 2,
+                "title": "中国政法大学教授、bilibili 2022百大UP主、2020年度最高人气UP主",
+                "desc": "中国政法大学教授，代表作《刑法学讲义》《圆圈正义》《罗翔讲刑法》",
+                "type": 0
+            },
+            "follower": 29128475,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 200100154,
+                "type": 2,
+                "desc": "第56期每周必看",
+                "weekly_recommend_num": 56
+            },
+            {
+                "aid": 200100154,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 200100154,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

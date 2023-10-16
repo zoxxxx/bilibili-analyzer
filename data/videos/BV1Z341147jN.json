@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1Z341147jN",
+    "aid": 422221982,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/4a30aa7115dfe58a7ae09286b7f46c863fe4630b.jpg",
+    "title": "美国工程师在树林里能搓出啥？【硬核狠人19】",
+    "pubdate": 1638951224,
+    "ctime": 1638948170,
+    "desc": "本篇为硬核狠人之温德尔·费蒂格。\n\n参考资料：\n詹姆斯.晨星（Morningstar）2018年出版传记《战争与抵抗：菲律宾游击战1942-1945》\n约翰·济慈传记《他们孤军奋战》\n麦克·巴尼奥斯文章《北棉兰老岛的游击队海军》\n菲律宾罗德里克·霍尔私人博物馆官网资料\n麦克阿瑟的参谋部关于菲律宾游击队的报告\n美国陆军菲律宾司令部《关于菲律宾游击队的认可计划》，1948年原始归档扫描件\n拉里·施密特少校1982年出版《1942-1945 年日本占领期间美国参与棉兰老岛的菲律宾抵抗运动》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之温德尔·费蒂格。\n\n参考资料：\n詹姆斯.晨星（Morningstar）2018年出版传记《战争与抵抗：菲律宾游击战1942-1945》\n约翰·济慈传记《他们孤军奋战》\n麦克·巴尼奥斯文章《北棉兰老岛的游击队海军》\n菲律宾罗德里克·霍尔私人博物馆官网资料\n麦克阿瑟的参谋部关于菲律宾游击队的报告\n美国陆军菲律宾司令部《关于菲律宾游击队的认可计划》，1948年原始归档扫描件\n拉里·施密特少校1982年出版《1942-1945 年日本占领期间美国参与棉兰老岛的菲律宾抵抗运动》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1681,
+    "mission_id": 233782,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 422221982,
+        "view": 9112762,
+        "danmaku": 43877,
+        "reply": 13266,
+        "favorite": 70648,
+        "coin": 240211,
+        "share": 20210,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 369907,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之温德尔·费蒂格。",
+    "cid": 457477516,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 457477516,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰费蒂格",
+            "duration": 1681,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n211209a239p40nwqc7bet2lrl9kaleb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 422221982,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 422221982,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

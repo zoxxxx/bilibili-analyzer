@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1Ce411A7aY",
+    "aid": 263506253,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/4d816a44d3def1d731ea11a71aa9f1794bcc3571.jpg",
+    "title": "今年冬天寒潮席卷中国的底层地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1670671800,
+    "ctime": 1670648534,
+    "desc": "地球知识局——049\n时间：2022\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——049\n时间：2022\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 657,
+    "mission_id": 1143695,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 263506253,
+        "view": 961989,
+        "danmaku": 1486,
+        "reply": 801,
+        "favorite": 9377,
+        "coin": 16797,
+        "share": 3300,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 36406,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《地球操作系统》的第九期终于出来了！这次依旧干货满满，我们聚焦今年冬天席卷中国的寒潮，冬天的寒潮和今年夏天的热浪，背后其实有着某种共通性，都与地球热量平衡与再平衡的机制相关，相信你一定能看得明明白白！感谢大家的支持，上正片！",
+    "cid": 918619956,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 918619956,
+            "page": 1,
+            "from": "vupload",
+            "part": "今年冬天寒潮席卷中国的底层地理逻辑，究竟是什么？【地球知识局】",
+            "duration": 657,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221210qn1le46cuopdi3c1034bvsqmg_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 263506253,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

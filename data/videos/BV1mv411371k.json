@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1mv411371k",
+    "aid": 250705834,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/6d356fbe38df74823cb8ade0849f7a68c64aa4ed.jpg",
+    "title": "窃书究竟算不算偷？【硬核狠人09】",
+    "pubdate": 1632452413,
+    "ctime": 1632414666,
+    "desc": "本篇为硬核蠢人系列之斯宾塞。\n\n参考资料：\n2007年约翰·科夫的采访手记\n斯宾塞的个人网站\n纽约邮报埃里克2020年采访\n太阳报的相关报道",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核蠢人系列之斯宾塞。\n\n参考资料：\n2007年约翰·科夫的采访手记\n斯宾塞的个人网站\n纽约邮报埃里克2020年采访\n太阳报的相关报道",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1360,
+    "mission_id": 118047,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 250705834,
+        "view": 6894740,
+        "danmaku": 19761,
+        "reply": 4643,
+        "favorite": 26800,
+        "coin": 94132,
+        "share": 7050,
+        "now_rank": 0,
+        "his_rank": 21,
+        "like": 224539,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核蠢人系列之斯宾塞。",
+    "cid": 413598481,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 413598481,
+            "page": 1,
+            "from": "vupload",
+            "part": "【小约翰可汗】美国鸟类",
+            "duration": 1360,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n210924a2249yxh0uus9pn80huem2sur_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 250705834,
+                "type": 3,
+                "desc": "全站排行榜最高第21名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 250705834,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

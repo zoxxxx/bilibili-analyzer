@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1iU4y1E7cV",
+    "aid": 674971784,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/11d24434da8ec6662949702dce50ecc110346176.jpg",
+    "title": "谁制定了美国劫匪的行业标准？【硬核狠人06】",
+    "pubdate": 1629431673,
+    "ctime": 1629431674,
+    "desc": "本篇为硬核狠人篇之赫尔曼拉姆。\n\n本文主要参考资料：\n赫尔曼拉姆英文德文维基\n沃尔特·米特尔施泰特在2012年出版的《赫尔曼·男爵·拉姆：现代银行抢劫之父》\n荷兰语历史网站中《现代银行抢劫之父的最后一次出击》\n第十三号仓库超自然物品数据网站\n德语网站《卡塞尔的绅士劫匪》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人篇之赫尔曼拉姆。\n\n本文主要参考资料：\n赫尔曼拉姆英文德文维基\n沃尔特·米特尔施泰特在2012年出版的《赫尔曼·男爵·拉姆：现代银行抢劫之父》\n荷兰语历史网站中《现代银行抢劫之父的最后一次出击》\n第十三号仓库超自然物品数据网站\n德语网站《卡塞尔的绅士劫匪》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1231,
+    "mission_id": 63528,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 674971784,
+        "view": 10665327,
+        "danmaku": 129267,
+        "reply": 8997,
+        "favorite": 69061,
+        "coin": 212910,
+        "share": 48082,
+        "now_rank": 0,
+        "his_rank": 19,
+        "like": 369644,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人篇之大名鼎鼎赫尔曼拉姆。",
+    "cid": 392934852,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 392934852,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-拉姆",
+            "duration": 1231,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n210820a22ssxhsevvz3801019gvh0m1_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 674971784,
+                "type": 2,
+                "desc": "第127期每周必看",
+                "weekly_recommend_num": 127
+            },
+            {
+                "aid": 674971784,
+                "type": 3,
+                "desc": "全站排行榜最高第19名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 674971784,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,125 @@
+{
+    "bvid": "BV11L411H7o7",
+    "aid": 461790260,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3495e996d937f18ed851f2a2697a64a83f374c70.jpg",
+    "title": "非洲的切格瓦拉是谁？【奇葩小国25】",
+    "pubdate": 1627095600,
+    "ctime": 1627095610,
+    "desc": "本篇为奇葩小国之布基纳法索（下）。\n本篇参考文献:\n\nhttps://www.thomassankara.net/ 桑卡拉资料的法文综合网站\n\n《温和、务实、稳重:布基纳法索国家元首布.孔波雷》程涛\n\n《布基纳法索:又见政变！》梁凡\n\n《一个穷元首:桑卡拉》杨薇\n\n《布基纳法索总统:托马斯桑卡拉上尉》郭天民\n\n《上沃尔特经济状况》斯.别连丘克",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为奇葩小国之布基纳法索（下）。\n本篇参考文献:\n\nhttps://www.thomassankara.net/ 桑卡拉资料的法文综合网站\n\n《温和、务实、稳重:布基纳法索国家元首布.孔波雷》程涛\n\n《布基纳法索:又见政变！》梁凡\n\n《一个穷元首:桑卡拉》杨薇\n\n《布基纳法索总统:托马斯桑卡拉上尉》郭天民\n\n《上沃尔特经济状况》斯.别连丘克",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1458,
+    "mission_id": 41608,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 461790260,
+        "view": 12755754,
+        "danmaku": 83805,
+        "reply": 26872,
+        "favorite": 159407,
+        "coin": 458143,
+        "share": 102560,
+        "now_rank": 0,
+        "his_rank": 72,
+        "like": 507525,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为奇葩小国之布基纳法索（下）。",
+    "cid": 375461221,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 665,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 375461221,
+            "page": 1,
+            "from": "vupload",
+            "part": "布基纳法索（下）",
+            "duration": 1458,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n210724qn3eyhf62muiu3u19h5ibyn2p_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 461790260,
+                "type": 3,
+                "desc": "全站排行榜最高第72名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 461790260,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1mR4y1H7H4",
+    "aid": 335598231,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/74f3a143fa9dc3ef9595639637340ef0cadd9b83.jpg",
+    "title": "不装了！电视购物公然侮辱智商【阅片无数Ⅱ 19】",
+    "pubdate": 1632319212,
+    "ctime": 1632319212,
+    "desc": "第二季18BV1C3411i73H：我发现了扫黑风暴房间里的秘密\n第二季17BV13g411V7u9：我发现了华强买瓜背后的秘密\n第二季16BV1vb4y1S7GL：麻了，诈骗犯都看不上二次元\n第二季15BV1h64y1q7zo：女主演了两集发现自己是群演\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+    "desc_v2": [
+        {
+            "raw_text": "第二季18BV1C3411i73H：我发现了扫黑风暴房间里的秘密\n第二季17BV13g411V7u9：我发现了华强买瓜背后的秘密\n第二季16BV1vb4y1S7GL：麻了，诈骗犯都看不上二次元\n第二季15BV1h64y1q7zo：女主演了两集发现自己是群演\n更多生活中的凉风请参见→微博@凉风Kaze\n另外一些不适合在视频解答的题，之后会放在微博",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 637,
+    "mission_id": 134472,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 335598231,
+        "view": 3276146,
+        "danmaku": 9333,
+        "reply": 2776,
+        "favorite": 12916,
+        "coin": 32248,
+        "share": 2700,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 262545,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "2021年了居然还有侮辱智商的广告\n今天#阅片无数#就带你看看有多沙雕！",
+    "cid": 409712858,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 807,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 409712858,
+            "page": 1,
+            "from": "vupload",
+            "part": "不装了！电视购物开始公然侮辱智商了【阅片无数Ⅱ 19】",
+            "duration": 637,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n210917a23jdor181rvkzu2zsqqfp5hy_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 335598231,
+                "type": 2,
+                "desc": "第131期每周必看",
+                "weekly_recommend_num": 131
+            },
+            {
+                "aid": 335598231,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 335598231,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

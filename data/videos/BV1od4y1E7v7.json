@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1od4y1E7v7",
+    "aid": 394042058,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/53397d8d83b99ec6ede3dc92f389c9f8ea797400.jpg",
+    "title": "中国极端降水的底层地理逻辑，究竟是什么？【地球知识局】",
+    "pubdate": 1675855800,
+    "ctime": 1675842139,
+    "desc": "地球知识局——053\n时间：2016-2022年\n地点：中国",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——053\n时间：2016-2022年\n地点：中国",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 640,
+    "mission_id": 1259518,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 394042058,
+        "view": 571751,
+        "danmaku": 759,
+        "reply": 443,
+        "favorite": 10238,
+        "coin": 7599,
+        "share": 1483,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 46273,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《地球操作系统》第11期出来啦！本来原计划是南极，但发现了一个好玩且在国内比较前沿的题，借天气预报插队一下。今天我们讲讲天上的龙王，能把几千公里外的海水快速搬到你家门口，这期依旧干货满满。话不多说，上正片！",
+    "cid": 998663153,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 998663153,
+            "page": 1,
+            "from": "vupload",
+            "part": "中国极端降水的底层地理逻辑，究竟是什么？【地球知识局】",
+            "duration": 640,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230208qn19e5xkwc02l2qd7g7s5o1xs_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 394042058,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

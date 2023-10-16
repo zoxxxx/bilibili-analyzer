@@ -1,0 +1,119 @@
+{
+    "bvid": "BV1Bt4y1M7KL",
+    "aid": 987205684,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/2388b121ceb853c527e2e7cc72b15735c18a45f8.jpg",
+    "title": "太偏心了！暖流为什么给日本那么多？给中国那么少？【地球知识局】",
+    "pubdate": 1667302200,
+    "ctime": 1667288240,
+    "desc": "地球知识局——046\n时间：19-21世纪\n地点：东亚",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——046\n时间：19-21世纪\n地点：东亚",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 533,
+    "mission_id": 1013250,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 987205684,
+        "view": 524410,
+        "danmaku": 961,
+        "reply": 976,
+        "favorite": 5160,
+        "coin": 8279,
+        "share": 1274,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 21812,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球上有两个著名的岛国，一个在欧洲一个在亚洲，一个叫英国一个叫日本，他们都享受着千里送温暖，从而避免了沦为苦寒之地，今天我们就来讲讲太平洋怎么给日本千里送热水，以及为什么给日本那么多给我们就那么少",
+    "cid": 878046980,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76940,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 878046980,
+            "page": 1,
+            "from": "vupload",
+            "part": "太偏心了！暖流为什么给日本那么多？给中国那么少？【地球知识局】",
+            "duration": 533,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221101qnjad6ktwn9b31th340jvta9j_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 987205684,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

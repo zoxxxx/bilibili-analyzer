@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1W54y1Z7EL",
+    "aid": 854133124,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/ae06904f4eb755fce75448db810b6a5fd596645f.jpg",
+    "title": "谁是美国的越狱之王？【硬核狠人33】",
+    "pubdate": 1653102000,
+    "ctime": 1653053626,
+    "desc": "本篇为硬核狠人之班哈特。\n\n参考资料：\n1957年出版《监狱长罗根》\n约翰·图伊2001年出版《当卡彭的暴徒谋杀图伊时：图伊、理发师杰克和从未发生的绑架案》\n斯科蒂·科恩2000年出版《他发生在北卡罗来纳》\n杰·罗伯特·纳什1981年出版《世界犯罪年鉴》\n图伊帮网站上的班哈特资料\n克利夫兰出版社1967年出版《芝加哥犯罪书》",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之班哈特。\n\n参考资料：\n1957年出版《监狱长罗根》\n约翰·图伊2001年出版《当卡彭的暴徒谋杀图伊时：图伊、理发师杰克和从未发生的绑架案》\n斯科蒂·科恩2000年出版《他发生在北卡罗来纳》\n杰·罗伯特·纳什1981年出版《世界犯罪年鉴》\n图伊帮网站上的班哈特资料\n克利夫兰出版社1967年出版《芝加哥犯罪书》",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1444,
+    "mission_id": 463399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 854133124,
+        "view": 7930010,
+        "danmaku": 29321,
+        "reply": 6995,
+        "favorite": 43459,
+        "coin": 140728,
+        "share": 11922,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 321632,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之班哈特。",
+    "cid": 725194788,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 725194788,
+            "page": 1,
+            "from": "vupload",
+            "part": "小约翰-班哈特-成片",
+            "duration": 1444,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220520a21en4k1leiu63g2ny7v0g4l5_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 854133124,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 854133124,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

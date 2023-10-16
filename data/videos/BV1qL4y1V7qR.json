@@ -1,0 +1,665 @@
+{
+    "bvid": "BV1qL4y1V7qR",
+    "aid": 853463070,
+    "videos": 1,
+    "tid": 31,
+    "tname": "翻唱",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/d51cfa9d1908ecb7c51462e695b2b3a7e27b17cb.jpg",
+    "title": "【动画区联唱】凉风、暗猫等多位UP露脸献声丨百位UP主联唱，庆祝建团百年②",
+    "pubdate": 1650880828,
+    "ctime": 1650875341,
+    "desc": "-",
+    "desc_v2": [
+        {
+            "raw_text": "-",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 269,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 1131457022,
+        "name": "人民日报",
+        "face": "https://i2.hdslb.com/bfs/face/19a041ba0e78ed43b7a3eab35edfc998eaa7db8e.jpg"
+    },
+    "stat": {
+        "aid": 853463070,
+        "view": 1191312,
+        "danmaku": 2519,
+        "reply": 1989,
+        "favorite": 10958,
+        "coin": 12624,
+        "share": 2233,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 96188,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 584692261,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 584692261,
+            "page": 1,
+            "from": "vupload",
+            "part": "建团百年-动画区",
+            "duration": 269,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220425a231fsidumtw6jw1epmqns84m_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 1131457022,
+            "title": "UP主",
+            "name": "人民日报",
+            "face": "https://i2.hdslb.com/bfs/face/19a041ba0e78ed43b7a3eab35edfc998eaa7db8e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1720022400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 5,
+                "title": "人民日报官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 12621971,
+            "label_style": 0
+        },
+        {
+            "mid": 32708462,
+            "title": "策划",
+            "name": "不动的ACG大图书馆",
+            "face": "https://i2.hdslb.com/bfs/face/4a7fff08c71683ea1d96116c458406922d4334f4.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1673366400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "动画区官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 363119,
+            "label_style": 0
+        },
+        {
+            "mid": 14110780,
+            "title": "演唱",
+            "name": "凉风Kaze",
+            "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1719417600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1719417600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2020年度弹幕人气奖UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7680561,
+            "label_style": 0
+        },
+        {
+            "mid": 137952,
+            "title": "演唱",
+            "name": "依然小智",
+            "face": "https://i0.hdslb.com/bfs/face/280be120419fcdfb77c167429bb087353faa16b8.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1700928000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 770993,
+            "label_style": 0
+        },
+        {
+            "mid": 8469526,
+            "title": "演唱",
+            "name": "果蝇轰",
+            "face": "https://i1.hdslb.com/bfs/face/5ac66ad440fa2b3650d9bac1def1391d102d1378.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1724256000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1640620800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名游戏UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1653070,
+            "label_style": 0
+        },
+        {
+            "mid": 198439,
+            "title": "演唱",
+            "name": "可可味",
+            "face": "https://i1.hdslb.com/bfs/face/fba8b5583345e6b754e7b9141f4925ac314463f6.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1715356800000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1713110400
+            },
+            "official": {
+                "role": 2,
+                "title": "配音演员、声优歌手",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1010177,
+            "label_style": 0
+        },
+        {
+            "mid": 3633594,
+            "title": "演唱",
+            "name": "钓钩钧XJ",
+            "face": "http://i0.hdslb.com/bfs/face/6ed18949a1d4a69fc237c498e3fa63ee27a478a5.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1766160000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 475600,
+            "label_style": 0
+        },
+        {
+            "mid": 125776535,
+            "title": "演唱",
+            "name": "萌新二次方",
+            "face": "https://i2.hdslb.com/bfs/face/98ae1ac5bf8a497e8808ececde63f46fe87f1c81.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1698336000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1648828800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名动漫UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1835943,
+            "label_style": 0
+        },
+        {
+            "mid": 346059,
+            "title": "演唱",
+            "name": "呜喵Mania",
+            "face": "https://i0.hdslb.com/bfs/face/a4a32dca8e6c933162a9976ea324147ec95a3d2f.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1804608000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名动漫UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 770474,
+            "label_style": 0
+        },
+        {
+            "mid": 888465,
+            "title": "演唱",
+            "name": "暗猫の祝福",
+            "face": "https://i0.hdslb.com/bfs/face/baf75c13bd5a1e980500c9314ea71687ddeb5c5f.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1799596800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1639843200
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名动漫UP主",
+                "desc": "TOS偶像部领队，曾获AKROSS CON 2016年度新锐奖，代表作《FATE系列》",
+                "type": 0
+            },
+            "follower": 1919443,
+            "label_style": 0
+        },
+        {
+            "mid": 216844,
+            "title": "演唱",
+            "name": "玩偶菌",
+            "face": "https://i1.hdslb.com/bfs/face/dc99c34454ca4e220cc79a903b71dce8f4bb9f08.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1735401600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1153646,
+            "label_style": 0
+        },
+        {
+            "mid": 158119101,
+            "title": "演唱",
+            "name": "远古黑金",
+            "face": "https://i0.hdslb.com/bfs/face/2466b9fb0482ea9ea6bc3488306b5557771c5d79.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1775836800000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1725897600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1257136,
+            "label_style": 0
+        },
+        {
+            "mid": 32708543,
+            "title": "策划",
+            "name": "大家的音乐机",
+            "face": "https://i2.hdslb.com/bfs/face/927600c9ac351375bc63fa6e0ce06e7ed7a8bbd3.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699545600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "音乐区官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1436967,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 853463070,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

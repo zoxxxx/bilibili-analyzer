@@ -1,0 +1,118 @@
+{
+    "bvid": "BV1wA411y793",
+    "aid": 310183896,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5731137235302a96ff98507cfbd5e43fa8523e2b.jpg",
+    "title": "不用金坷垃，印尼这样喂饱2.7亿张嘴！【地球知识局】",
+    "pubdate": 1677497400,
+    "ctime": 1677490106,
+    "desc": "地球知识局——055\n时间：16世纪-21世纪\n地点：印度尼西亚",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——055\n时间：16世纪-21世纪\n地点：印度尼西亚",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 829,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 310183896,
+        "view": 688253,
+        "danmaku": 1306,
+        "reply": 816,
+        "favorite": 5825,
+        "coin": 4024,
+        "share": 803,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 24465,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "地球知识局《干饭系列》第四期干出来了！今天研究印尼的干饭问题，这个国家已经2.7亿人了，而且还在快速增长，未来4亿可期，干饭队伍越发庞大，马尔萨斯陷阱近在眼前。我们综合地理、历史、社会、生态多个角度讲讲这个问题，感谢大家的支持，上正片！",
+    "cid": 1029246584,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76928,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1029246584,
+            "page": 1,
+            "from": "vupload",
+            "part": "不用金坷垃，印尼这样喂饱2.7亿张嘴！【地球知识局】",
+            "duration": 829,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230227qnfmtd0ggn6nrp3k7qn4lov5m_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 310183896,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

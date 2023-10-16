@@ -1,0 +1,129 @@
+{
+    "bvid": "BV1Lp4y1q7Ly",
+    "aid": 969078230,
+    "videos": 1,
+    "tid": 182,
+    "tname": "影视杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/9a11785da110f2a5bf04bfa2919760cfd8bdf5cc.jpg",
+    "title": "史上最没面子女鬼【阅片无数58】",
+    "pubdate": 1596636056,
+    "ctime": 1596636058,
+    "desc": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第五十七期BV1T54y1i7ib：神预言！34年前的剧情现在竟然重演了\n第五十六期BV1Wi4y137Kq：人类早期击杀牛头人珍贵影像\n第五十五期BV1sz411v7b8：网恋女友竟是一起搬砖的工友！\n第五十四期BV16D4y1S7fz：Woc！60年前的电影太能撩了！\n第五十三期BV1e54y1B7W6：马化腾曾扮妹子陪聊！",
+    "desc_v2": [
+        {
+            "raw_text": "想看更多的阅片无数小伙伴们转发三连搞起来哦\n更多生活中的凉风请参见→微博@凉风Kaze\n第五十七期BV1T54y1i7ib：神预言！34年前的剧情现在竟然重演了\n第五十六期BV1Wi4y137Kq：人类早期击杀牛头人珍贵影像\n第五十五期BV1sz411v7b8：网恋女友竟是一起搬砖的工友！\n第五十四期BV16D4y1S7fz：Woc！60年前的电影太能撩了！\n第五十三期BV1e54y1B7W6：马化腾曾扮妹子陪聊！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 702,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 969078230,
+        "view": 5163655,
+        "danmaku": 421,
+        "reply": 7182,
+        "favorite": 46994,
+        "coin": 197390,
+        "share": 8539,
+        "now_rank": 0,
+        "his_rank": 6,
+        "like": 557328,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#阅片无数#解锁全新背景\n今天一起来看看网友们还有什么沙雕问题！",
+    "cid": 322004471,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 175,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 322004471,
+            "page": 1,
+            "from": "vupload",
+            "part": "阅片58整改",
+            "duration": 702,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 969078230,
+                "type": 2,
+                "desc": "第72期每周必看",
+                "weekly_recommend_num": 72
+            },
+            {
+                "aid": 969078230,
+                "type": 3,
+                "desc": "全站排行榜最高第6名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 969078230,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

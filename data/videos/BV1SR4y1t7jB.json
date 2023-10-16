@@ -1,0 +1,211 @@
+{
+    "bvid": "BV1SR4y1t7jB",
+    "aid": 336779446,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/1413685a485e6186e3e499191a17ce7c1f627ed6.jpg",
+    "title": "谁要跟墨索里尼合影？【硬核狠人16】",
+    "pubdate": 1637204413,
+    "ctime": 1637159369,
+    "desc": "本篇为硬核狠人之奥托·斯科尔兹内。\n\n参考资料：\n奥托的回忆录《我的突击队行动》1950年版\n中文传记《欧洲最危险的男人》\n关于奥托的全部德文剪报\n二战数据库关于奥托的部分  \n斯图尔特·史密斯2018年出版传记《魔鬼的门徒》\n奥托回忆录1975年版，PDF文件",
+    "desc_v2": [
+        {
+            "raw_text": "本篇为硬核狠人之奥托·斯科尔兹内。\n\n参考资料：\n奥托的回忆录《我的突击队行动》1950年版\n中文传记《欧洲最危险的男人》\n关于奥托的全部德文剪报\n二战数据库关于奥托的部分  \n斯图尔特·史密斯2018年出版传记《魔鬼的门徒》\n奥托回忆录1975年版，PDF文件",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1550,
+    "mission_id": 233782,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 23947287,
+        "name": "小约翰可汗",
+        "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg"
+    },
+    "stat": {
+        "aid": 336779446,
+        "view": 9407631,
+        "danmaku": 30392,
+        "reply": 7237,
+        "favorite": 43331,
+        "coin": 122581,
+        "share": 15123,
+        "now_rank": 0,
+        "his_rank": 12,
+        "like": 288797,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "本篇为硬核狠人之奥托·斯科尔兹内。",
+    "cid": 444337685,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 3491,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 444337685,
+            "page": 1,
+            "from": "vupload",
+            "part": "【小约翰】-奥托",
+            "duration": 1550,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n211118a21ds7ilrh47v583ifnouzhfw_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 23947287,
+            "title": "UP主",
+            "name": "小约翰可汗",
+            "face": "https://i0.hdslb.com/bfs/face/85b02cdd864897d9dd2f7e07ddee455594c6359a.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699200000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1678723200
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度最高人气奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 7269290,
+            "label_style": 0
+        },
+        {
+            "mid": 519872016,
+            "title": "参演",
+            "name": "历史调研室",
+            "face": "https://i0.hdslb.com/bfs/face/5e687a2a90670e6b8e14b4f635ec38eb99f7e5eb.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699286400000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2020百大UP主、知名科普UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 4560955,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 336779446,
+                "type": 3,
+                "desc": "全站排行榜最高第12名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 336779446,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

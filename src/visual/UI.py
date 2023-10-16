@@ -38,8 +38,10 @@ def main():
         if st.button("刷新数据", disabled=st.session_state.userData is None):
             progress_text = '正在刷新数据...'
             my_bar = st.progress(0, text = progress_text)
+            
             st.session_state.userData.update()
             st.session_state.userDataStorage = st.session_state.userData.getData()
+            st.session_state.userDataStorage["videos"].sort(key=lambda x: x["created"])
 
             st.session_state.videoDataStorage = []
             count = 0

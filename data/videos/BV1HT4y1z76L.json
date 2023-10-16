@@ -1,0 +1,110 @@
+{
+    "bvid": "BV1HT4y1z76L",
+    "aid": 939168066,
+    "videos": 1,
+    "tid": 228,
+    "tname": "人文历史",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/fd3d8483d8c56bcefc15a7493d166b1bc8f20735.jpg",
+    "title": "世界级难题之人类通勤，无法阻挡我上班儿的步伐！【地球知识局】",
+    "pubdate": 1652876067,
+    "ctime": 1652876067,
+    "desc": "地球知识局——029\n地区：全球\n时间：16世纪——今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——029\n地区：全球\n时间：16世纪——今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 600,
+    "mission_id": 463399,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 939168066,
+        "view": 263431,
+        "danmaku": 295,
+        "reply": 100,
+        "favorite": 596,
+        "coin": 315,
+        "share": 205,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2853,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "对于我们当代人来说，无论是上学还是上班，公交、地铁、自行车等交通工具都为我们提供了多样的选择。然而如果时间退回到100年前，交通秩序混乱还是常见的社会现象。我们人类在通勤领域探索了4个多世纪，这期间诞生了无数彻底改变我们生活方式的发明，如今，作为基建狂魔的中国，也已经走在了交通领域的前列。今天，就让我们一起回顾人类的通勤史。",
+    "cid": 723390507,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76894,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 723390507,
+            "page": 1,
+            "from": "vupload",
+            "part": "final",
+            "duration": 600,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n220518qn1pvth9rxh8txl2zhu2viies_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

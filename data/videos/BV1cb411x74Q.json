@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1cb411x74Q",
+    "aid": 47500089,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/fd9666556352e6eeb0d2b8bed1a90a5360a2314a.jpg",
+    "title": "那个男人第一次面对这样的镜头竟做出了这种行为......【粉丝问答】",
+    "pubdate": 1553684998,
+    "ctime": 1553684998,
+    "desc": "微博@凉风Kaze\n能看完的都是颜值粉",
+    "desc_v2": [
+        {
+            "raw_text": "微博@凉风Kaze\n能看完的都是颜值粉",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 391,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 47500089,
+        "view": 1524659,
+        "danmaku": 8239,
+        "reply": 4557,
+        "favorite": 34481,
+        "coin": 123533,
+        "share": 4425,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 133702,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "真人出镜，实力劝退（以为我是美男子的就不要点进这个视频了，人与人之间还是保留点美好的幻想）",
+    "cid": 83195443,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 83195443,
+            "page": 1,
+            "from": "vupload",
+            "part": "读评论0327_x264",
+            "duration": 391,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 47500089,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

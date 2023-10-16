@@ -1,0 +1,109 @@
+{
+    "bvid": "BV1mh411A7as",
+    "aid": 230620725,
+    "videos": 1,
+    "tid": 201,
+    "tname": "科学科普",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/feadebf46190edeec29e8615c7153084b721becd.jpg",
+    "title": "西藏现在，铁路太少了！【地球知识局】",
+    "pubdate": 1688644800,
+    "ctime": 1688636280,
+    "desc": "地球知识局——064\n时间：21世纪\n地点：西藏\n\n01:18-01:26 选自BV1bt4y1Q7Pd（UP主@franky-chan）",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——064\n时间：21世纪\n地点：西藏\n\n01:18-01:26 选自BV1bt4y1Q7Pd（UP主@franky-chan）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 601,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 230620725,
+        "view": 518009,
+        "danmaku": 2341,
+        "reply": 1938,
+        "favorite": 4492,
+        "coin": 3473,
+        "share": 681,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 28759,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "中国铁路系列的第一期出来啦！之前出过好多期缺啥，中国有很多缺的资源都集中在西藏，但很难开发外运，这里面缺乏铁路就是原因之一，在西藏修铁路成本很高，但在许多方面有巨大的用处，是一种特殊的超级工程，今天我们就来详细讲讲，上正片！[打call]​​​​​",
+    "cid": 1191555882,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1507739,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1191555882,
+            "page": 1,
+            "from": "vupload",
+            "part": "西藏现在，铁路太少了！【地球知识局】",
+            "duration": 601,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230710a23gisp2osbwqaqj1daa7v17a_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1eZ4y1a7Tv",
+    "aid": 384037327,
+    "videos": 1,
+    "tid": 47,
+    "tname": "短片·手书",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/8992d9a1dd98316dcfcc651693421627bd147b83.jpg",
+    "title": "当有一群奇葩跟你一起隔离时…",
+    "pubdate": 1652512738,
+    "ctime": 1652512739,
+    "desc": "上期：BV1DL4y157K1\n这一个月过来，咱也是会做饭的了\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+    "desc_v2": [
+        {
+            "raw_text": "上期：BV1DL4y157K1\n这一个月过来，咱也是会做饭的了\n更多生活中的凉风请参见→微博@凉风Kaze\n更多活的凉风可以来直播间：http://live.bilibili.com/942101",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 467,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 384037327,
+        "view": 733725,
+        "danmaku": 1421,
+        "reply": 1040,
+        "favorite": 4292,
+        "coin": 9746,
+        "share": 577,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 95440,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "好起来了！",
+    "cid": 719903785,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 719903785,
+            "page": 1,
+            "from": "vupload",
+            "part": "当有一群奇葩跟你一起隔离时…",
+            "duration": 467,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220514a2lyq610ziahvg2lwqgwrh4mn_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 384037327,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

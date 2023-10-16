@@ -1,0 +1,122 @@
+{
+    "bvid": "BV1eJ411H7L2",
+    "aid": 82863988,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/04d52dedf1435c2dec8b391c6e7afa64cf703540.jpg",
+    "title": "B站终于对我下手了！【阅片无数特别篇】",
+    "pubdate": 1578880842,
+    "ctime": 1578880844,
+    "desc": "小伙伴们拜年祭就要开始啦，有奖预约活动将于1月17日上线\n拜年祭晚会将在1月24日除夕晚上19点30正式开始，到时记得和阿凉一起看拜年祭啊！\n更多生活中的凉风请参见→微博@凉风Kaze",
+    "desc_v2": [
+        {
+            "raw_text": "小伙伴们拜年祭就要开始啦，有奖预约活动将于1月17日上线\n拜年祭晚会将在1月24日除夕晚上19点30正式开始，到时记得和阿凉一起看拜年祭啊！\n更多生活中的凉风请参见→微博@凉风Kaze",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 501,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 14110780,
+        "name": "凉风Kaze",
+        "face": "https://i1.hdslb.com/bfs/face/e0cc906bb531195e9ee9f3b575effdd2b056eaea.jpg"
+    },
+    "stat": {
+        "aid": 82863988,
+        "view": 8134574,
+        "danmaku": 50866,
+        "reply": 8371,
+        "favorite": 200790,
+        "coin": 902466,
+        "share": 15235,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 943049,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "@哔哩哔哩活动 B哥不要啊！",
+    "cid": 141764946,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 141764946,
+            "page": 1,
+            "from": "vupload",
+            "part": "B站终于对我下手了",
+            "duration": 501,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 82863988,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 82863988,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

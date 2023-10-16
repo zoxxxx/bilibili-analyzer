@@ -1,0 +1,110 @@
+{
+    "bvid": "BV13Y411p7ZW",
+    "aid": 252615448,
+    "videos": 1,
+    "tid": 236,
+    "tname": "竞技体育",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/37fe985c21e788036a4893a053fb362d04566219.jpg",
+    "title": "罗马帝国秘密武器流入中国，究竟是怎么一回事？【球局-历史】",
+    "pubdate": 1640259886,
+    "ctime": 1640259886,
+    "desc": "地球知识局——017\n地区：中国杭州\n时间：唐朝~至今",
+    "desc_v2": [
+        {
+            "raw_text": "地球知识局——017\n地区：中国杭州\n时间：唐朝~至今",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 478,
+    "mission_id": 272350,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 100785033,
+        "name": "地球知识局",
+        "face": "https://i0.hdslb.com/bfs/face/f72ab900a640ab72eddae9fb1ac1441f1a775a0e.jpg"
+    },
+    "stat": {
+        "aid": 252615448,
+        "view": 44409,
+        "danmaku": 120,
+        "reply": 56,
+        "favorite": 245,
+        "coin": 142,
+        "share": 60,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 1276,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "杭州作为浙江省的省会，如今早已是长三角地区经济最发达的城市之一，但实际上，杭州在宋代以前并不耀眼，只算得上江南地区的小城市。那么，杭州在古代究竟是如何崛起的呢？",
+    "cid": 466985462,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 76894,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 466985462,
+            "page": 1,
+            "from": "vupload",
+            "part": "杭州",
+            "duration": 478,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n211223qn20u87qeiqxjrh2vnsqeldlo_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}
