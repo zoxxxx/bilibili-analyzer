@@ -3,7 +3,6 @@ import json
 import requests
 import logging
 import random
-from bs4 import BeautifulSoup
 from src.utils.logger import *
 from src.utils.wbi_encoder import *
 
