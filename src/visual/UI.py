@@ -24,13 +24,13 @@ def main():
                 data  = st.session_state.userData.getData()
 
     with st.sidebar:
-        if st.session_state.userData is not None:
-            st.write("数据获取时间：{}".format(st.session_state.userData.time.strftime("%Y-%m-%d %H:%M:%S")))
         if st.button("刷新数据", disabled=st.session_state.userData is None):
             with st.spinner('正在刷新数据...'):
                 print(st.session_state.mid)
                 st.session_state.userData.update()
                 data = st.session_state.userData.getData()
+        if st.session_state.userData is not None:
+            st.write("数据获取时间：{}".format(st.session_state.userData.time.strftime("%Y-%m-%d %H:%M:%S")))
 
     st.markdown("""
     <style>
