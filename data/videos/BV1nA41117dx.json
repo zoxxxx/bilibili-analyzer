@@ -1,0 +1,216 @@
+{
+    "bvid": "BV1nA41117dx",
+    "aid": 309952238,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/cd4caebbf8c66bd218d35db2ece8a53f4fd02dde.jpg",
+    "title": "鹅鸭傻（2）",
+    "pubdate": 1677312000,
+    "ctime": 1677304994,
+    "desc": "希望观众老爷喜欢这个系列！\n（希望你们喜欢，记得三连）",
+    "desc_v2": [
+        {
+            "raw_text": "希望观众老爷喜欢这个系列！\n（希望你们喜欢，记得三连）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 705,
+    "mission_id": 1308703,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 309952238,
+        "view": 11874521,
+        "danmaku": 28157,
+        "reply": 6478,
+        "favorite": 157265,
+        "coin": 247236,
+        "share": 19682,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 645295,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 1025138333,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1025138333,
+            "page": 1,
+            "from": "vupload",
+            "part": "鹅鸭傻（2）",
+            "duration": 705,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230225a2qxhanqfq27qr1y2lhzj52wm_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 546195,
+            "title": "UP主",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271916,
+            "label_style": 0
+        },
+        {
+            "mid": 5970160,
+            "title": "参演",
+            "name": "小潮院长",
+            "face": "https://i1.hdslb.com/bfs/face/834eb0de8d2f470bf03e4ea92831b14f3824c863.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 2009376000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/wltavwHAkL.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/802418ff03911645648b63aa193ba67997b5a0bc.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/8u7iRTPE7N.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1723132800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度弹幕人气奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 11501014,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 309952238,
+                "type": 2,
+                "desc": "第206期每周必看",
+                "weekly_recommend_num": 206
+            },
+            {
+                "aid": 309952238,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 309952238,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

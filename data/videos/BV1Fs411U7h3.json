@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Fs411U7h3",
+    "aid": 2820724,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/693763cdc7c748b5af88636ae942f70a89a9a6ff.jpg",
+    "title": "【春物MAD】泛式的比企谷观察日记——他和她的青春果然还将继续错下去",
+    "pubdate": 1440742300,
+    "ctime": 1497367945,
+    "desc": "自制 2015 MAD新人战参赛作品。春物MAD在第二季以来普遍以苦大仇深三角恋的模式出现，这个作品的初衷是想做一个更欢乐，更注重于描写侍奉部解决各类事件的万事屋向冒险物语， 虽然最后还是（。 总之这是我入坑一年以来投入最多也是最快乐的一次创作，感谢所有帮助过我的人，也期待观众老爷能喜欢这支风格有些不同的春物。||  联动下同期选手 齿轮の暴君 空白酱的新人战作品 时钟机关之星 av2820716",
+    "desc_v2": [
+        {
+            "raw_text": "自制 2015 MAD新人战参赛作品。春物MAD在第二季以来普遍以苦大仇深三角恋的模式出现，这个作品的初衷是想做一个更欢乐，更注重于描写侍奉部解决各类事件的万事屋向冒险物语， 虽然最后还是（。 总之这是我入坑一年以来投入最多也是最快乐的一次创作，感谢所有帮助过我的人，也期待观众老爷能喜欢这支风格有些不同的春物。||  联动下同期选手 齿轮の暴君 空白酱的新人战作品 时钟机关之星 av2820716",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 294,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 2820724,
+        "view": 1151438,
+        "danmaku": 6568,
+        "reply": 3377,
+        "favorite": 58910,
+        "coin": 77144,
+        "share": 8025,
+        "now_rank": 0,
+        "his_rank": 31,
+        "like": 36485,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 4406256,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 4406256,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 294,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 2820724,
+                "type": 3,
+                "desc": "全站排行榜最高第31名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

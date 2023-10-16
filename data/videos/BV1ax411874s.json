@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1ax411874s",
+    "aid": 13877163,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a8016bbba04f7d22cc4402e580837c0bb747e997.jpg",
+    "title": "训练师老番茄和他的皮皮怪",
+    "pubdate": 1504090846,
+    "ctime": 1503837467,
+    "desc": "游戏：超进化物语\n嘻。",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：超进化物语\n嘻。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 540,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 13877163,
+        "view": 692886,
+        "danmaku": 3569,
+        "reply": 2681,
+        "favorite": 1107,
+        "coin": 3378,
+        "share": 359,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 4094,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 22678716,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 22678716,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 540,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

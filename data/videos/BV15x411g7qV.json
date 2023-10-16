@@ -1,0 +1,107 @@
+{
+    "bvid": "BV15x411g7qV",
+    "aid": 15387030,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/e156a3de3408bb4d2a77aae3466916aaaf21ed66.jpg",
+    "title": "阿根廷舞王番茄",
+    "pubdate": 1507973667,
+    "ctime": 1507973671,
+    "desc": "游戏：El Tango de la Muerte\n之前比较忙！保证下周更新剪辑视频！",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：El Tango de la Muerte\n之前比较忙！保证下周更新剪辑视频！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1372,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 15387030,
+        "view": 692789,
+        "danmaku": 7324,
+        "reply": 2217,
+        "favorite": 2367,
+        "coin": 9591,
+        "share": 930,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 8085,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 25044684,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 25044684,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1372,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

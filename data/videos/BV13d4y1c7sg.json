@@ -1,0 +1,124 @@
+{
+    "bvid": "BV13d4y1c7sg",
+    "aid": 347584565,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/1d8d823e70531a9998c2851f3fc3b6612ec0ce4b.jpg",
+    "title": "人均9.5分！短，但是好看！一年一度推荐国创短片！",
+    "pubdate": 1668245974,
+    "ctime": 1668245974,
+    "desc": "去年介绍了面向新人的小宇宙计划，今年来推荐下另一个活动「胶囊计划」，共有14部动画短片可看！这里节选其中的5部。",
+    "desc_v2": [
+        {
+            "raw_text": "去年介绍了面向新人的小宇宙计划，今年来推荐下另一个活动「胶囊计划」，共有14部动画短片可看！这里节选其中的5部。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 610,
+    "redirect_url": "https://www.bilibili.com/bangumi/play/ep750331",
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 0,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 347584565,
+        "view": 1501644,
+        "danmaku": 2643,
+        "reply": 2351,
+        "favorite": 4476,
+        "coin": 20944,
+        "share": 4442,
+        "now_rank": 0,
+        "his_rank": 81,
+        "like": 120352,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，短片更新！",
+    "cid": 889279968,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 889279968,
+            "page": 1,
+            "from": "vupload",
+            "part": "人均9.5分！短，但是好看！一年一度推荐国创短片！",
+            "duration": 610,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221112a22kbuwm4erda572vyfovo7t1_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 347584565,
+                "type": 3,
+                "desc": "全站排行榜最高第81名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 347584565,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

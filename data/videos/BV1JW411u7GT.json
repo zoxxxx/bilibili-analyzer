@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1JW411u7GT",
+    "aid": 21373336,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/52ac2988c21a80c4f108f5743c1d58f85089c91a.jpg",
+    "title": "老番茄教你什么是捏脸",
+    "pubdate": 1522404057,
+    "ctime": 1522318299,
+    "desc": "相关游戏: 楚留香\n简介补充: 捏脸真是一件有技术含量的事情呢",
+    "desc_v2": [
+        {
+            "raw_text": "相关游戏: 楚留香\n简介补充: 捏脸真是一件有技术含量的事情呢",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 413,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 21373336,
+        "view": 1630154,
+        "danmaku": 9032,
+        "reply": 2310,
+        "favorite": 4176,
+        "coin": 4758,
+        "share": 3062,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 20463,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 35151734,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 35151734,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 413,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

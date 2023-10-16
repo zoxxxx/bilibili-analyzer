@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1vs411b7FF",
+    "aid": 8135027,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/1a2f219d82b96fa9586096d3ce316a8e046c4b4e.jpg",
+    "title": "【老番茄】玩个游戏真特么难！HAP【剧毒】游戏#5",
+    "pubdate": 1484986114,
+    "ctime": 1497424449,
+    "desc": "这游戏居然出2了…………还是很毒！",
+    "desc_v2": [
+        {
+            "raw_text": "这游戏居然出2了…………还是很毒！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 563,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 8135027,
+        "view": 1569067,
+        "danmaku": 6026,
+        "reply": 1784,
+        "favorite": 6055,
+        "coin": 9631,
+        "share": 2266,
+        "now_rank": 0,
+        "his_rank": 38,
+        "like": 15270,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 13377193,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 13377193,
+            "page": 1,
+            "from": "vupload",
+            "part": "hap6_bilibili",
+            "duration": 563,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 8135027,
+                "type": 3,
+                "desc": "全站排行榜最高第38名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

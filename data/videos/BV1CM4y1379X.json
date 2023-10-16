@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1CM4y1379X",
+    "aid": 932737952,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/0cd84e047249a25aff8191798e08ada8c47637c9.jpg",
+    "title": "大作回归！黑马遍地！2021年10月新番导视！【泛式】",
+    "pubdate": 1630232575,
+    "ctime": 1630232576,
+    "desc": "2021年十月新番全资讯导视（十大奶番预测月底出）",
+    "desc_v2": [
+        {
+            "raw_text": "2021年十月新番全资讯导视（十大奶番预测月底出）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 603,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 932737952,
+        "view": 4344180,
+        "danmaku": 31154,
+        "reply": 8890,
+        "favorite": 57169,
+        "coin": 74800,
+        "share": 14998,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 273378,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，导视更新！",
+    "cid": 399098781,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 399098781,
+            "page": 1,
+            "from": "vupload",
+            "part": "10月导视_x264",
+            "duration": 603,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n210829a22zdk7fged5x4nzmsbm119ge_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 932737952,
+                "type": 2,
+                "desc": "第128期每周必看",
+                "weekly_recommend_num": 128
+            },
+            {
+                "aid": 932737952,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 932737952,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

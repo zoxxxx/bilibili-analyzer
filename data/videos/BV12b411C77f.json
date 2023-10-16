@@ -1,0 +1,117 @@
+{
+    "bvid": "BV12b411C77f",
+    "aid": 42018924,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/9bf78c797ff049ff42cef833006d298fdf5fc13b.jpg",
+    "title": "这个游戏可以自己设计剧情？",
+    "pubdate": 1548849605,
+    "ctime": 1548740681,
+    "desc": "游戏：楚留香\n感冒了声音有点奇怪！不好意思！",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：楚留香\n感冒了声音有点奇怪！不好意思！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 627,
+    "order_id": 10000073,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 42018924,
+        "view": 3694789,
+        "danmaku": 12119,
+        "reply": 3581,
+        "favorite": 7856,
+        "coin": 13832,
+        "share": 2816,
+        "now_rank": 0,
+        "his_rank": 35,
+        "like": 63033,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#老番茄##楚留香#",
+    "cid": 73812339,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 73812339,
+            "page": 1,
+            "from": "vupload",
+            "part": "楚留香(3)",
+            "duration": 627,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 42018924,
+                "type": 3,
+                "desc": "全站排行榜最高第35名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

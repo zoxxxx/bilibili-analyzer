@@ -1,0 +1,341 @@
+{
+    "bvid": "BV11A411g7Px",
+    "aid": 333276202,
+    "videos": 1,
+    "tid": 71,
+    "tname": "综艺",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c0238464b9455850b0b6f6f62b8c35c7e9524b1e.jpg",
+    "title": "糟糕！是心动的感觉",
+    "pubdate": 1622167212,
+    "ctime": 1622128489,
+    "desc": "出场BGM\n萨克斯风音乐《Careless Whisper》\n明星回忆演绎  《错位时空》副歌片段\n\n大家要是喜欢这个视频的话可以素质三连哦~\n也可以顺便关注我的频道\n爱你们哟~",
+    "desc_v2": [
+        {
+            "raw_text": "出场BGM\n萨克斯风音乐《Careless Whisper》\n明星回忆演绎  《错位时空》副歌片段\n\n大家要是喜欢这个视频的话可以素质三连哦~\n也可以顺便关注我的频道\n爱你们哟~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1386,
+    "mission_id": 24602,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 562197,
+        "name": "中国BOY超级大猩猩",
+        "face": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg"
+    },
+    "stat": {
+        "aid": 333276202,
+        "view": 4266956,
+        "danmaku": 30245,
+        "reply": 5729,
+        "favorite": 31372,
+        "coin": 35784,
+        "share": 16227,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 216580,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "冥冥之中，被“安排”的一天",
+    "cid": 344960415,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 344960415,
+            "page": 1,
+            "from": "vupload",
+            "part": "【最终版】Reno6 成片",
+            "duration": 1386,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 562197,
+            "title": "UP主",
+            "name": "中国BOY超级大猩猩",
+            "face": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1700841600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 9537169,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "参演",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271915,
+            "label_style": 0
+        },
+        {
+            "mid": 7552204,
+            "title": "参演",
+            "name": "啊吗粽",
+            "face": "https://i1.hdslb.com/bfs/face/61fc06811d9bb41a10a932b9f95ecc3632d82799.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1725120000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1639584000
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、2019年度原创栏目奖UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 4552412,
+            "label_style": 0
+        },
+        {
+            "mid": 520149726,
+            "title": "参演",
+            "name": "拿拿nah",
+            "face": "https://i0.hdslb.com/bfs/face/da0f9d0c04f3fdf843f20b100e6ba0f3aa023936.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1689696000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 925490,
+            "label_style": 0
+        },
+        {
+            "mid": 359423988,
+            "title": "赞助商",
+            "name": "OPPO",
+            "face": "https://i0.hdslb.com/bfs/face/973ed0c413bb350f6b48174dbcc9f4637dc3a560.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1722182400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "OPPO官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 586794,
+            "label_style": 1
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 333276202,
+                "type": 2,
+                "desc": "第114期每周必看",
+                "weekly_recommend_num": 114
+            },
+            {
+                "aid": 333276202,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 333276202,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

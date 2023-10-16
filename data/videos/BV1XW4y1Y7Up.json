@@ -1,0 +1,216 @@
+{
+    "bvid": "BV1XW4y1Y7Up",
+    "aid": 943526243,
+    "videos": 1,
+    "tid": 28,
+    "tname": "原创音乐",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/1b5c6fa23553f1c503c3264de872763a3c88a888.jpg",
+    "title": "智慧老人",
+    "pubdate": 1664596800,
+    "ctime": 1664582559,
+    "desc": "《老银oldman》\n作词/作曲：某幻君/老番茄 \n编曲：Roxtar\n萨克斯：杨秋儒\n录音/混音/母带：杨秋儒\n修音：左教授\n录音棚：Soundwave\n欢度十一假期，送一首老银的歌给各位，因为我们根本停不下来",
+    "desc_v2": [
+        {
+            "raw_text": "《老银oldman》\n作词/作曲：某幻君/老番茄 \n编曲：Roxtar\n萨克斯：杨秋儒\n录音/混音/母带：杨秋儒\n修音：左教授\n录音棚：Soundwave\n欢度十一假期，送一首老银的歌给各位，因为我们根本停不下来",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 303,
+    "mission_id": 979152,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 1577804,
+        "name": "某幻君",
+        "face": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg"
+    },
+    "stat": {
+        "aid": 943526243,
+        "view": 4847409,
+        "danmaku": 15695,
+        "reply": 10174,
+        "favorite": 165121,
+        "coin": 309729,
+        "share": 53334,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 423611,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "疯了 都疯了",
+    "cid": 848353441,
+    "dimension": {
+        "width": 3840,
+        "height": 1920,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 848353441,
+            "page": 1,
+            "from": "vupload",
+            "part": "智慧老人",
+            "duration": 303,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 3840,
+                "height": 1920,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n221001a23rwxdy1td6hexcs26k7yu9q_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 1577804,
+            "title": "UP主",
+            "name": "某幻君",
+            "face": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728748800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1726329600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 8295606,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "演唱",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271916,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 943526243,
+                "type": 2,
+                "desc": "第185期每周必看",
+                "weekly_recommend_num": 185
+            },
+            {
+                "aid": 943526243,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 943526243,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

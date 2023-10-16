@@ -1,0 +1,245 @@
+{
+    "bvid": "BV17p4y1x73N",
+    "aid": 971136596,
+    "videos": 1,
+    "tid": 71,
+    "tname": "综艺",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/1bc2b18b97a79c9c1f2e5e0222a7f6cf18195eb4.jpg",
+    "title": "鸽探驾到！名侦探原来就在B站",
+    "pubdate": 1610591415,
+    "ctime": 1610591417,
+    "desc": "由#百大UP主颁奖#特约赞助出品的《神秘的鸽子》百大侦探剧明天上线！1月15日-21日，每天20:00不间断更新，神秘的鸽子都在这里，咕咕咕~",
+    "desc_v2": [
+        {
+            "raw_text": "由#百大UP主颁奖#特约赞助出品的《神秘的鸽子》百大侦探剧明天上线！1月15日-21日，每天20:00不间断更新，神秘的鸽子都在这里，咕咕咕~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 87,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 235555226,
+        "name": "哔哩哔哩UP主服务中心",
+        "face": "https://i2.hdslb.com/bfs/face/15f2d683568f3c6ff258739a0b0e446980339041.jpg"
+    },
+    "stat": {
+        "aid": 971136596,
+        "view": 880536,
+        "danmaku": 1601,
+        "reply": 1164,
+        "favorite": 6275,
+        "coin": 8096,
+        "share": 1589,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 53418,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#百大UP主颁奖#年度巨作，百大侦探剧《神秘的鸽子》来啦！",
+    "cid": 281991345,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 510,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 281991345,
+            "page": 1,
+            "from": "vupload",
+            "part": "百大安利先导片final",
+            "duration": 87,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 235555226,
+            "title": "UP主",
+            "name": "哔哩哔哩UP主服务中心",
+            "face": "https://i2.hdslb.com/bfs/face/15f2d683568f3c6ff258739a0b0e446980339041.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1929542400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩UP主运营官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1893592,
+            "label_style": 0
+        },
+        {
+            "mid": 168598,
+            "title": "参演",
+            "name": "逍遥散人",
+            "face": "https://i1.hdslb.com/bfs/face/8a5de2d7486251e80307d8600cbf8649eb4035fe.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1697731200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1558540800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2021年度弹幕人气奖UP、直播高能主播",
+                "desc": "代表作《散人干不死》系列",
+                "type": 0
+            },
+            "follower": 6650602,
+            "label_style": 0
+        },
+        {
+            "mid": 63231,
+            "title": "参演",
+            "name": "泛式",
+            "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1722355200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 5581757,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 971136596,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

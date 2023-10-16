@@ -1,0 +1,251 @@
+{
+    "bvid": "BV1JT4y1P77e",
+    "aid": 928893388,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/634cc90e03ac1fa27bccda957dbc64e7e01a66c9.jpg",
+    "title": "2021“画饼”挑战",
+    "pubdate": 1612094412,
+    "ctime": 1612091381,
+    "desc": "来给2021的自己画个饼！ \n我们的新年心愿都在这个视频里了，期待能在#给2021画个饼#标签下看见你们的！\n用奥利奥演绎你的心愿并上传视频，有机会赢取我们的亲笔签名礼盒哟~\n\n大家要是喜欢这个视频的话可以素质三连哦~",
+    "desc_v2": [
+        {
+            "raw_text": "来给2021的自己画个饼！ \n我们的新年心愿都在这个视频里了，期待能在#给2021画个饼#标签下看见你们的！\n用奥利奥演绎你的心愿并上传视频，有机会赢取我们的亲笔签名礼盒哟~\n\n大家要是喜欢这个视频的话可以素质三连哦~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 572,
+    "mission_id": 15850,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 562197,
+        "name": "中国BOY超级大猩猩",
+        "face": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg"
+    },
+    "stat": {
+        "aid": 928893388,
+        "view": 11695908,
+        "danmaku": 56978,
+        "reply": 70816,
+        "favorite": 46905,
+        "coin": 89867,
+        "share": 7367,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 393038,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "别 打 啦 ！",
+    "cid": 290511512,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 290511512,
+            "page": 1,
+            "from": "vupload",
+            "part": "奥利奥Oreo_V3",
+            "duration": 572,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 562197,
+            "title": "UP主",
+            "name": "中国BOY超级大猩猩",
+            "face": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1700841600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 9537168,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "参演",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271914,
+            "label_style": 0
+        },
+        {
+            "mid": 343390083,
+            "title": "赞助商",
+            "name": "奥利奥本奥",
+            "face": "https://i0.hdslb.com/bfs/face/35bafc9d7c9f5e404f055962d6e844ccbe43b722.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1673193600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "奥利奥官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 41302,
+            "label_style": 1
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 928893388,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 928893388,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

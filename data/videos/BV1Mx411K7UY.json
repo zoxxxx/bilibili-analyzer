@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Mx411K7UY",
+    "aid": 1449149,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/3d35051dc0bb1fdd79beeee6d444acf916663ff5.jpg",
+    "title": "【玩坏sao】漫画家桐人第二弹，温暖人心GGO完结篇",
+    "pubdate": 1408694635,
+    "ctime": 1497367945,
+    "desc": "自制 依旧是脑洞超展开的产物，工程量是前作的两倍 || Up主觉得再有趣的东西玩两遍也就没什么意思了，所以这一集不会有内裤ED，而且风格会和前作有极大的不同 || 没看过第一话或者想听内裤ED的戳：av1357375 || 这类视频没什么先例，我自己也在摸索应该怎么去做，比起前作的纯恶搞，这集我更多的是一种 “啊 我想去讲述这样一个故事”的感觉，总之跟前作完全不同风格的第二话，希望大家喜欢。",
+    "desc_v2": [
+        {
+            "raw_text": "自制 依旧是脑洞超展开的产物，工程量是前作的两倍 || Up主觉得再有趣的东西玩两遍也就没什么意思了，所以这一集不会有内裤ED，而且风格会和前作有极大的不同 || 没看过第一话或者想听内裤ED的戳：av1357375 || 这类视频没什么先例，我自己也在摸索应该怎么去做，比起前作的纯恶搞，这集我更多的是一种 “啊 我想去讲述这样一个故事”的感觉，总之跟前作完全不同风格的第二话，希望大家喜欢。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1110,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 1449149,
+        "view": 884284,
+        "danmaku": 67399,
+        "reply": 2866,
+        "favorite": 26381,
+        "coin": 35243,
+        "share": 3730,
+        "now_rank": 0,
+        "his_rank": 12,
+        "like": 9157,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 2182676,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 2182676,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 1110,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 1449149,
+                "type": 3,
+                "desc": "全站排行榜最高第12名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

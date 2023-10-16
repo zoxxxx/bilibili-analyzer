@@ -1,0 +1,131 @@
+{
+    "bvid": "BV1jF411B7sw",
+    "aid": 295064737,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/34729ceee761047d51e9f288644a3879bd5579b7.jpg",
+    "title": "【泛式/剧情MAD】无败的陨落，奇迹的复活!「T.E.I.O」",
+    "pubdate": 1640338973,
+    "ctime": 1640338973,
+    "desc": "《赛马娘2》东海帝皇 个人向剧情MAD\n本来已经不打算做了，后来无意中听到两首特别特别特别适合的BGM，于是毅然开坑。\n历经2个月80小时，期间各种突发情况和挫折，但最终，我做到了。希望你喜欢这个视频。",
+    "desc_v2": [
+        {
+            "raw_text": "《赛马娘2》东海帝皇 个人向剧情MAD\n本来已经不打算做了，后来无意中听到两首特别特别特别适合的BGM，于是毅然开坑。\n历经2个月80小时，期间各种突发情况和挫折，但最终，我做到了。希望你喜欢这个视频。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 407,
+    "mission_id": 263067,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 295064737,
+        "view": 11423696,
+        "danmaku": 18981,
+        "reply": 28715,
+        "favorite": 424568,
+        "coin": 834274,
+        "share": 208804,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 750567,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "我做到了。 希望你喜欢这个视频",
+    "cid": 467586220,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 467586220,
+            "page": 1,
+            "from": "vupload",
+            "part": "【泛式年度诚献】无败的陨落，奇迹的复活!「T.E.I.O」",
+            "duration": 407,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n211224a2cer0nuws4qx32il9j2x8jjr_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 295064737,
+                "type": 2,
+                "desc": "第145期每周必看",
+                "weekly_recommend_num": 145
+            },
+            {
+                "aid": 295064737,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 295064737,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

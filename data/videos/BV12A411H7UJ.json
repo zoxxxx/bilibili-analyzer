@@ -1,0 +1,128 @@
+{
+    "bvid": "BV12A411H7UJ",
+    "aid": 331199326,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/1b25d33066f7fde084e9a99e78b53cf09abb577f.jpg",
+    "title": "巨人最终季｜宣战名场面BGM更换挑战！你最喜欢哪一首？【泛式】",
+    "pubdate": 1610455118,
+    "ctime": 1610455118,
+    "desc": "巨人最终季第5话BGM更换测试，本视频仅提供思路，没有“比原版更好”的意思。\n-如果你觉得原版更好，我同意。\n-如果你觉得二创版更符合你的预期，我也很荣幸，但请不要拿我的视频去贬低官方。",
+    "desc_v2": [
+        {
+            "raw_text": "巨人最终季第5话BGM更换测试，本视频仅提供思路，没有“比原版更好”的意思。\n-如果你觉得原版更好，我同意。\n-如果你觉得二创版更符合你的预期，我也很荣幸，但请不要拿我的视频去贬低官方。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 564,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 331199326,
+        "view": 2566403,
+        "danmaku": 14410,
+        "reply": 9155,
+        "favorite": 52448,
+        "coin": 96905,
+        "share": 19331,
+        "now_rank": 0,
+        "his_rank": 19,
+        "like": 176919,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，巨人更新！",
+    "cid": 281550780,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 281550780,
+            "page": 1,
+            "from": "vupload",
+            "part": "巨人F05_x264",
+            "duration": 564,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 331199326,
+                "type": 2,
+                "desc": "第95期每周必看",
+                "weekly_recommend_num": 95
+            },
+            {
+                "aid": 331199326,
+                "type": 3,
+                "desc": "全站排行榜最高第19名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 331199326,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

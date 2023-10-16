@@ -1,0 +1,116 @@
+{
+    "bvid": "BV18W411W7rx",
+    "aid": 20507038,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/172322e3203f8cb156420f9a883b92ae9b2f1c45.jpg",
+    "title": "【人形败犬集锦】太莓良心了？浅谈党争中的萌系败犬！「如何成为一只立派的败犬」",
+    "pubdate": 1520483845,
+    "ctime": 1520483845,
+    "desc": "视频类型: 动漫杂谈\n相关题材: Darling in the Franxx，路人女主的养成方法，埃罗芒阿老师，Just Because，龙与虎 等\n简介: 又欺负015，简直莓眼看了，来聊一聊党争中的那些败犬现象\n\n微博 @泛式 http://www.weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "视频类型: 动漫杂谈\n相关题材: Darling in the Franxx，路人女主的养成方法，埃罗芒阿老师，Just Because，龙与虎 等\n简介: 又欺负015，简直莓眼看了，来聊一聊党争中的那些败犬现象\n\n微博 @泛式 http://www.weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 634,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 20507038,
+        "view": 2274793,
+        "danmaku": 23415,
+        "reply": 6668,
+        "favorite": 67557,
+        "coin": 173876,
+        "share": 12315,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 102213,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "大家好久不见，我是归来的败犬区up主泛式。\n之前看到某个大佬P的莓莓表情包，笑的我把显示器都砸坏了，当时就决定给015专门做期视频！",
+    "cid": 33530136,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 33530136,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 634,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 20507038,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

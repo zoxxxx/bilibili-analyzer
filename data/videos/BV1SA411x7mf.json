@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1SA411x7mf",
+    "aid": 330449830,
+    "videos": 1,
+    "tid": 216,
+    "tname": "鬼畜剧场",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b513c97ca4356a64e9c3e2d1b8039dce464ef3c5.jpg",
+    "title": "69岁，三角恋被劈腿",
+    "pubdate": 1606378647,
+    "ctime": 1606378232,
+    "desc": "恋爱大师马保国，双份的快乐",
+    "desc_v2": [
+        {
+            "raw_text": "恋爱大师马保国，双份的快乐",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 134,
+    "mission_id": 14960,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 330449830,
+        "view": 848174,
+        "danmaku": 1655,
+        "reply": 2296,
+        "favorite": 18809,
+        "coin": 41920,
+        "share": 12330,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 93641,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "为什么会变成这样呢？",
+    "cid": 259894638,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 259894638,
+            "page": 1,
+            "from": "vupload",
+            "part": "马保国白学",
+            "duration": 134,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

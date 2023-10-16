@@ -19,4 +19,5 @@ class VideoCrawler(Crawler):
     
     def getData(self):
         data = self.getVideoArchive()
+        data.pop('ugc_season', None)
         return data

@@ -1,0 +1,124 @@
+{
+    "bvid": "BV16X4y1S7Zi",
+    "aid": 353312388,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/adf808f9e8c139739699ef6505d46ca23d148003.jpg",
+    "title": "空中废人",
+    "pubdate": 1678505400,
+    "ctime": 1678462965,
+    "desc": "游戏：Tightrope Walking",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：Tightrope Walking",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 445,
+    "mission_id": 1369147,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 353312388,
+        "view": 2440879,
+        "danmaku": 3902,
+        "reply": 1394,
+        "favorite": 19141,
+        "coin": 34700,
+        "share": 2505,
+        "now_rank": 0,
+        "his_rank": 20,
+        "like": 196658,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 1047565942,
+    "dimension": {
+        "width": 2560,
+        "height": 1440,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1047565942,
+            "page": 1,
+            "from": "vupload",
+            "part": "空中废人",
+            "duration": 445,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 2560,
+                "height": 1440,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230310a23cf5hvxbuanlitzwjdg1cdl_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 353312388,
+                "type": 3,
+                "desc": "全站排行榜最高第20名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 353312388,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

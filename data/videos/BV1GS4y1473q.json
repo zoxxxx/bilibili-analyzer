@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1GS4y1473q",
+    "aid": 729158169,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/b6dd846e4a3b2d93e36d37ced5a51702b3487a7c.jpg",
+    "title": "试玩米哈游动作新游！《绝区零》首测体验报告！",
+    "pubdate": 1659673800,
+    "ctime": 1659640698,
+    "desc": "米哈游3D动作新游《绝区零》一测试玩体验报告，剧情+玩法+感想",
+    "desc_v2": [
+        {
+            "raw_text": "米哈游3D动作新游《绝区零》一测试玩体验报告，剧情+玩法+感想",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 580,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 729158169,
+        "view": 2970431,
+        "danmaku": 15308,
+        "reply": 11118,
+        "favorite": 28252,
+        "coin": 44243,
+        "share": 33898,
+        "now_rank": 0,
+        "his_rank": 19,
+        "like": 240943,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式店长，空洞更新！",
+    "cid": 793918281,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1413169,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 793918281,
+            "page": 1,
+            "from": "vupload",
+            "part": "试玩米哈游动作新游！《绝区零》首测体验报告！",
+            "duration": 580,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220804a2hwfbtyjn134s20uuj0hp2e2_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 729158169,
+                "type": 3,
+                "desc": "全站排行榜最高第19名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 729158169,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

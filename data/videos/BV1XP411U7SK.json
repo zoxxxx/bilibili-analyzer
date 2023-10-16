@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1XP411U7SK",
+    "aid": 312487793,
+    "videos": 1,
+    "tid": 28,
+    "tname": "原创音乐",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/39214e83af1aa0a77be6054725102c37123e28dd.jpg",
+    "title": "开摆咯~",
+    "pubdate": 1681531200,
+    "ctime": 1681480505,
+    "desc": "《随便！》\n演唱/作词：老番茄 \n编曲/混音：杨秋儒\nPV：Akamei\n原画：盒装小椒硬糖",
+    "desc_v2": [
+        {
+            "raw_text": "《随便！》\n演唱/作词：老番茄 \n编曲/混音：杨秋儒\nPV：Akamei\n原画：盒装小椒硬糖",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 170,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 312487793,
+        "view": 3825310,
+        "danmaku": 2581,
+        "reply": 4143,
+        "favorite": 106144,
+        "coin": 121222,
+        "share": 14833,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 373383,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 1095444408,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1095444408,
+            "page": 1,
+            "from": "vupload",
+            "part": "开摆咯~",
+            "duration": 170,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230414qn37sdfx3fl99wn3d5esvntpy_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 312487793,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 312487793,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

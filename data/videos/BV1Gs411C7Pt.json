@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Gs411C7Pt",
+    "aid": 5551896,
+    "videos": 2,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a037bb530f987f4a67db0ebbeb5dd217550e2268.jpg",
+    "title": "【史诗级误解】甲铁城x罪恶王冠的超同步套路剧场（吐血完整版）——霸权三巨头倾情打造！",
+    "pubdate": 1469789069,
+    "ctime": 1497367945,
+    "desc": "up主呕心沥血12年制作的年度霸权大片《甲铁城的罪恶王冠》， 一口气看完所有大河内套路的超爽完整版。好不容易请来了荒木哲郎x大河内一楼x泽野弘之的霸权确保三巨头，还是卖不到8w8的话 up主就真的只能去卖身了。\n\n\n新浪微博 http://weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "up主呕心沥血12年制作的年度霸权大片《甲铁城的罪恶王冠》， 一口气看完所有大河内套路的超爽完整版。好不容易请来了荒木哲郎x大河内一楼x泽野弘之的霸权确保三巨头，还是卖不到8w8的话 up主就真的只能去卖身了。\n\n\n新浪微博 http://weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1051,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 5551896,
+        "view": 1392917,
+        "danmaku": 47359,
+        "reply": 5511,
+        "favorite": 61531,
+        "coin": 111791,
+        "share": 23825,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 18872,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 9017320,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 9017320,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 763,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 9017321,
+            "page": 2,
+            "from": "vupload",
+            "part": "对比版+花絮",
+            "duration": 288,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 5551896,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

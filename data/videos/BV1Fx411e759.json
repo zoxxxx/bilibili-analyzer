@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Fx411e759",
+    "aid": 10882755,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/be2cf64a351ed518c212c3710df14b9c75b2f696.jpg",
+    "title": "【老番茄】超硬汉向层层恐惧解说！（第一期）",
+    "pubdate": 1495951789,
+    "ctime": 1497424449,
+    "desc": "一点都不恐怖！丝毫没有被吓倒！",
+    "desc_v2": [
+        {
+            "raw_text": "一点都不恐怖！丝毫没有被吓倒！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 670,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 10882755,
+        "view": 3718233,
+        "danmaku": 23265,
+        "reply": 2613,
+        "favorite": 15936,
+        "coin": 13950,
+        "share": 4715,
+        "now_rank": 0,
+        "his_rank": 17,
+        "like": 58629,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 349045515,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 349045515,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 670,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 10882755,
+                "type": 3,
+                "desc": "全站排行榜最高第17名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

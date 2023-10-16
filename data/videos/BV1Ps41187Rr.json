@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Ps41187Rr",
+    "aid": 8234265,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/46071168fba406bee974af2b3890df41ffa70326.jpg",
+    "title": "【老番茄】白切鸡的正确做法！",
+    "pubdate": 1485423861,
+    "ctime": 1497424449,
+    "desc": "要鸡年了，下厨给大家做道菜。",
+    "desc_v2": [
+        {
+            "raw_text": "要鸡年了，下厨给大家做道菜。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 125,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 8234265,
+        "view": 2837460,
+        "danmaku": 14320,
+        "reply": 4724,
+        "favorite": 27849,
+        "coin": 45967,
+        "share": 22201,
+        "now_rank": 0,
+        "his_rank": 37,
+        "like": 68383,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 13546266,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 13546266,
+            "page": 1,
+            "from": "vupload",
+            "part": "尖叫鸡_bilibili",
+            "duration": 125,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 8234265,
+                "type": 3,
+                "desc": "全站排行榜最高第37名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

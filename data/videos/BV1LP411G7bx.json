@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1LP411G7bx",
+    "aid": 302915190,
+    "videos": 1,
+    "tid": 28,
+    "tname": "原创音乐",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c86fa57e07323dfc63400b71118639843417eb52.jpg",
+    "title": "情商太高，也是一种负担…",
+    "pubdate": 1662781800,
+    "ctime": 1662757319,
+    "desc": "作词/作曲：老番茄\n编曲：杨秋儒\nMV：藤井旋风   虾丸\n友情出演：力元君   雨哥到处跑   某幻君   中国BOY超级大猩猩\n非常感谢好兄弟们的友情出演！！！摇篮真的好热啊！！！",
+    "desc_v2": [
+        {
+            "raw_text": "作词/作曲：老番茄\n编曲：杨秋儒\nMV：藤井旋风   虾丸\n友情出演：力元君   雨哥到处跑   某幻君   中国BOY超级大猩猩\n非常感谢好兄弟们的友情出演！！！摇篮真的好热啊！！！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 266,
+    "mission_id": 813036,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 302915190,
+        "view": 7801884,
+        "danmaku": 13098,
+        "reply": 8005,
+        "favorite": 155784,
+        "coin": 275678,
+        "share": 32989,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 686701,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 828543233,
+    "dimension": {
+        "width": 3840,
+        "height": 2160,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 828543233,
+            "page": 1,
+            "from": "vupload",
+            "part": "情商太高，也是一种负担…",
+            "duration": 266,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 3840,
+                "height": 2160,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220910a22fi0vrmk4qc2z2ubc6lx7tb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 302915190,
+                "type": 2,
+                "desc": "第182期每周必看",
+                "weekly_recommend_num": 182
+            },
+            {
+                "aid": 302915190,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 302915190,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

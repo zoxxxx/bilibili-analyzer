@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1gs4y1w7jK",
+    "aid": 953079013,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/19fcdd637978d004f167bb1c5f44752849caa439.jpg",
+    "title": "看完4月新番，外星人连夜毁灭地球......【泛式】",
+    "pubdate": 1682770056,
+    "ctime": 1682770056,
+    "desc": "2023年4月新番，三集定律中期吐槽！\n这期爆爆肝爆肝爆肝爆肝肝求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连四月新番！！",
+    "desc_v2": [
+        {
+            "raw_text": "2023年4月新番，三集定律中期吐槽！\n这期爆爆肝爆肝爆肝爆肝肝求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连四月新番！！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 622,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 953079013,
+        "view": 4676430,
+        "danmaku": 16487,
+        "reply": 7829,
+        "favorite": 85518,
+        "coin": 259144,
+        "share": 21740,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 368160,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，五一更新！",
+    "cid": 1113096665,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1113096665,
+            "page": 1,
+            "from": "vupload",
+            "part": "看完4月新番，外星人连夜毁灭地球......【泛式】",
+            "duration": 622,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230429a21yvltjc978zq8eersgvkuxj_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 953079013,
+                "type": 2,
+                "desc": "第215期每周必看",
+                "weekly_recommend_num": 215
+            },
+            {
+                "aid": 953079013,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 953079013,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Nx411N7NJ",
+    "aid": 1796506,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/f922e5855ea29e7a0ce0543d67d768e479f7d9fa.jpg",
+    "title": "【斩.赤瞳/伪剧情】塔茲米x威尔的正义物语【伪完结纪念】",
+    "pubdate": 1418455212,
+    "ctime": 1497367945,
+    "desc": "很喜欢双主角设定，最初想用这部作品的素材做一个架空的原创故事，但正好碰上动画原创剧情的某些场景和我的口胡设定有些相似，于是最后就变成了这样一个半误解向+半完结纪念。  ||  剧情简介：威尔发现了帝国的阴暗面后决定继承兰的遗愿，渴望从内部进行改革，但最终还是不敌从外部展开革命的塔茲米，在决斗中战死，至此狩人6人全灭，革命成功。 \r\n||  （最后感谢下Loli Mad组全员在肉体上对我的支持。）",
+    "desc_v2": [
+        {
+            "raw_text": "很喜欢双主角设定，最初想用这部作品的素材做一个架空的原创故事，但正好碰上动画原创剧情的某些场景和我的口胡设定有些相似，于是最后就变成了这样一个半误解向+半完结纪念。  ||  剧情简介：威尔发现了帝国的阴暗面后决定继承兰的遗愿，渴望从内部进行改革，但最终还是不敌从外部展开革命的塔茲米，在决斗中战死，至此狩人6人全灭，革命成功。 \r\n||  （最后感谢下Loli Mad组全员在肉体上对我的支持。）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 298,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 1796506,
+        "view": 744439,
+        "danmaku": 6108,
+        "reply": 1647,
+        "favorite": 22061,
+        "coin": 15416,
+        "share": 2802,
+        "now_rank": 0,
+        "his_rank": 17,
+        "like": 12816,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 2755490,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 2755490,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 298,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 1796506,
+                "type": 3,
+                "desc": "全站排行榜最高第17名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

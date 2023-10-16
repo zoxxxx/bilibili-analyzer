@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1UJ411S77Q",
+    "aid": 75565699,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/d3be8cef1e3c57a1f85caa442d00f2088b5fea31.jpg",
+    "title": "番茄带你经营剧团！",
+    "pubdate": 1573897808,
+    "ctime": 1573704429,
+    "desc": "游戏《A3!满开剧团》，带你看看舞台剧团的台前幕后",
+    "desc_v2": [
+        {
+            "raw_text": "游戏《A3!满开剧团》，带你看看舞台剧团的台前幕后",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 899,
+    "order_id": 10014139,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 75565699,
+        "view": 4177157,
+        "danmaku": 10482,
+        "reply": 2479,
+        "favorite": 8265,
+        "coin": 18073,
+        "share": 1916,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 99634,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#A3!满开剧团##A3!##满开剧团#",
+    "cid": 129269534,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 129269534,
+            "page": 1,
+            "from": "vupload",
+            "part": "a3改",
+            "duration": 899,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

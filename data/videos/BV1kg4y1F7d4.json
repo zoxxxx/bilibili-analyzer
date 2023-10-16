@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1kg4y1F7d4",
+    "aid": 826311105,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/6c0e2b714fcc388bd225eeb59e7c20c907676411.jpg",
+    "title": "这个游戏每天能玩36小时，但代价是......",
+    "pubdate": 1684580400,
+    "ctime": 1684571159,
+    "desc": "其实世界每天都不止24小时，然而多出的12小时如果你胆敢窥视......",
+    "desc_v2": [
+        {
+            "raw_text": "其实世界每天都不止24小时，然而多出的12小时如果你胆敢窥视......",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 578,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 826311105,
+        "view": 1535596,
+        "danmaku": 3927,
+        "reply": 2314,
+        "favorite": 16169,
+        "coin": 7564,
+        "share": 4651,
+        "now_rank": 0,
+        "his_rank": 93,
+        "like": 90079,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，怪谈更新......",
+    "cid": 1135888425,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1413169,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1135888425,
+            "page": 1,
+            "from": "vupload",
+            "part": "这个游戏每天能玩36小时，但代价是......",
+            "duration": 578,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n230520a210tk6tp5py3xi8hgtvz636f_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 826311105,
+                "type": 3,
+                "desc": "全站排行榜最高第93名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 826311105,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

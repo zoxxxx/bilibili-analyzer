@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1VG4y1V7ca",
+    "aid": 818353038,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/f8eed9ae4adaff33393a49f91ac14bdf2422aedf.jpg",
+    "title": "评分5.5！这部动画砸钱无数，却让原作风评被害......",
+    "pubdate": 1670150214,
+    "ctime": 1670149414,
+    "desc": "简介：当一款被你疯狂吐槽过的动画，出了手游时……",
+    "desc_v2": [
+        {
+            "raw_text": "简介：当一款被你疯狂吐槽过的动画，出了手游时……",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 603,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 818353038,
+        "view": 2686266,
+        "danmaku": 8690,
+        "reply": 3949,
+        "favorite": 23210,
+        "coin": 14778,
+        "share": 6427,
+        "now_rank": 0,
+        "his_rank": 29,
+        "like": 146691,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，清算更新",
+    "cid": 912095089,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1413169,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 912095089,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 603,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n221204a2225dhej9oifpe13zj76vhtb_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 818353038,
+                "type": 3,
+                "desc": "全站排行榜最高第29名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 818353038,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

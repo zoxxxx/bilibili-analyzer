@@ -1,0 +1,203 @@
+{
+    "bvid": "BV1Pz4y1y7PG",
+    "aid": 585204007,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/5f559a7b220a6b1a0fa37bbba15e998991d5c8d6.jpg",
+    "title": "百万粉up主勇闯警犬基地！被警犬扑咬有多痛？！【泛式X守护解放西】",
+    "pubdate": 1604397610,
+    "ctime": 1604385586,
+    "desc": "你们来咬我啊！",
+    "desc_v2": [
+        {
+            "raw_text": "你们来咬我啊！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 676,
+    "redirect_url": "https://www.bilibili.com/bangumi/play/ep359437",
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 0,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 7584632,
+        "name": "哔哩哔哩纪录片",
+        "face": "https://i2.hdslb.com/bfs/face/e4c9c05514017443f5ff05ceccfd330804fb44cd.jpg"
+    },
+    "stat": {
+        "aid": 585204007,
+        "view": 1202069,
+        "danmaku": 3056,
+        "reply": 749,
+        "favorite": 270,
+        "coin": 8132,
+        "share": 4730,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 41352,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "知名UP主勇闯警犬基地，偷狗粮？汪汪汪？#守护解放西#",
+    "cid": 254375408,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 254375408,
+            "page": 1,
+            "from": "vupload",
+            "part": "泛式成片 新新",
+            "duration": 676,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 7584632,
+            "title": "UP主",
+            "name": "哔哩哔哩纪录片",
+            "face": "https://i2.hdslb.com/bfs/face/e4c9c05514017443f5ff05ceccfd330804fb44cd.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1946736000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩纪录片官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 8302596,
+            "label_style": 0
+        },
+        {
+            "mid": 63231,
+            "title": "参演",
+            "name": "泛式",
+            "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1722355200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 5581757,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 585204007,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

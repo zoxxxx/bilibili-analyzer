@@ -1,0 +1,130 @@
+{
+    "bvid": "BV19v4y1N7pJ",
+    "aid": 553664124,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/db7cca87415e7a7abb41d366564e097cb0501d29.jpg",
+    "title": "看完4月新番，吓得我当场打开了剪辑软件！【泛式】",
+    "pubdate": 1651322326,
+    "ctime": 1651322326,
+    "desc": "2022年4月新番，中期吐槽+整活剧场\n求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连",
+    "desc_v2": [
+        {
+            "raw_text": "2022年4月新番，中期吐槽+整活剧场\n求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 570,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 553664124,
+        "view": 4361195,
+        "danmaku": 28675,
+        "reply": 9464,
+        "favorite": 45136,
+        "coin": 119117,
+        "share": 11443,
+        "now_rank": 0,
+        "his_rank": 10,
+        "like": 276397,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，露一手给你们看看",
+    "cid": 588928595,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 588928595,
+            "page": 1,
+            "from": "vupload",
+            "part": "4月吐槽_x264",
+            "duration": 570,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220430a21cp1t1eqnrorj1v3b1591v9_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 553664124,
+                "type": 2,
+                "desc": "第163期每周必看",
+                "weekly_recommend_num": 163
+            },
+            {
+                "aid": 553664124,
+                "type": 3,
+                "desc": "全站排行榜最高第10名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 553664124,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,130 @@
+{
+    "bvid": "BV17x411w7gX",
+    "aid": 170336,
+    "videos": 2,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 2,
+    "pic": "http://i1.hdslb.com/bfs/archive/33beea35f66a51a44f8819b9316b8665fe7e6c13.jpg",
+    "title": "【Fate/Zero X 搞笑日和】剑圣Saber--新增中配版",
+    "pubdate": 1320926546,
+    "ctime": 1497367945,
+    "desc": "原创 虽说是Fate/Zero，但二爷还是出现了。2分25秒处附送二爷治愈人心的爽朗笑容 2P是中配版",
+    "desc_v2": [
+        {
+            "raw_text": "原创 虽说是Fate/Zero，但二爷还是出现了。2分25秒处附送二爷治愈人心的爽朗笑容 2P是中配版",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 543,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 170336,
+        "view": 529998,
+        "danmaku": 2435,
+        "reply": 1479,
+        "favorite": 3868,
+        "coin": 1569,
+        "share": 475,
+        "now_rank": 0,
+        "his_rank": 342,
+        "like": 9167,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 280356,
+    "dimension": {
+        "width": 720,
+        "height": 480,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 280356,
+            "page": 1,
+            "from": "vupload",
+            "part": "1p",
+            "duration": 272,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 720,
+                "height": 480,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 281473,
+            "page": 2,
+            "from": "vupload",
+            "part": "2. 中配版",
+            "duration": 271,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 720,
+                "height": 480,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 170336,
+                "type": 3,
+                "desc": "全站排行榜最高第342名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1jW411y7Pa",
+    "aid": 31666612,
+    "videos": 1,
+    "tid": 65,
+    "tname": "网络游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/3823ce4e7e79e37af88066a0a8ad8eca38197df0.jpg",
+    "title": "【老番茄】与广东小姐姐互秀台湾口音",
+    "pubdate": 1536908416,
+    "ctime": 1536908417,
+    "desc": "希望大家多投硬币！帮忙收藏！过几天取消也没关系！",
+    "desc_v2": [
+        {
+            "raw_text": "希望大家多投硬币！帮忙收藏！过几天取消也没关系！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 539,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 31666612,
+        "view": 3361734,
+        "danmaku": 13466,
+        "reply": 2035,
+        "favorite": 21491,
+        "coin": 54481,
+        "share": 5037,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 81805,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#老番茄##吃鸡##绝地求生#",
+    "cid": 55377519,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 55377519,
+            "page": 1,
+            "from": "vupload",
+            "part": "pubg13_2_x264",
+            "duration": 539,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 31666612,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

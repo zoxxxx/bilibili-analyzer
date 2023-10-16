@@ -1,0 +1,131 @@
+{
+    "bvid": "BV18Z4y1V7ZJ",
+    "aid": 372617316,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/3c9fe48e1dde9ffce1f46ee04880cacf0de9384c.jpg",
+    "title": "【泛式/剧情MAD】原来你是我最想留住的幸运 「春物完结篇」",
+    "pubdate": 1603448184,
+    "ctime": 1603448184,
+    "desc": "前年想用《小幸运》做一个MAD，去年想用「团子素材」做一个MAD，今年我完成了这个梦想。",
+    "desc_v2": [
+        {
+            "raw_text": "前年想用《小幸运》做一个MAD，去年想用「团子素材」做一个MAD，今年我完成了这个梦想。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 298,
+    "mission_id": 14703,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 372617316,
+        "view": 5356951,
+        "danmaku": 12976,
+        "reply": 13084,
+        "favorite": 225783,
+        "coin": 418439,
+        "share": 86609,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 405248,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "谨以此作，献给所有爱而不得之人",
+    "cid": 394293669,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 394293669,
+            "page": 1,
+            "from": "vupload",
+            "part": "[春物]你是我最想留住的幸运",
+            "duration": 298,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n210822a2388f5f3yh81h31gr8c9o8y1_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 372617316,
+                "type": 2,
+                "desc": "第84期每周必看",
+                "weekly_recommend_num": 84
+            },
+            {
+                "aid": 372617316,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 372617316,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

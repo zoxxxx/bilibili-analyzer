@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1rJ411a7JQ",
+    "aid": 81134323,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/508bba57ff11b3b77524143712ab362f7547f911.jpg",
+    "title": "惊了！B站竟然自己搞了个跨年晚会？看到节目单我裂开了！",
+    "pubdate": 1577606554,
+    "ctime": 1577606554,
+    "desc": "B站竟然自己搞了个跨年晚会 www.bilibili.com/blackboard/topic/2019.html",
+    "desc_v2": [
+        {
+            "raw_text": "B站竟然自己搞了个跨年晚会 www.bilibili.com/blackboard/topic/2019.html",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 409,
+    "order_id": 10018050,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 81134323,
+        "view": 1552558,
+        "danmaku": 11304,
+        "reply": 4787,
+        "favorite": 15775,
+        "coin": 31762,
+        "share": 10226,
+        "now_rank": 0,
+        "his_rank": 19,
+        "like": 95422,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，跨年更新",
+    "cid": 138854963,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 138854963,
+            "page": 1,
+            "from": "vupload",
+            "part": "新年晚会cm_x264",
+            "duration": 409,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 81134323,
+                "type": 3,
+                "desc": "全站排行榜最高第19名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 81134323,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

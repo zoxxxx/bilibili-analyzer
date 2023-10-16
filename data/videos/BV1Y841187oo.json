@@ -1,0 +1,547 @@
+{
+    "bvid": "BV1Y841187oo",
+    "aid": 220133214,
+    "videos": 1,
+    "tid": 28,
+    "tname": "原创音乐",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/cf77fb857ab724368eea8c1317881eccf72ef525.png",
+    "title": "【预告】我们想和世界谈谈",
+    "pubdate": 1668657600,
+    "ctime": 1668501138,
+    "desc": "【传说有什么事想告诉世界，只要寻找到“世界树洞”即可，这一天8位UP主来到了“世界树洞”，将想说的话告诉了一位叫做“世界代班”的人，可这个人似乎有些奇怪，这里真的是“世界树洞”吗？】\n \n《我们想和世界谈谈》\nbilibili X 网易云音乐 联合打造的B站音乐人首张全原创合辑，八位B站原创音乐新星联手明星制作人，用音乐说话，和世界谈谈。\n \n台词：烛萤/萝卜卜\n后期：苍bule/上杉葵\n“世界代班”-配音：麦克白\n\n企划监制：波吉Cooper \n项目监制：黄俊 / 唐晶晶\n合辑企划：Syokyo Li / Zacc / 萝卜卜\n项目统筹：Vancci / Syokyo Li / Amberrrrrrr / Bella\n项目策划：史洪乙 / 丁一潇 / 回凤超\n版权统筹：Bella / 王政典 / 苏文嫒\n宣传统筹：柚子 / Zacc\n封面设计：Niall\n\n出品：bilibili音乐X网易云音乐",
+    "desc_v2": [
+        {
+            "raw_text": "【传说有什么事想告诉世界，只要寻找到“世界树洞”即可，这一天8位UP主来到了“世界树洞”，将想说的话告诉了一位叫做“世界代班”的人，可这个人似乎有些奇怪，这里真的是“世界树洞”吗？】\n \n《我们想和世界谈谈》\nbilibili X 网易云音乐 联合打造的B站音乐人首张全原创合辑，八位B站原创音乐新星联手明星制作人，用音乐说话，和世界谈谈。\n \n台词：烛萤/萝卜卜\n后期：苍bule/上杉葵\n“世界代班”-配音：麦克白\n\n企划监制：波吉Cooper \n项目监制：黄俊 / 唐晶晶\n合辑企划：Syokyo Li / Zacc / 萝卜卜\n项目统筹：Vancci / Syokyo Li / Amberrrrrrr / Bella\n项目策划：史洪乙 / 丁一潇 / 回凤超\n版权统筹：Bella / 王政典 / 苏文嫒\n宣传统筹：柚子 / Zacc\n封面设计：Niall\n\n出品：bilibili音乐X网易云音乐",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 324,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 32708543,
+        "name": "大家的音乐机",
+        "face": "https://i2.hdslb.com/bfs/face/927600c9ac351375bc63fa6e0ce06e7ed7a8bbd3.jpg"
+    },
+    "stat": {
+        "aid": 220133214,
+        "view": 1536055,
+        "danmaku": 4260,
+        "reply": 1703,
+        "favorite": 18481,
+        "coin": 24642,
+        "share": 5620,
+        "now_rank": 0,
+        "his_rank": 84,
+        "like": 108695,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "【预告】【我们想和世界谈谈】用音乐说话，和世界谈谈｜B站音乐人首张全原创专辑\n11月18日起，陆续上线。",
+    "cid": 892312659,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 853444,
+    "festival_jump_url": "https://www.bilibili.com/festival/talktotheworld?bvid=BV1Y841187oo",
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 892312659,
+            "page": 1,
+            "from": "vupload",
+            "part": "【预告】我们想和世界谈谈",
+            "duration": 324,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n221115a23dsytj3j5u0uvxlffhxgwce_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 32708543,
+            "title": "UP主",
+            "name": "大家的音乐机",
+            "face": "https://i2.hdslb.com/bfs/face/927600c9ac351375bc63fa6e0ce06e7ed7a8bbd3.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699545600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "音乐区官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1436985,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "演唱",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271915,
+            "label_style": 0
+        },
+        {
+            "mid": 17134369,
+            "title": "演唱",
+            "name": "司墨尧smile",
+            "face": "https://i1.hdslb.com/bfs/face/c0633737a7d7d7a2b53cd682eda4dc7c5b509247.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1730131200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1626364800
+            },
+            "official": {
+                "role": 7,
+                "title": "bilibili 2022百大UP主、音乐人司墨尧smile",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 2722431,
+            "label_style": 0
+        },
+        {
+            "mid": 337312411,
+            "title": "演唱",
+            "name": "翠花不太脆",
+            "face": "https://i1.hdslb.com/bfs/face/df1ed77ec248ef0242b7b8b915739e4199d889df.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1727020800000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1606752000
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名音乐UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 2037174,
+            "label_style": 0
+        },
+        {
+            "mid": 3164043,
+            "title": "演唱",
+            "name": "Kirsty刘瑾睿",
+            "face": "https://i0.hdslb.com/bfs/face/cfca424d4d6007baa3cdf6214fb08cbd9522ef6d.jpg",
+            "vip": {
+                "type": 1,
+                "status": 1,
+                "due_date": 1699977600000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "大会员",
+                    "label_theme": "vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/3788b674c69072f1ee252b79a31ecc8c43af3039.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/jwXBWRVwa5.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 1,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 2,
+                "title": "2022年度最佳原创音乐奖UP主、《我的音乐你听吗》选手",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 108306,
+            "label_style": 0
+        },
+        {
+            "mid": 1577804,
+            "title": "演唱",
+            "name": "某幻君",
+            "face": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728748800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1726329600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 8295608,
+            "label_style": 0
+        },
+        {
+            "mid": 1542940882,
+            "title": "演唱",
+            "name": "无脸男葫芦",
+            "face": "https://i1.hdslb.com/bfs/face/f72b655c3681fed2b90227ec1bc39ce931fa80a8.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1700150400000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名音乐UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 323285,
+            "label_style": 0
+        },
+        {
+            "mid": 172556657,
+            "title": "演唱",
+            "name": "朱恩池ZGODZ",
+            "face": "https://i2.hdslb.com/bfs/face/fd36b6d1c90f5e4dd104f57753ba3ce36e6d08d2.jpg",
+            "vip": {
+                "type": 1,
+                "status": 1,
+                "due_date": 1700150400000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "大会员",
+                    "label_theme": "vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/3788b674c69072f1ee252b79a31ecc8c43af3039.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/jwXBWRVwa5.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 1,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1665849600
+            },
+            "official": {
+                "role": 2,
+                "title": "《我的音乐你听吗》选手",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 58714,
+            "label_style": 0
+        },
+        {
+            "mid": 43634508,
+            "title": "演唱",
+            "name": "就是哈比",
+            "face": "https://i0.hdslb.com/bfs/face/0e9a2472668c670f3c1396f86f6e4a8bac6e497b.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1649692800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名音乐UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 685050,
+            "label_style": 0
+        },
+        {
+            "mid": 10510808,
+            "title": "参演",
+            "name": "修勾夜店老板",
+            "face": "https://i2.hdslb.com/bfs/face/966652824685321f0a73dc91331186f116c18fd9.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1729699200000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 891069,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 220133214,
+                "type": 3,
+                "desc": "全站排行榜最高第84名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 220133214,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

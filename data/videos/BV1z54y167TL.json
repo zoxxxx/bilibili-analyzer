@@ -1,0 +1,252 @@
+{
+    "bvid": "BV1z54y167TL",
+    "aid": 842999694,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c85b80d13c5fced091bfa3beb5b4fddf9172a96e.jpg",
+    "title": "老番茄是我“父亲”",
+    "pubdate": 1606636810,
+    "ctime": 1606636280,
+    "desc": "不敢奢求一键三连~跪求一个点赞！\n希望视频大家看的开心就好~\n我们这波联动是 #UP主的美食番# 先导片~\n之后还有更多梦幻联动 敬请期待~",
+    "desc_v2": [
+        {
+            "raw_text": "不敢奢求一键三连~跪求一个点赞！\n希望视频大家看的开心就好~\n我们这波联动是 #UP主的美食番# 先导片~\n之后还有更多梦幻联动 敬请期待~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 727,
+    "mission_id": 15236,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 7552204,
+        "name": "啊吗粽",
+        "face": "https://i1.hdslb.com/bfs/face/61fc06811d9bb41a10a932b9f95ecc3632d82799.jpg"
+    },
+    "stat": {
+        "aid": 842999694,
+        "view": 4578046,
+        "danmaku": 27247,
+        "reply": 4696,
+        "favorite": 65002,
+        "coin": 182659,
+        "share": 10789,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 460821,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "不至于不至于？看就懂了！",
+    "cid": 260954442,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 2075,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 260954442,
+            "page": 1,
+            "from": "vupload",
+            "part": "BAISHIZUIZHONGZHONGZHONGBAN",
+            "duration": 727,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 7552204,
+            "title": "UP主",
+            "name": "啊吗粽",
+            "face": "https://i1.hdslb.com/bfs/face/61fc06811d9bb41a10a932b9f95ecc3632d82799.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1725120000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1639584000
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、2019年度原创栏目奖UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 4552412,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "参演",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271912,
+            "label_style": 0
+        },
+        {
+            "mid": 1636103354,
+            "title": "赞助商",
+            "name": "百事可乐",
+            "face": "http://i2.hdslb.com/bfs/face/5e2f9731b81e53bf9f00d5f63e3f5145eae26f71.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1637942400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "百事可乐官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 420876,
+            "label_style": 1
+        }
+    ],
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 842999694,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 842999694,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

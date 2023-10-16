@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1zx411N7pb",
+    "aid": 1349139,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/4f18c4bdd31c12180b8877ee3aae4e253f19af72.jpg",
+    "title": "【老番茄】你没见过的侠盗车手",
+    "pubdate": 1406710127,
+    "ctime": 1497424449,
+    "desc": "自制 你玩过这款GBA平台的侠盗车手吗？由于时间紧迫，老番茄没有制作字幕，苦了野生字幕菌了TUT 高三前遗作（之一），还有没有下部视频真的说不清。且行且珍惜！",
+    "desc_v2": [
+        {
+            "raw_text": "自制 你玩过这款GBA平台的侠盗车手吗？由于时间紧迫，老番茄没有制作字幕，苦了野生字幕菌了TUT 高三前遗作（之一），还有没有下部视频真的说不清。且行且珍惜！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 615,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 1349139,
+        "view": 2897497,
+        "danmaku": 31864,
+        "reply": 2448,
+        "favorite": 6010,
+        "coin": 5709,
+        "share": 626,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 19934,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 2043440,
+    "dimension": {
+        "width": 672,
+        "height": 378,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 2043440,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 615,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 672,
+                "height": 378,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 1349139,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

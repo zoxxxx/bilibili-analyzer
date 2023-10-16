@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1JW411M7c8",
+    "aid": 21707880,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/d06eb07f78d0d2cc2f84a7879bc9e2ce56c94518.jpg",
+    "title": "【泛式】4月新番大吐槽第一弹！快住手这根本不是足球！「新番妙妙屋04」",
+    "pubdate": 1523116826,
+    "ctime": 1522974703,
+    "desc": "视频类型: 动漫杂谈\n相关题材: 重神机潘多拉，赛马娘，妖怪旅馆营业中，足球小将，宇宙战舰提拉米斯，银河英雄传说，FATE，3D彼女 等\n简介: 一起来愉快地吐槽热播中的四月新番吧~\n\n欢迎关注我的微博 @泛式 \nhttp://www.weibo.com/FunShiki/",
+    "desc_v2": [
+        {
+            "raw_text": "视频类型: 动漫杂谈\n相关题材: 重神机潘多拉，赛马娘，妖怪旅馆营业中，足球小将，宇宙战舰提拉米斯，银河英雄传说，FATE，3D彼女 等\n简介: 一起来愉快地吐槽热播中的四月新番吧~\n\n欢迎关注我的微博 @泛式 \nhttp://www.weibo.com/FunShiki/",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 673,
+    "order_id": 1138,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 21707880,
+        "view": 1155723,
+        "danmaku": 8302,
+        "reply": 2853,
+        "favorite": 32797,
+        "coin": 82855,
+        "share": 2712,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 36955,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "谢谢大家的支持！新番妙妙屋竟然都出到第4期了.....一起来吐槽热播中的四月新番吧！",
+    "cid": 35789183,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 35789183,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 673,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 21707880,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

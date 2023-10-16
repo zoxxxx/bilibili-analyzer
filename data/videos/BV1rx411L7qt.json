@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1rx411L7qt",
+    "aid": 16445712,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/1893811cada5dc6617c730f6df2b2c44c129e74d.jpg",
+    "title": "烂到爆笑？火影至今最智障没有之一的篇章！博人传新忍刀七人众大吐槽",
+    "pubdate": 1510998981,
+    "ctime": 1510998982,
+    "desc": "视频类型: 动漫杂谈\n相关题材: 火影忍者，博人传\n简介: 博人传最近新忍刀七人众这个剧情真的是太智障了，配着弹幕看简直比搞笑片还哈哈哈哈哈哈哈\n\n微博 http://www.weibo.com/FunShiki/\n*禁止搬运至youtube，违者投诉到底",
+    "desc_v2": [
+        {
+            "raw_text": "视频类型: 动漫杂谈\n相关题材: 火影忍者，博人传\n简介: 博人传最近新忍刀七人众这个剧情真的是太智障了，配着弹幕看简直比搞笑片还哈哈哈哈哈哈哈\n\n微博 http://www.weibo.com/FunShiki/\n*禁止搬运至youtube，违者投诉到底",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 659,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 16445712,
+        "view": 1889363,
+        "danmaku": 13206,
+        "reply": 2849,
+        "favorite": 28367,
+        "coin": 45181,
+        "share": 11607,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 42382,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "我知道你们可能很久没看博人传了，但是最近几集的智障剧情真的是太tmd搞笑了哈哈哈哈哈哈哈哈哈",
+    "cid": 26826724,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 26826724,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 659,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

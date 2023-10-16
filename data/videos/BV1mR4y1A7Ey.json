@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1mR4y1A7Ey",
+    "aid": 341527044,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/397345f85397892ed30af719140270c72b7d1c92.jpg",
+    "title": "新番时光机！十年前的观众都在看什么神片？「2012年4月篇」",
+    "pubdate": 1652532642,
+    "ctime": 1652532642,
+    "desc": "新番时光机，回顾十年前的日本动画！本期为2012年4月\n\n往期：\nBV1Br4y1y7ri\nBV1Ly4y1s7wp\nBV16r4y1A7w4\nBV1c64y1f7ff\nBV1sA411A7JD\nBV1wT4y1D729",
+    "desc_v2": [
+        {
+            "raw_text": "新番时光机，回顾十年前的日本动画！本期为2012年4月\n\n往期：\nBV1Br4y1y7ri\nBV1Ly4y1s7wp\nBV16r4y1A7w4\nBV1c64y1f7ff\nBV1sA411A7JD\nBV1wT4y1D729",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 685,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 341527044,
+        "view": 3010383,
+        "danmaku": 21101,
+        "reply": 7523,
+        "favorite": 43311,
+        "coin": 103210,
+        "share": 7232,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 272463,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，我很好奇！",
+    "cid": 720198009,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 21183,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 720198009,
+            "page": 1,
+            "from": "vupload",
+            "part": "时光机1204_x264",
+            "duration": 685,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220514a22iljvny5f5gar362kn38kqi_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 341527044,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 341527044,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Ht411S7RL",
+    "aid": 37563886,
+    "videos": 1,
+    "tid": 65,
+    "tname": "网络游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5de6aaa937c9f546d8541f5b8d9ce654fa711d7e.jpg",
+    "title": "番茄带你雪上华尔兹",
+    "pubdate": 1544328036,
+    "ctime": 1544105170,
+    "desc": "《无限法则》遇到自闭队友怎么办？！滑雪板爬楼梯、双人雪地逮虾户等握草自嗨法，让队友为你心甘情愿养猪！\n更多无限法则握草时刻，等你开启https://www.bilibili.com/blackboard/activity-gunpc.html",
+    "desc_v2": [
+        {
+            "raw_text": "《无限法则》遇到自闭队友怎么办？！滑雪板爬楼梯、双人雪地逮虾户等握草自嗨法，让队友为你心甘情愿养猪！\n更多无限法则握草时刻，等你开启https://www.bilibili.com/blackboard/activity-gunpc.html",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 460,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 37563886,
+        "view": 2647770,
+        "danmaku": 5039,
+        "reply": 2085,
+        "favorite": 7130,
+        "coin": 17108,
+        "share": 2840,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 41923,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "茫茫白雪的《无限法则》，遇到自闭的#无限好机友#，我想最好的方式是……嗝屁。",
+    "cid": 66032570,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 66032570,
+            "page": 1,
+            "from": "vupload",
+            "part": "无限法则02_x264",
+            "duration": 460,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 37563886,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

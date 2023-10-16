@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1jx411q7ir",
+    "aid": 12077917,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/eee1963e978bf856bc6359d9eba369e81533fe23.jpg",
+    "title": "【老番茄】100万粉丝啦！！！！（vlog#1）",
+    "pubdate": 1499734841,
+    "ctime": 1499702470,
+    "desc": "第一次做vlog，录了半天发现没对上焦！气死我了。\n大家能接受这样的日常吗！\n喜欢的话请您千万点个关注，投个硬币，谢谢老板。",
+    "desc_v2": [
+        {
+            "raw_text": "第一次做vlog，录了半天发现没对上焦！气死我了。\n大家能接受这样的日常吗！\n喜欢的话请您千万点个关注，投个硬币，谢谢老板。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 541,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 12077917,
+        "view": 11367739,
+        "danmaku": 99909,
+        "reply": 19918,
+        "favorite": 57388,
+        "coin": 125198,
+        "share": 7668,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 387096,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 296121348,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 296121348,
+            "page": 1,
+            "from": "vupload",
+            "part": "【老番茄】100万粉丝啦！！！！（vlog#1）",
+            "duration": 541,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 12077917,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1FG4y1w7T7",
+    "aid": 820361932,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/07fb86771238ec642861c41ad5e0b11e1b54f45b.jpg",
+    "title": "我想养个这玩意儿【kenshi②】",
+    "pubdate": 1673668800,
+    "ctime": 1673619367,
+    "desc": "游戏：Kenshi\n第一集：BV1AD4y1C721",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：Kenshi\n第一集：BV1AD4y1C721",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1227,
+    "mission_id": 1170402,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 820361932,
+        "view": 3529448,
+        "danmaku": 9838,
+        "reply": 3975,
+        "favorite": 34186,
+        "coin": 70167,
+        "share": 3294,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 276410,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 964447445,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 964447445,
+            "page": 1,
+            "from": "vupload",
+            "part": "我想养个这玩意儿【kenshi②】",
+            "duration": 1227,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230113a22mw0kki86vhb91137w6g7zj_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 820361932,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 820361932,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

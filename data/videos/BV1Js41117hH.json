@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Js41117hH",
+    "aid": 5446966,
+    "videos": 2,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/e01d3b6319d0d807884d5db24c74ad617d997fcd.jpg",
+    "title": "如何用甲铁城翻拍罪恶王冠？（3分钟先行预告版）",
+    "pubdate": 1469189983,
+    "ctime": 1497367945,
+    "desc": "up主呕心沥血12年制作的年度霸权大片《甲铁城的罪恶王冠》，忍痛放出其中一段绝密爆燃片段。   \n我们的口号是： 人人争做大河内！大家都能写套路！ \n\n15分钟完整剧情典藏版将于7月29日上映，请观众从速订购，卖不到八万八千份BD，up主就要卖身还债了。\n\n新浪微博 http://weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "up主呕心沥血12年制作的年度霸权大片《甲铁城的罪恶王冠》，忍痛放出其中一段绝密爆燃片段。   \n我们的口号是： 人人争做大河内！大家都能写套路！ \n\n15分钟完整剧情典藏版将于7月29日上映，请观众从速订购，卖不到八万八千份BD，up主就要卖身还债了。\n\n新浪微博 http://weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 334,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 5446966,
+        "view": 523767,
+        "danmaku": 8143,
+        "reply": 2265,
+        "favorite": 17053,
+        "coin": 27745,
+        "share": 10112,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 2549,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 8852196,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 8852196,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 170,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 8852197,
+            "page": 2,
+            "from": "vupload",
+            "part": "对比版+花絮",
+            "duration": 164,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 5446966,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

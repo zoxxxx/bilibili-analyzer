@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1K4411X7zi",
+    "aid": 62953204,
+    "videos": 1,
+    "tid": 21,
+    "tname": "日常",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5d3d38c34538ec60de68dd30a20279315b40d05f.jpg",
+    "title": "在家工作躺着赚钱有多爽？200万粉up主的自由职业心得分享！",
+    "pubdate": 1565350167,
+    "ctime": 1565350167,
+    "desc": "你对自由职业感兴趣吗？你想从事自由职业吗？身为一个全家都是自由职业的标准从业者，up主今天就来和大家聊一聊自由职业\n微博 @泛式 https:// weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "你对自由职业感兴趣吗？你想从事自由职业吗？身为一个全家都是自由职业的标准从业者，up主今天就来和大家聊一聊自由职业\n微博 @泛式 https:// weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 550,
+    "mission_id": 11744,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 62953204,
+        "view": 1973071,
+        "danmaku": 8841,
+        "reply": 4431,
+        "favorite": 86704,
+        "coin": 135965,
+        "share": 8154,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 159916,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，突击更新！ #我在B站学习-技能分享#",
+    "cid": 109353412,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 109353412,
+            "page": 1,
+            "from": "vupload",
+            "part": "自由职业 成片",
+            "duration": 550,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 62953204,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

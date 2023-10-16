@@ -1,0 +1,425 @@
+{
+    "bvid": "BV1RK4y1T7Rg",
+    "aid": 887341443,
+    "videos": 16,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/53fc79522a775b5e4154fbec8eadf156a1588197.jpg",
+    "title": "散人&番茄《双人成行》 不离不弃的奇幻冒险（完结 共16P）",
+    "pubdate": 1617163215,
+    "ctime": 1617163232,
+    "desc": "双人成行，近期最好玩的双人联机游戏。无限多的游戏机制与内容，超乎想象的快乐。\n左番茄右散人\n喜欢的话欢迎收藏三连支持。",
+    "desc_v2": [
+        {
+            "raw_text": "双人成行，近期最好玩的双人联机游戏。无限多的游戏机制与内容，超乎想象的快乐。\n左番茄右散人\n喜欢的话欢迎收藏三连支持。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 37879,
+    "mission_id": 16707,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 168598,
+        "name": "逍遥散人",
+        "face": "https://i1.hdslb.com/bfs/face/8a5de2d7486251e80307d8600cbf8649eb4035fe.jpg"
+    },
+    "stat": {
+        "aid": 887341443,
+        "view": 14212878,
+        "danmaku": 151509,
+        "reply": 14679,
+        "favorite": 178023,
+        "coin": 249952,
+        "share": 134325,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 385662,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "超好玩双人联机游戏，来一起冒险吧~",
+    "cid": 317498792,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 317498792,
+            "page": 1,
+            "from": "vupload",
+            "part": "1.绝妙搭档",
+            "duration": 2127,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 317498981,
+            "page": 2,
+            "from": "vupload",
+            "part": "2.钉锤双雄",
+            "duration": 1638,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 317717125,
+            "page": 3,
+            "from": "vupload",
+            "part": "3.树屋传奇",
+            "duration": 2143,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 317718563,
+            "page": 4,
+            "from": "vupload",
+            "part": "4.勇闯蜂巢",
+            "duration": 1418,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 317719461,
+            "page": 5,
+            "from": "vupload",
+            "part": "5.王牌空战",
+            "duration": 2000,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 318546667,
+            "page": 6,
+            "from": "vupload",
+            "part": "6.遨游宇宙",
+            "duration": 3103,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 318548333,
+            "page": 7,
+            "from": "vupload",
+            "part": "7.玩具乐园",
+            "duration": 3586,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 319024577,
+            "page": 8,
+            "from": "vupload",
+            "part": "8.剑与魔法",
+            "duration": 2767,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 319026440,
+            "page": 9,
+            "from": "vupload",
+            "part": "9.时间魔术",
+            "duration": 2316,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 319028170,
+            "page": 10,
+            "from": "vupload",
+            "part": "10.机巧帝国",
+            "duration": 2024,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 319508407,
+            "page": 11,
+            "from": "vupload",
+            "part": "11.冰雪王国",
+            "duration": 2505,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 319509863,
+            "page": 12,
+            "from": "vupload",
+            "part": "12.海底世界",
+            "duration": 2635,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 320009161,
+            "page": 13,
+            "from": "vupload",
+            "part": "13.花园战争",
+            "duration": 2009,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 320010525,
+            "page": 14,
+            "from": "vupload",
+            "part": "14.地底潜行",
+            "duration": 2379,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 320459020,
+            "page": 15,
+            "from": "vupload",
+            "part": "15.音乐盛宴",
+            "duration": 2459,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 320460549,
+            "page": 16,
+            "from": "vupload",
+            "part": "大结局",
+            "duration": 2770,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 168598,
+            "title": "UP主",
+            "name": "逍遥散人",
+            "face": "https://i1.hdslb.com/bfs/face/8a5de2d7486251e80307d8600cbf8649eb4035fe.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1697731200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1558540800
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2021年度弹幕人气奖UP、直播高能主播",
+                "desc": "代表作《散人干不死》系列",
+                "type": 0
+            },
+            "follower": 6650529,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "参演",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271915,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 887341443,
+                "type": 2,
+                "desc": "第106期每周必看",
+                "weekly_recommend_num": 106
+            },
+            {
+                "aid": 887341443,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 887341443,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

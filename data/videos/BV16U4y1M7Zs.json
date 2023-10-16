@@ -1,0 +1,130 @@
+{
+    "bvid": "BV16U4y1M7Zs",
+    "aid": 676711183,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/da424c555f50ddd1a9cf74987bc22029fffcc5ce.jpg",
+    "title": "【老番茄】史上最快枪手",
+    "pubdate": 1636776001,
+    "ctime": 1636776048,
+    "desc": "这个杀手有点猛\n如果喜欢，希望能三连支持一下！这对我十分重要！",
+    "desc_v2": [
+        {
+            "raw_text": "这个杀手有点猛\n如果喜欢，希望能三连支持一下！这对我十分重要！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 539,
+    "mission_id": 198584,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 676711183,
+        "view": 8722402,
+        "danmaku": 46819,
+        "reply": 10564,
+        "favorite": 313222,
+        "coin": 839234,
+        "share": 27830,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 941511,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 441212122,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 441212122,
+            "page": 1,
+            "from": "vupload",
+            "part": "sasou_x264",
+            "duration": 539,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n211113a23a4b6305fbtjc3s34sydgzx_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 676711183,
+                "type": 2,
+                "desc": "第139期每周必看",
+                "weekly_recommend_num": 139
+            },
+            {
+                "aid": 676711183,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 676711183,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

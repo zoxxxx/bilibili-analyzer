@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1BW411V7Ue",
+    "aid": 22742696,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/d0576e937e284165f797992b82b74d7048387438.jpg",
+    "title": "老番茄教你如何被俘",
+    "pubdate": 1525012167,
+    "ctime": 1525012171,
+    "desc": "相关游戏: 王国纪元\n简介补充: *《王国纪元》下载方式： \n1.安卓用户访问：lm.176.com 点击下载\n 2.苹果访问 App Store 搜索“王国纪元”\n\n * 新手礼包：LFQ\n 价值：人民币 328 元 ！\n\n * 礼包兑换方式：\n 1.点击游戏右下方“齿轮”图标，查看“账号”，可获取IGGID。\n 2.兑换界面： http://lordsmobile.igg.com/event/cn/influencer_cdkey/\n 3.输入IGGID或角色名和礼包码 即可完成兑换道具会发送至背包",
+    "desc_v2": [
+        {
+            "raw_text": "相关游戏: 王国纪元\n简介补充: *《王国纪元》下载方式： \n1.安卓用户访问：lm.176.com 点击下载\n 2.苹果访问 App Store 搜索“王国纪元”\n\n * 新手礼包：LFQ\n 价值：人民币 328 元 ！\n\n * 礼包兑换方式：\n 1.点击游戏右下方“齿轮”图标，查看“账号”，可获取IGGID。\n 2.兑换界面： http://lordsmobile.igg.com/event/cn/influencer_cdkey/\n 3.输入IGGID或角色名和礼包码 即可完成兑换道具会发送至背包",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 374,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 22742696,
+        "view": 1309693,
+        "danmaku": 992,
+        "reply": 874,
+        "favorite": 847,
+        "coin": 2081,
+        "share": 208,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 5599,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 37756484,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 37756484,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 374,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

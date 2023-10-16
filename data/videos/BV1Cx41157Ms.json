@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1Cx41157Ms",
+    "aid": 16751435,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/962c0d496200704201a4a0fcf3c0c8666ca8b586.jpg",
+    "title": "【Fate剧情向】阿尔托莉雅的救赎：Saber-梦的尽头「LAST STARDUST」",
+    "pubdate": 1511884803,
+    "ctime": 1511881594,
+    "desc": "以Saber的视角，重现两次圣杯战争。一直觉得这首曲子无论歌词还是意境，同样也很符合她的经历。 \nPS：结尾有惊喜。\n\n禁止搬运至youtube.",
+    "desc_v2": [
+        {
+            "raw_text": "以Saber的视角，重现两次圣杯战争。一直觉得这首曲子无论歌词还是意境，同样也很符合她的经历。 \nPS：结尾有惊喜。\n\n禁止搬运至youtube.",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 219,
+    "order_id": 536,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 16751435,
+        "view": 1132000,
+        "danmaku": 5094,
+        "reply": 2792,
+        "favorite": 39480,
+        "coin": 42952,
+        "share": 7084,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 38945,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "一直觉得LAST STARDUST这首士郎的爆种曲，在歌词和意境上同样也非常适合Saber的故事",
+    "cid": 27371297,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 27371297,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 219,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

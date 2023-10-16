@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Dx41117cg",
+    "aid": 8506947,
+    "videos": 2,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2058be6aad46923dafce09df2be167424536df6e.jpg",
+    "title": "【2017拜年祭单品】漫画家桐人—我只想讲一个关于梦想的故事",
+    "pubdate": 1486699200,
+    "ctime": 1497367945,
+    "desc": "看完16年吊炸天的拜年祭后就一直在构思的一个作品，很开心B站能给我机会去完成这个巨坑。特别感谢一路帮助我的平安夜噩梦老师，和帮我分担了巨大工作量的竹鱼小姐。【我的这个梦想已经实现了，新的一年就轮到你们了。\n\n泛式的微博  http://www.weibo.com/FunShiki/",
+    "desc_v2": [
+        {
+            "raw_text": "看完16年吊炸天的拜年祭后就一直在构思的一个作品，很开心B站能给我机会去完成这个巨坑。特别感谢一路帮助我的平安夜噩梦老师，和帮我分担了巨大工作量的竹鱼小姐。【我的这个梦想已经实现了，新的一年就轮到你们了。\n\n泛式的微博  http://www.weibo.com/FunShiki/",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 684,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 8506947,
+        "view": 2535315,
+        "danmaku": 13393,
+        "reply": 6098,
+        "favorite": 159534,
+        "coin": 200877,
+        "share": 26035,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 115590,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 14005543,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 14005543,
+            "page": 1,
+            "from": "vupload",
+            "part": "正片",
+            "duration": 253,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 14005544,
+            "page": 2,
+            "from": "vupload",
+            "part": "幕后花絮",
+            "duration": 431,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 8506947,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

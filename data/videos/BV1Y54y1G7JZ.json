@@ -1,0 +1,244 @@
+{
+    "bvid": "BV1Y54y1G7JZ",
+    "aid": 846131709,
+    "videos": 1,
+    "tid": 210,
+    "tname": "手办·模玩",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/3d981f94bd948accb0348071dd70495df98c8fc3.jpg",
+    "title": "【虾米X泛式】论如何为作品注入灵魂！",
+    "pubdate": 1624248017,
+    "ctime": 1624172606,
+    "desc": "哔哩哔哩幻星集特别版手办——【青幻之镰】&【星耀使魔】创作过程大揭秘！第三期：涂装篇\n\n这次有幸被@bilibiliGoods 邀约参与了2233手办的涂装，有趣的体验增加了！注入了颜色之后的2233也更加生动可爱了起来。成品在WF展上首次亮相，也惊艳了大家。 一键三连即将解锁手办纪录片最终章！有更多的惊喜为大家呈现哦。\n最后，大家给我这次的涂装作品打几分？",
+    "desc_v2": [
+        {
+            "raw_text": "哔哩哔哩幻星集特别版手办——【青幻之镰】&【星耀使魔】创作过程大揭秘！第三期：涂装篇\n\n这次有幸被@bilibiliGoods 邀约参与了2233手办的涂装，有趣的体验增加了！注入了颜色之后的2233也更加生动可爱了起来。成品在WF展上首次亮相，也惊艳了大家。 一键三连即将解锁手办纪录片最终章！有更多的惊喜为大家呈现哦。\n最后，大家给我这次的涂装作品打几分？",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 985,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 846131709,
+        "view": 556952,
+        "danmaku": 1220,
+        "reply": 876,
+        "favorite": 3008,
+        "coin": 3131,
+        "share": 831,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 36188,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "神秘人登场，大家给我这次的涂装作品打几分？（狗头）",
+    "cid": 356933271,
+    "dimension": {
+        "width": 2560,
+        "height": 1440,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 356933271,
+            "page": 1,
+            "from": "vupload",
+            "part": "哔哩哔哩2233手办纪录片第三集_Final_210619-1",
+            "duration": 985,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 2560,
+                "height": 1440,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 63231,
+            "title": "UP主",
+            "name": "泛式",
+            "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1722355200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 5581758,
+            "label_style": 0
+        },
+        {
+            "mid": 39101587,
+            "title": "参演",
+            "name": "虾米大模王",
+            "face": "http://i1.hdslb.com/bfs/face/28da4a51fbca6846b187611b74f5cd09744bdf2a.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1742745600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1644422400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 1038274,
+            "label_style": 0
+        },
+        {
+            "mid": 35365327,
+            "title": "视频制作",
+            "name": "bilibiliGoods",
+            "face": "https://i1.hdslb.com/bfs/face/c9c767b660c2c77ca1defa8dcceb346a16b5cb62.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1617897600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩文化消费品牌 bilibiliGoods官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1226073,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 846131709,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

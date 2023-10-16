@@ -9,26 +9,49 @@ import sys
 import datetime
     
 def main():
-    st.set_page_config(layout="wide")
-    data = []
-    # st.session_state.mid = None
-    # st.session_state["userData"] = None
+    st.set_page_config(layout="wide", page_title="b站up主数据查询")
     with st.sidebar.form("my_form"):
         st.write("## 选择用户")
         mid_input = st.text_input("输入用户mid", "546195")
 
         if st.form_submit_button(label='查询'):
-            st.session_state.mid = mid_input
-            with st.spinner('正在加载数据...'):
-                st.session_state.userData = UserData(st.session_state.mid)
-                data  = st.session_state.userData.getData()
+            mid = mid_input
+            progress_text = '正在加载数据...'
+            my_bar = st.progress(0, text=progress_text)
+
+            st.session_state.userData = UserData(mid)
+            st.session_state.userDataStorage = st.session_state.userData.getData()
+            st.session_state.userDataStorage["videos"].sort(key=lambda x: x["created"])
+
+            st.session_state.videoDataStorage = []
+            count = 0
+            for i in st.session_state.userDataStorage["videos"]:
+                videoData = VideoData(i["bvid"])
+                res = videoData.getData()
+                st.session_state.videoDataStorage.append(res)
+                count += 1
+                my_bar.progress(count / len(st.session_state.userDataStorage["videos"]), text=progress_text)
+            my_bar.empty()
+
 
     with st.sidebar:
         if st.button("刷新数据", disabled=st.session_state.userData is None):
-            with st.spinner('正在刷新数据...'):
-                print(st.session_state.mid)
-                st.session_state.userData.update()
-                data = st.session_state.userData.getData()
+            progress_text = '正在刷新数据...'
+            my_bar = st.progress(0, text = progress_text)
+            st.session_state.userData.update()
+            st.session_state.userDataStorage = st.session_state.userData.getData()
+
+            st.session_state.videoDataStorage = []
+            count = 0
+            for i in st.session_state.userDataStorage["videos"]:
+                videoData = VideoData(i["bvid"])
+                videoData.update()
+                res = videoData.getData()
+                st.session_state.videoDataStorage.append(res)
+                count += 1
+                my_bar.progress(count / len(st.session_state.userDataStorage["videos"]), text=progress_text)
+            my_bar.empty()
+
         if st.session_state.userData is not None:
             st.write("数据获取时间：{}".format(st.session_state.userData.time.strftime("%Y-%m-%d %H:%M:%S")))
 
@@ -40,54 +63,47 @@ def main():
     </style>
     """, unsafe_allow_html=True)
 
-    url = data["face"]
+    url = st.session_state.userDataStorage["face"]
 
     face = Image.open(requests.get(url, stream=True).raw)
 
     colmn1, colmn2 = st.columns([1,7])
     colmn1.image(face, width=100)
-    colmn2.markdown("#### <span style='color:#fb7299;'>{}</span>".format(data["name"]), unsafe_allow_html=True)
-    colmn2.write(data["sign"])
-    data["videos"].sort(key=lambda x: x["created"])
-    timestamp = []
-    views = []
-    names = []
-    covers = []
-    for i in data["videos"]:
-        timestamp.append(i["created"])
-        views.append(i["play"])
-        names.append(i["title"])  # 添加视频名称
-        covers.append(i["pic"])  # 添加视频封面
-        # covers.append(i["pic"].replace("http://", "https://"))  # 添加视频封面
-    date = [datetime.datetime.fromtimestamp(i).strftime("%Y-%m-%d") for i in timestamp]
+    colmn2.markdown("#### <span style='color:#fb7299;'>{}</span>".format(st.session_state.userDataStorage["name"]), unsafe_allow_html=True)
+    colmn2.write(st.session_state.userDataStorage["sign"])
+    date = [datetime.datetime.fromtimestamp(i["pubdate"]).strftime("%Y-%m-%d") for i in st.session_state.videoDataStorage]
     # set echarts size in options
 
     options = {
-        # "width": "1000px",
-        # "height": "1000px",
         "tooltip": {
             "trigger": "axis",
-            "formatter": """
-                <div style='display: flex; align-items: center;'>
-                    <img src={c2} width='80' height='60' style='margin-right: 10px;' referrerpolicy='no-referrer'/>
-                    <div>
-                        <b>{b}</b><br />
-                        <b>{a0}</b>: {c0}<br />
-                        <b>{a1}</b>: {c1}<br />
-                    </div>
-                </div>
-            """
         },
         "xAxis": {
             "type": "category",
             "data": date,
         },
-        "yAxis": {"type": "value"},
-        "series": [
-            {"name": "播放量", "data": views, "type": "line"},
-            {"name": "视频名称", "data": names, "type": "line"},  
-            {"name": "视频封面", "data": covers, "type": "line"}, 
+        "yAxis": [
+            {
+                "type": "value",
+                "name": "播放量",
+            },
+            {
+                "type": "value",
+                "name": "点赞/投币/收藏",
+            },
         ],
+        "series": [
+            {"name": "视频名称", "data": [i["title"] for i in st.session_state.videoDataStorage], "type": "line"},  
+            {"name": "播放量", "data": [i["stat"]["view"] for i in st.session_state.videoDataStorage], "type": "line", "yAxisIndex": 0},
+            {"name": "点赞", "data": [i["stat"]["like"] for i in st.session_state.videoDataStorage], "type": "line", "yAxisIndex": 1},
+            {"name": "投币", "data": [i["stat"]["coin"] for i in st.session_state.videoDataStorage], "type": "line", "yAxisIndex": 1},
+            {"name": "收藏", "data": [i["stat"]["favorite"] for i in st.session_state.videoDataStorage], "type": "line", "yAxisIndex": 1},
+            {"name": "视频封面", "data": [i['pic'] for i in st.session_state.videoDataStorage], "type": "line","tooltip": {"show": False}}, 
+        ],
+        "legend": {
+            "data": ["播放量", "点赞", "投币", "收藏"],
+            "orient": "horizontal",
+        },
         "dataZoom": [
             {
                 "type": "slider",
@@ -96,8 +112,8 @@ def main():
             }
         ]
     }
-    st_echarts(options=options, height=500,width=1000)
-
+    
+    st_echarts(options=options, height=500, width="100%")
 
 if __name__ == '__main__':
     if st.runtime.exists():

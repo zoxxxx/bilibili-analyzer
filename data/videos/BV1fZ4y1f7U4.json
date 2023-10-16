@@ -1,0 +1,125 @@
+{
+    "bvid": "BV1fZ4y1f7U4",
+    "aid": 380773719,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/9d16b28249bec6eedc7f8413384fc99e17970293.jpg",
+    "title": "奥托之死？真琪揭露！带你看崩坏3主线最大爆点！「崩坏3剧情讲堂#10」",
+    "pubdate": 1642857184,
+    "ctime": 1642856968,
+    "desc": "崩坏3剧情讲解第10期：真琪亚娜的身份 & 奥托的终末\n（ 游戏部分录屏by 穷困潦倒乐乐酱 BV12W411h76f ）\n\n往期回顾：\n第1期：BV1xW411y7VC\n第2期：BV1bt411i7LL\n第3期：BV1i4411U75T\n第4期：BV1wJ411G7n9\n第5期：BV1q7411v7Aq\n第6期：BV1KZ4y147L5\n第7期：BV1ap4y1S7YY\n第8期：BV1554y1y7hw\n第9期：BV1eU4y137dw",
+    "desc_v2": [
+        {
+            "raw_text": "崩坏3剧情讲解第10期：真琪亚娜的身份 & 奥托的终末\n（ 游戏部分录屏by 穷困潦倒乐乐酱 BV12W411h76f ）\n\n往期回顾：\n第1期：BV1xW411y7VC\n第2期：BV1bt411i7LL\n第3期：BV1i4411U75T\n第4期：BV1wJ411G7n9\n第5期：BV1q7411v7Aq\n第6期：BV1KZ4y147L5\n第7期：BV1ap4y1S7YY\n第8期：BV1554y1y7hw\n第9期：BV1eU4y137dw",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 747,
+    "mission_id": 378860,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 380773719,
+        "view": 3047107,
+        "danmaku": 13587,
+        "reply": 9866,
+        "favorite": 44214,
+        "coin": 75731,
+        "share": 12927,
+        "now_rank": 0,
+        "his_rank": 40,
+        "like": 189555,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，为奥托更新！",
+    "cid": 490161189,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 141732,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 490161189,
+            "page": 1,
+            "from": "vupload",
+            "part": "崩坏3奥托之死2_x264",
+            "duration": 747,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n220122qn209r4elz93g1r23q2ijscsp_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 380773719,
+                "type": 3,
+                "desc": "全站排行榜最高第40名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 380773719,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

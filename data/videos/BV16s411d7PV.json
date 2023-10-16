@@ -1,0 +1,116 @@
+{
+    "bvid": "BV16s411d7PV",
+    "aid": 3298490,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/08354ca0b60321f875a5133131df84855534955b.jpg",
+    "title": "【老番茄】乘风破浪！赵赵的奇幻之旅！第4集",
+    "pubdate": 1448736091,
+    "ctime": 1497424449,
+    "desc": "自制 赵四大的旅途仍在继续！此次，赵赵的征途终于从陆地扩展到了海洋！神秘煞笔老头是何方神圣？废弃宅邸藏匿着什么样的秘密？坂木老大究竟是敌是友？三个多月的大坑，为何离奇填满辣鸡（这和剧情好像无关吧）？这一切的答案——关我p事。第1集：av2453357  第2集：av2612055  第3集：av2710610    BGM列表在视频最后",
+    "desc_v2": [
+        {
+            "raw_text": "自制 赵四大的旅途仍在继续！此次，赵赵的征途终于从陆地扩展到了海洋！神秘煞笔老头是何方神圣？废弃宅邸藏匿着什么样的秘密？坂木老大究竟是敌是友？三个多月的大坑，为何离奇填满辣鸡（这和剧情好像无关吧）？这一切的答案——关我p事。第1集：av2453357  第2集：av2612055  第3集：av2710610    BGM列表在视频最后",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 695,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 3298490,
+        "view": 2126477,
+        "danmaku": 13280,
+        "reply": 2443,
+        "favorite": 8047,
+        "coin": 13251,
+        "share": 2511,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 12941,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 337256922,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 337256922,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 695,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 3298490,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

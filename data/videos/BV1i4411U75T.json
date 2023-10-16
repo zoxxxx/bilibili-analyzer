@@ -1,0 +1,118 @@
+{
+    "bvid": "BV1i4411U75T",
+    "aid": 63841740,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/fa9cdb9ab2e35809405dbf7fdb270079d54390eb.jpg",
+    "title": "从星河舰队到鬼火摩托！带你看崩坏3理之律者的传承之路！「崩坏3剧情讲堂#03」",
+    "pubdate": 1565870438,
+    "ctime": 1565863529,
+    "desc": "崩坏3剧情梳理第三弹，轻松看完理之律者的传承史\n微博 @泛式 http://www.weibo.com/FunShiki/",
+    "desc_v2": [
+        {
+            "raw_text": "崩坏3剧情梳理第三弹，轻松看完理之律者的传承史\n微博 @泛式 http://www.weibo.com/FunShiki/",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 565,
+    "order_id": 10003322,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 63841740,
+        "view": 1663690,
+        "danmaku": 5553,
+        "reply": 3326,
+        "favorite": 21015,
+        "coin": 35109,
+        "share": 5326,
+        "now_rank": 0,
+        "his_rank": 71,
+        "like": 80164,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，更更更更新！",
+    "cid": 110839601,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "season_id": 141732,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 110839601,
+            "page": 1,
+            "from": "vupload",
+            "part": "第一律者_x264",
+            "duration": 565,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 63841740,
+                "type": 3,
+                "desc": "全站排行榜最高第71名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

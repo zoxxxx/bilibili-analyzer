@@ -1,0 +1,137 @@
+{
+    "bvid": "BV1pi4y157ht",
+    "aid": 543043172,
+    "videos": 2,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/60a607a297fa27aa3edcca07c4bf42eb70758687.jpg",
+    "title": "神作归来？！《进击的巨人》最终季第1话观后感！【泛式】",
+    "pubdate": 1607427622,
+    "ctime": 1607427622,
+    "desc": "看完巨人最终季01， 激动得我当场做起了视频\n微博 @泛式 https://www.weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "看完巨人最终季01， 激动得我当场做起了视频\n微博 @泛式 https://www.weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 690,
+    "mission_id": 15276,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 543043172,
+        "view": 2381639,
+        "danmaku": 8158,
+        "reply": 6438,
+        "favorite": 21268,
+        "coin": 42886,
+        "share": 6383,
+        "now_rank": 0,
+        "his_rank": 18,
+        "like": 144819,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，壁外调查！",
+    "cid": 264507592,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 264507592,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1 正片",
+            "duration": 467,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 264507737,
+            "page": 2,
+            "from": "vupload",
+            "part": "P2 换BGM部分留档",
+            "duration": 223,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 543043172,
+                "type": 3,
+                "desc": "全站排行榜最高第18名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 543043172,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

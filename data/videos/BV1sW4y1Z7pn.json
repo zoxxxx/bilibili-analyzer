@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1sW4y1Z7pn",
+    "aid": 955983323,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/da0d3c2f6c1fcb52f18c293e638ced910f73d62f.jpg",
+    "title": "【泛式/剧情MAD】哥哥的女朋友，只能由我来选......",
+    "pubdate": 1689415533,
+    "ctime": 1689415533,
+    "desc": "一直感觉这首歌的歌词异常适合做MAD！等了这么多年终于让我等到合适的素材了哈哈哈！\n注意：本视频为误解向，全员OOC，仅供图一乐，请勿用本视频攻击角色和拉踩引战。",
+    "desc_v2": [
+        {
+            "raw_text": "一直感觉这首歌的歌词异常适合做MAD！等了这么多年终于让我等到合适的素材了哈哈哈！\n注意：本视频为误解向，全员OOC，仅供图一乐，请勿用本视频攻击角色和拉踩引战。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 230,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 955983323,
+        "view": 3233835,
+        "danmaku": 6171,
+        "reply": 9866,
+        "favorite": 94804,
+        "coin": 187225,
+        "share": 39022,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 306309,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，扭曲更新！",
+    "cid": 1197501649,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1197501649,
+            "page": 1,
+            "from": "vupload",
+            "part": "【泛式/剧情MAD】哥哥的女朋友，只能由我来选......",
+            "duration": 230,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230715a2ya41hxtkmdsfpqhar5cgj8i_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 955983323,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 955983323,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

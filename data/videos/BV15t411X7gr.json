@@ -1,0 +1,116 @@
+{
+    "bvid": "BV15t411X7gr",
+    "aid": 37070551,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/b6003cb0f591b0334419e10b34fe952c98e80313.jpg",
+    "title": "年度最爆笑漫改电影！《死神》真人版大吐槽！结局竟然如此坑爹！【泛式】",
+    "pubdate": 1543573844,
+    "ctime": 1543573845,
+    "desc": "带你看槽点满满、亮点也满满的死神真人版电影\n微博 @泛式 https://www.weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "带你看槽点满满、亮点也满满的死神真人版电影\n微博 @泛式 https://www.weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 638,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 37070551,
+        "view": 1600996,
+        "danmaku": 15338,
+        "reply": 3433,
+        "favorite": 14796,
+        "coin": 42356,
+        "share": 7059,
+        "now_rank": 0,
+        "his_rank": 20,
+        "like": 52449,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，迅捷更新！！（本期依然无发电）",
+    "cid": 65141895,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 65141895,
+            "page": 1,
+            "from": "vupload",
+            "part": "死神真人版_x264",
+            "duration": 638,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 37070551,
+                "type": 3,
+                "desc": "全站排行榜最高第20名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

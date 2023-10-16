@@ -1,0 +1,354 @@
+{
+    "bvid": "BV1ii4y1w7N5",
+    "aid": 543359271,
+    "videos": 2,
+    "tid": 85,
+    "tname": "小剧场",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/47cd091d334932b678bcfc44946d9d9a73bc514a.jpg",
+    "title": "UP主首次给电影唱宣传曲？！怪可爱的！圣诞快乐！",
+    "pubdate": 1608773401,
+    "ctime": 1608724372,
+    "desc": "《温暖的抱抱》是由常远、李沁、沈腾领衔主演的喜剧电影，影片讲述了对整洁和计划有着超乎常人执念的鲍抱在遇到个性率真的宋温暖后，上演了一段阴差阳错的喜剧故事。\nUP主为《温暖的抱抱》演唱宣传曲《怪可爱的》，这也是他们首次演唱电影宣传曲，电影将在12月31日上映，让“怪可爱的”UP主的歌声陪你一起温暖跨年~",
+    "desc_v2": [
+        {
+            "raw_text": "《温暖的抱抱》是由常远、李沁、沈腾领衔主演的喜剧电影，影片讲述了对整洁和计划有着超乎常人执念的鲍抱在遇到个性率真的宋温暖后，上演了一段阴差阳错的喜剧故事。\nUP主为《温暖的抱抱》演唱宣传曲《怪可爱的》，这也是他们首次演唱电影宣传曲，电影将在12月31日上映，让“怪可爱的”UP主的歌声陪你一起温暖跨年~",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 606,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 32708626,
+        "name": "哔斯卡金像奖",
+        "face": "http://i1.hdslb.com/bfs/face/7d746e4459bfe8127ecc147c17c7f49b44a4ab82.jpg"
+    },
+    "stat": {
+        "aid": 543359271,
+        "view": 6604098,
+        "danmaku": 70725,
+        "reply": 29894,
+        "favorite": 251954,
+        "coin": 439592,
+        "share": 85799,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 527979,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "唱了一首《怪可爱的》，献给大家！",
+    "cid": 270245368,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 270245368,
+            "page": 1,
+            "from": "vupload",
+            "part": "电影《温暖的抱抱》MV《怪可爱的》",
+            "duration": 205,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        },
+        {
+            "cid": 270254322,
+            "page": 2,
+            "from": "vupload",
+            "part": "“怪可爱的”up主的《怪可爱的》vlog",
+            "duration": 401,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 32708626,
+            "title": "UP主",
+            "name": "哔斯卡金像奖",
+            "face": "http://i1.hdslb.com/bfs/face/7d746e4459bfe8127ecc147c17c7f49b44a4ab82.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1607184000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "影视区官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 514892,
+            "label_style": 0
+        },
+        {
+            "mid": 2206456,
+            "title": "参演",
+            "name": "花少北丶",
+            "face": "https://i1.hdslb.com/bfs/face/06c233a0136f738f8f54a08770dc7d484ae45081.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1698422400000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、2021直播年度人气奖、2021年度巅峰主播、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 6624600,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "参演",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271914,
+            "label_style": 0
+        },
+        {
+            "mid": 1577804,
+            "title": "参演",
+            "name": "某幻君",
+            "face": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728748800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1726329600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、 知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 8295597,
+            "label_style": 0
+        },
+        {
+            "mid": 562197,
+            "title": "参演",
+            "name": "中国BOY超级大猩猩",
+            "face": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1700841600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2021百大UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 9537168,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 543359271,
+                "type": 2,
+                "desc": "第92期每周必看",
+                "weekly_recommend_num": 92
+            },
+            {
+                "aid": 543359271,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 543359271,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

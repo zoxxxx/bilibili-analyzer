@@ -1,0 +1,216 @@
+{
+    "bvid": "BV1484y1P7Nx",
+    "aid": 610595176,
+    "videos": 1,
+    "tid": 28,
+    "tname": "原创音乐",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2d85d44faf94c150b62c4eafef98cd11bf4f23a5.jpg",
+    "title": "【老番茄x翠花】我们毕业了！",
+    "pubdate": 1678180801,
+    "ctime": 1678179558,
+    "desc": "崩坏3第一部大结局啦~期待第二部！\n词曲：翠花不太脆\n唱：老番茄 翠花不太脆\n后期：沈逸丹\n画师：404 Not Found\n视频：洛笙",
+    "desc_v2": [
+        {
+            "raw_text": "崩坏3第一部大结局啦~期待第二部！\n词曲：翠花不太脆\n唱：老番茄 翠花不太脆\n后期：沈逸丹\n画师：404 Not Found\n视频：洛笙",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 166,
+    "mission_id": 1327260,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 337312411,
+        "name": "翠花不太脆",
+        "face": "https://i1.hdslb.com/bfs/face/df1ed77ec248ef0242b7b8b915739e4199d889df.jpg"
+    },
+    "stat": {
+        "aid": 610595176,
+        "view": 2271782,
+        "danmaku": 1688,
+        "reply": 2781,
+        "favorite": 84794,
+        "coin": 102038,
+        "share": 15205,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 259594,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "给御三家写了一首毕业歌，也祝各位舰长们毕业快乐~",
+    "cid": 1042995603,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1042995603,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 166,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230307qnfe2zwpcgm2jt348motkt3ku_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 337312411,
+            "title": "UP主",
+            "name": "翠花不太脆",
+            "face": "https://i1.hdslb.com/bfs/face/df1ed77ec248ef0242b7b8b915739e4199d889df.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1727020800000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1606752000
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名音乐UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 2037174,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "演唱",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271916,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 610595176,
+                "type": 2,
+                "desc": "第207期每周必看",
+                "weekly_recommend_num": 207
+            },
+            {
+                "aid": 610595176,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 610595176,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,130 @@
+{
+    "bvid": "BV13W4y1s7Y6",
+    "aid": 945502040,
+    "videos": 1,
+    "tid": 138,
+    "tname": "搞笑",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c188dc2bd3907e7f3135c46a6772113f31ff4f44.jpg",
+    "title": "密室员工:“放心，我很敬业的”",
+    "pubdate": 1669434000,
+    "ctime": 1669397819,
+    "desc": "太哈人了！",
+    "desc_v2": [
+        {
+            "raw_text": "太哈人了！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 579,
+    "mission_id": 1093619,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 945502040,
+        "view": 7342912,
+        "danmaku": 16660,
+        "reply": 5211,
+        "favorite": 163226,
+        "coin": 246199,
+        "share": 49294,
+        "now_rank": 0,
+        "his_rank": 2,
+        "like": 600991,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 903034485,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 903034485,
+            "page": 1,
+            "from": "vupload",
+            "part": "密室员工:“放心，我很敬业的”",
+            "duration": 579,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n221126a21e7y7vz51mf262ksxc6v1i0_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 945502040,
+                "type": 2,
+                "desc": "第193期每周必看",
+                "weekly_recommend_num": 193
+            },
+            {
+                "aid": 945502040,
+                "type": 3,
+                "desc": "全站排行榜最高第2名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 945502040,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

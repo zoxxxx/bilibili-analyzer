@@ -1,0 +1,124 @@
+{
+    "bvid": "BV1L14y1i7xA",
+    "aid": 787410106,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b5d946778fdf20f32684b18fdd3574d98af6a634.jpg",
+    "title": "评分4.6！大脑寄存，究极雷人！2023年度逆天动画！【泛式】",
+    "pubdate": 1692437700,
+    "ctime": 1692370235,
+    "desc": "这部番我追了三个月，结果4月吐槽时竟然没用上它的素材，这也太tm亏了吧！！不行，今天必须给它单独出一期视频^_^",
+    "desc_v2": [
+        {
+            "raw_text": "这部番我追了三个月，结果4月吐槽时竟然没用上它的素材，这也太tm亏了吧！！不行，今天必须给它单独出一期视频^_^",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 648,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 787410106,
+        "view": 2544682,
+        "danmaku": 22532,
+        "reply": 7608,
+        "favorite": 27232,
+        "coin": 54917,
+        "share": 14868,
+        "now_rank": 0,
+        "his_rank": 17,
+        "like": 219654,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，为了不亏而更新！",
+    "cid": 1238919249,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1238919249,
+            "page": 1,
+            "from": "vupload",
+            "part": "评分4.6！大脑寄存，究极雷人！2023年度逆天动画！【泛式】",
+            "duration": 648,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230818sa33dh55cibm50akjn0xtm7w9_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 787410106,
+                "type": 3,
+                "desc": "全站排行榜最高第17名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 787410106,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,122 @@
+{
+    "bvid": "BV1m4411W7Zb",
+    "aid": 53986215,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/216653ca5ff3a8c0f91a28f98c6e1ec4496279d2.jpg",
+    "title": "up主竟在游戏中做小学数学题做到崩溃！",
+    "pubdate": 1559136570,
+    "ctime": 1559136570,
+    "desc": "游戏：作业疯了\n做错的题观众老师们可以在评论区指出，阿茄会在练习本上订正十遍的。",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：作业疯了\n做错的题观众老师们可以在评论区指出，阿茄会在练习本上订正十遍的。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1003,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 53986215,
+        "view": 6306991,
+        "danmaku": 37099,
+        "reply": 8504,
+        "favorite": 37392,
+        "coin": 62431,
+        "share": 15668,
+        "now_rank": 0,
+        "his_rank": 7,
+        "like": 176116,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#老番茄##作业疯了#",
+    "cid": 94437966,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 94437966,
+            "page": 1,
+            "from": "vupload",
+            "part": "作业疯了 修改",
+            "duration": 1003,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 53986215,
+                "type": 2,
+                "desc": "第10期每周必看",
+                "weekly_recommend_num": 10
+            },
+            {
+                "aid": 53986215,
+                "type": 3,
+                "desc": "全站排行榜最高第7名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

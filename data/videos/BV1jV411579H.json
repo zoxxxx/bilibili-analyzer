@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1jV411579H",
+    "aid": 404104134,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/7b9335d2de52d91364dc35e5256b4abc735ad9f8.jpg",
+    "title": "看完7月新番，我彻底疯狂！彻底疯狂！！【泛式】",
+    "pubdate": 1690634246,
+    "ctime": 1690634246,
+    "desc": "忍不了了！一通乱做！忍不了了！一通乱做！忍不了了！一通乱做！忍不了了！一通乱做！",
+    "desc_v2": [
+        {
+            "raw_text": "忍不了了！一通乱做！忍不了了！一通乱做！忍不了了！一通乱做！忍不了了！一通乱做！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 680,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 404104134,
+        "view": 5458074,
+        "danmaku": 21294,
+        "reply": 10943,
+        "favorite": 80421,
+        "coin": 188055,
+        "share": 31752,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 409593,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，7月更新！",
+    "cid": 1214982848,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1214982848,
+            "page": 1,
+            "from": "vupload",
+            "part": "看完7月新番，我彻底疯狂！彻底疯狂！！【泛式】",
+            "duration": 680,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n230729saypo0zna3zstt13fg0o6bt90_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 404104134,
+                "type": 2,
+                "desc": "第228期每周必看",
+                "weekly_recommend_num": 228
+            },
+            {
+                "aid": 404104134,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 404104134,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

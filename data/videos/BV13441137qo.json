@@ -1,0 +1,117 @@
+{
+    "bvid": "BV13441137qo",
+    "aid": 56248728,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/ec625d25ade62a8f037ecb070cba176cec4174c6.jpg",
+    "title": "全网首曝！米哈游新作《原神》游戏内容抢先曝光！",
+    "pubdate": 1561089642,
+    "ctime": 1561084745,
+    "desc": "之前偷偷去米哈游在现场玩到了原神，今天素材解禁了，来给大家展示下游戏内容！\n微博 @泛式 http://www.weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "之前偷偷去米哈游在现场玩到了原神，今天素材解禁了，来给大家展示下游戏内容！\n微博 @泛式 http://www.weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 602,
+    "order_id": 10003321,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 56248728,
+        "view": 9050521,
+        "danmaku": 47169,
+        "reply": 88004,
+        "favorite": 83533,
+        "coin": 171490,
+        "share": 57747,
+        "now_rank": 0,
+        "his_rank": 16,
+        "like": 431160,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，总是在你意想不到的时间更新！#原神#",
+    "cid": 98309148,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 98309148,
+            "page": 1,
+            "from": "vupload",
+            "part": "原神",
+            "duration": 602,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 56248728,
+                "type": 3,
+                "desc": "全站排行榜最高第16名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

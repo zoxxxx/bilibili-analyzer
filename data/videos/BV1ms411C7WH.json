@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1ms411C7WH",
+    "aid": 5698056,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/5ce14de64eff146e9d61b1f343a3c3ed3c5f0df7.jpg",
+    "title": "不花钱也可以喜加一",
+    "pubdate": 1470570183,
+    "ctime": 1497424449,
+    "desc": "心血来潮下了几个免费steam游戏玩玩",
+    "desc_v2": [
+        {
+            "raw_text": "心血来潮下了几个免费steam游戏玩玩",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 1290,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 5698056,
+        "view": 1133722,
+        "danmaku": 9575,
+        "reply": 2573,
+        "favorite": 2837,
+        "coin": 3913,
+        "share": 261,
+        "now_rank": 0,
+        "his_rank": 42,
+        "like": 7432,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 345483577,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 345483577,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 1290,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 5698056,
+                "type": 3,
+                "desc": "全站排行榜最高第42名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

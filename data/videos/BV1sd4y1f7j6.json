@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1sd4y1f7j6",
+    "aid": 401545748,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/b715480fada1b2a5ffebcd75ffabf31a7e38f849.jpg",
+    "title": "住手啊！要看不过来了！2023年7月新番导视！【泛式】",
+    "pubdate": 1685159100,
+    "ctime": 1685118461,
+    "desc": "2023年7月新番全资讯导视（top10奶番下月出）【7月：我和4月10月五五开！\n求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连",
+    "desc_v2": [
+        {
+            "raw_text": "2023年7月新番全资讯导视（top10奶番下月出）【7月：我和4月10月五五开！\n求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 863,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 401545748,
+        "view": 4640320,
+        "danmaku": 29035,
+        "reply": 7107,
+        "favorite": 86115,
+        "coin": 97057,
+        "share": 16572,
+        "now_rank": 0,
+        "his_rank": 5,
+        "like": 314112,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式队长，导视更新！",
+    "cid": 1143056554,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 19833,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1143056554,
+            "page": 1,
+            "from": "vupload",
+            "part": "住手啊！要看不过来了！2023年7月新番导视！【泛式】",
+            "duration": 863,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i2.hdslb.com/bfs/storyff/n230527a228vh4ei5p632017d4eb3uco_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 401545748,
+                "type": 2,
+                "desc": "第219期每周必看",
+                "weekly_recommend_num": 219
+            },
+            {
+                "aid": 401545748,
+                "type": 3,
+                "desc": "全站排行榜最高第5名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 401545748,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

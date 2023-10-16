@@ -1,0 +1,203 @@
+{
+    "bvid": "BV1Pu411z7Gb",
+    "aid": 509791039,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/cceec4e2b466cd62f78e00b34b242839bdc5fa47.jpg",
+    "title": "如果早知道，女装也会被......",
+    "pubdate": 1647664201,
+    "ctime": 1647598852,
+    "desc": "10分钟看完约会大作战 第六集 美九反十篇\n\n往期链接：\nBV1TP4y1c7B9\nBV1fm4y1R7by\nBV1jU4y1f73e\nBV1hq4y147Th\nBV1Z3411W7W7",
+    "desc_v2": [
+        {
+            "raw_text": "10分钟看完约会大作战 第六集 美九反十篇\n\n往期链接：\nBV1TP4y1c7B9\nBV1fm4y1R7by\nBV1jU4y1f73e\nBV1hq4y147Th\nBV1Z3411W7W7",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 553,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 509791039,
+        "view": 1255803,
+        "danmaku": 5538,
+        "reply": 2407,
+        "favorite": 11109,
+        "coin": 18772,
+        "share": 1952,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 106162,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "三句话，让精灵亲我18次",
+    "cid": 552526394,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 552526394,
+            "page": 1,
+            "from": "vupload",
+            "part": "约战美九_x264",
+            "duration": 553,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n220318qn1r0qunhq233p534ku4r5gfh_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 63231,
+            "title": "UP主",
+            "name": "泛式",
+            "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1722355200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、知名UP主、直播高能主播",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 5581758,
+            "label_style": 0
+        },
+        {
+            "mid": 30682056,
+            "title": "参演",
+            "name": "约战精灵情报处",
+            "face": "https://i0.hdslb.com/bfs/face/d84d0d1ed5de4382c9cf2ccb791b76d9085c2a6f.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1751385600000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 1,
+                "tv_vip_pay_type": 1,
+                "tv_due_date": 1723046400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 知名游戏UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 868651,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 509791039,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Pb41127uG",
+    "aid": 43547317,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/9d8bddeadc07c6c0513dcc58a1af990e19bc7c68.jpg",
+    "title": "【老番茄】史上最狠小学生(大结局)",
+    "pubdate": 1550203243,
+    "ctime": 1550142918,
+    "desc": "第一集：av40368306\n第二集：av41023227\n第三集：av41521513\n第四集：av42184601\n这个系列终于完结了！希望大家能收藏一下，就是对up主最大的支持了！",
+    "desc_v2": [
+        {
+            "raw_text": "第一集：av40368306\n第二集：av41023227\n第三集：av41521513\n第四集：av42184601\n这个系列终于完结了！希望大家能收藏一下，就是对up主最大的支持了！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 864,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 43547317,
+        "view": 8369377,
+        "danmaku": 59279,
+        "reply": 12650,
+        "favorite": 161685,
+        "coin": 388724,
+        "share": 13178,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 427601,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "吐血做出了大结局！祝大家开学快乐！！",
+    "cid": 76309742,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 76309742,
+            "page": 1,
+            "from": "vupload",
+            "part": "DEAD5_1_new_file(1)_x264",
+            "duration": 864,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 43547317,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

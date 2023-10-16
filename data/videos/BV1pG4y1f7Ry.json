@@ -1,0 +1,108 @@
+{
+    "bvid": "BV1pG4y1f7Ry",
+    "aid": 860007574,
+    "videos": 1,
+    "tid": 233,
+    "tname": "极客DIY",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5b1cdcbf99b216b293b6a79e76a4b507419555b4.jpg",
+    "title": "中科大少年班的我们，用半年时间造了个球？",
+    "pubdate": 1668163414,
+    "ctime": 1668163414,
+    "desc": "https://www.bilibili.com/video/BV1hG411A7cX 视频第一弹~ \n【中科大RoboGame逆序队】\n机械：@我没有名字真的不骗你 @zoxzoxzox @cat-of-Bohr\n电控：@Augusta__\n宣传：@飞旭feixu\n【鸣谢】\n@中国科学技术大学\n@中国科大少年班学院\n@USTC机器人俱乐部",
+    "desc_v2": [
+        {
+            "raw_text": "https://www.bilibili.com/video/BV1hG411A7cX 视频第一弹~ \n【中科大RoboGame逆序队】\n机械：@我没有名字真的不骗你 @zoxzoxzox @cat-of-Bohr\n电控：@Augusta__\n宣传：@飞旭feixu\n【鸣谢】\n@中国科学技术大学\n@中国科大少年班学院\n@USTC机器人俱乐部",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 434,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 1442367743,
+        "name": "zoxzoxzox",
+        "face": "https://i2.hdslb.com/bfs/face/bd5521e14fdf39c59d2fc0b758fa26e1fc0de7f9.jpg"
+    },
+    "stat": {
+        "aid": 860007574,
+        "view": 181970,
+        "danmaku": 319,
+        "reply": 348,
+        "favorite": 802,
+        "coin": 752,
+        "share": 278,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 6366,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 888295364,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 888295364,
+            "page": 1,
+            "from": "vupload",
+            "part": "中科大少年班的我们，用半年时间造了个球？",
+            "duration": 434,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n221111qnfr88tecy40d426v521jyycn_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

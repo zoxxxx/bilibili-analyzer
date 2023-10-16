@@ -1,0 +1,107 @@
+{
+    "bvid": "BV1Xs411B7mD",
+    "aid": 4222922,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/77f5b8ff8a12c500af302ab22beb6e897c63615c.jpg",
+    "title": "【老番茄】蝙蝠侠特烦恼",
+    "pubdate": 1459267613,
+    "ctime": 1497424449,
+    "desc": "自制 老番茄的嗓子隐隐作痛。一部电影的上映为何让韦少爷陷入烦恼？哥谭市的黑屁骑士哦不黑暗骑士重出江湖",
+    "desc_v2": [
+        {
+            "raw_text": "自制 老番茄的嗓子隐隐作痛。一部电影的上映为何让韦少爷陷入烦恼？哥谭市的黑屁骑士哦不黑暗骑士重出江湖",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 465,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 4222922,
+        "view": 1353516,
+        "danmaku": 7324,
+        "reply": 1716,
+        "favorite": 8405,
+        "coin": 10108,
+        "share": 2622,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 16028,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 6823972,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 6823972,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 465,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

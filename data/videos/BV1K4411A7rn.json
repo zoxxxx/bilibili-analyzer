@@ -1,0 +1,123 @@
+{
+    "bvid": "BV1K4411A7rn",
+    "aid": 57786319,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c7bb20be33845431f31d965ad9637bbc87e297ed.jpg",
+    "title": "奶爆新番！七月最值得期待的10部动画！最后一部竟然出乎意料！「泛式/七月新番导视」",
+    "pubdate": 1562211385,
+    "ctime": 1562211385,
+    "desc": "2019年七月新番导视，个人预测的10部最值得期待动画，如果实际表现不佳欢迎回来打脸！\n微博 @泛式 http://weibo.com/FunShiki",
+    "desc_v2": [
+        {
+            "raw_text": "2019年七月新番导视，个人预测的10部最值得期待动画，如果实际表现不佳欢迎回来打脸！\n微博 @泛式 http://weibo.com/FunShiki",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 636,
+    "mission_id": 11600,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 57786319,
+        "view": 2937210,
+        "danmaku": 18046,
+        "reply": 3416,
+        "favorite": 63355,
+        "coin": 120330,
+        "share": 4708,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 155900,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "久等了的七月新番预测，开始奶起！ #七月新番#",
+    "cid": 101226166,
+    "dimension": {
+        "width": 1280,
+        "height": 720,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 101226166,
+            "page": 1,
+            "from": "vupload",
+            "part": "7月导视 7.6修改版_x264",
+            "duration": 636,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1280,
+                "height": 720,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 57786319,
+                "type": 2,
+                "desc": "第16期每周必看",
+                "weekly_recommend_num": 16
+            },
+            {
+                "aid": 57786319,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

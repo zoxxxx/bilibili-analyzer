@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1Tq4y1W7jr",
+    "aid": 546659879,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/38e096947f5c2247fc6a2bbbb2a4064a03b69350.jpg",
+    "title": "史上最骚魔法师！(第四集)",
+    "pubdate": 1626408000,
+    "ctime": 1626408022,
+    "desc": "游戏：The Darkside Detective A Fumble in the Dark\n第一集：BV1M64y1m7gA；第二集：BV1jo4y117Vf；第三集：BV1tA41137T8\n各位如果看得开心，希望三连支持一下！收藏到15w必更下一期！",
+    "desc_v2": [
+        {
+            "raw_text": "游戏：The Darkside Detective A Fumble in the Dark\n第一集：BV1M64y1m7gA；第二集：BV1jo4y117Vf；第三集：BV1tA41137T8\n各位如果看得开心，希望三连支持一下！收藏到15w必更下一期！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 840,
+    "mission_id": 40185,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 546659879,
+        "view": 6328900,
+        "danmaku": 41389,
+        "reply": 7100,
+        "favorite": 97802,
+        "coin": 230939,
+        "share": 5654,
+        "now_rank": 0,
+        "his_rank": 4,
+        "like": 541093,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "魔法师来了！",
+    "cid": 370646052,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 370646052,
+            "page": 1,
+            "from": "vupload",
+            "part": "darkside4_x264",
+            "duration": 840,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i0.hdslb.com/bfs/storyff/n210716qn25iqlrnsavyj222tpphgb90_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 546659879,
+                "type": 2,
+                "desc": "第121期每周必看",
+                "weekly_recommend_num": 121
+            },
+            {
+                "aid": 546659879,
+                "type": 3,
+                "desc": "全站排行榜最高第4名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 546659879,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

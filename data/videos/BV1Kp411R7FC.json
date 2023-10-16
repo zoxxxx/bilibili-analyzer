@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1Kp411R7FC",
+    "aid": 23879025,
+    "videos": 1,
+    "tid": 65,
+    "tname": "网络游戏",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/a7f25f8df799ac46d804cafc7f852f821df2a2b5.jpg",
+    "title": "【老番茄】菲律宾小伙立志成为奇异博士！漫威看了要打人",
+    "pubdate": 1527233400,
+    "ctime": 1527233400,
+    "desc": "相关游戏: 绝地求生\n简介补充: 为什么菲律宾的高中孩子思想已经这么社会。。。\n如果喜欢视频的话请多投币、多点赞、多收藏！收藏1w周更语言教学视频！！",
+    "desc_v2": [
+        {
+            "raw_text": "相关游戏: 绝地求生\n简介补充: 为什么菲律宾的高中孩子思想已经这么社会。。。\n如果喜欢视频的话请多投币、多点赞、多收藏！收藏1w周更语言教学视频！！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 396,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 23879025,
+        "view": 2170505,
+        "danmaku": 6961,
+        "reply": 1919,
+        "favorite": 15463,
+        "coin": 23208,
+        "share": 3662,
+        "now_rank": 0,
+        "his_rank": 9,
+        "like": 40098,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#网络游戏##绝地求生##老番茄#",
+    "cid": 323864340,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 323864340,
+            "page": 1,
+            "from": "vupload",
+            "part": "chiji9",
+            "duration": 396,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 23879025,
+                "type": 3,
+                "desc": "全站排行榜最高第9名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

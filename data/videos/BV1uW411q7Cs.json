@@ -1,0 +1,116 @@
+{
+    "bvid": "BV1uW411q7Cs",
+    "aid": 18226731,
+    "videos": 1,
+    "tid": 253,
+    "tname": "动漫杂谈",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/d973b1920a651720b968b0eba3c5b0bdbb4aa9e4.jpg",
+    "title": "【泛式】1月新番大吐槽第一弹！京紫纪元？萌王归来！【新番妙妙屋01】",
+    "pubdate": 1515745488,
+    "ctime": 1515745488,
+    "desc": "视频类型: 动漫杂谈\n相关题材: 紫罗兰永恒花园，Citrus，爱吃拉面的小泉同学，比宇宙更远的地方，皇帝圣印战纪，魔卡少女樱 等一月新番\n简介: 一起来吐槽被誉为史上最强的一月新番吧！（求不吐槽节目名\n微博 @泛式 http://www.weibo.com/FunShiki/\n\n禁止搬运至youtube！禁止搬运至youtube！！禁止搬运至youtube！！！",
+    "desc_v2": [
+        {
+            "raw_text": "视频类型: 动漫杂谈\n相关题材: 紫罗兰永恒花园，Citrus，爱吃拉面的小泉同学，比宇宙更远的地方，皇帝圣印战纪，魔卡少女樱 等一月新番\n简介: 一起来吐槽被誉为史上最强的一月新番吧！（求不吐槽节目名\n微博 @泛式 http://www.weibo.com/FunShiki/\n\n禁止搬运至youtube！禁止搬运至youtube！！禁止搬运至youtube！！！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 631,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 18226731,
+        "view": 1020946,
+        "danmaku": 8457,
+        "reply": 3698,
+        "favorite": 37994,
+        "coin": 81040,
+        "share": 3045,
+        "now_rank": 0,
+        "his_rank": 19,
+        "like": 36026,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "泛式的新番妙妙屋！快进来非常好玩！！.......我知道这个节目名很傻吊所以特地放后面了【。总之和泛式一起来聊聊(又)被誉为史上最强的一月新番吧！",
+    "cid": 29757319,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 29757319,
+            "page": 1,
+            "from": "vupload",
+            "part": "P1",
+            "duration": 631,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 18226731,
+                "type": 3,
+                "desc": "全站排行榜最高第19名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

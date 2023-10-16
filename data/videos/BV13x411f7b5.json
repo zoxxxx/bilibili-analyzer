@@ -1,0 +1,117 @@
+{
+    "bvid": "BV13x411f7b5",
+    "aid": 58590641,
+    "videos": 1,
+    "tid": 17,
+    "tname": "单机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/857d26a5f3c289159b486b44d8f73c6af30d2a06.jpg",
+    "title": "【老番茄】史上最骚大侦探(第四集)",
+    "pubdate": 1562904044,
+    "ctime": 1562744663,
+    "desc": "第一集：av54644167；第二集：av55484165；第三集：av57048734\n收藏到5W的话，下周五放出大结局！敬请期待！",
+    "desc_v2": [
+        {
+            "raw_text": "第一集：av54644167；第二集：av55484165；第三集：av57048734\n收藏到5W的话，下周五放出大结局！敬请期待！",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 652,
+    "mission_id": 11597,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 546195,
+        "name": "老番茄",
+        "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg"
+    },
+    "stat": {
+        "aid": 58590641,
+        "view": 7789766,
+        "danmaku": 44963,
+        "reply": 5017,
+        "favorite": 138916,
+        "coin": 320731,
+        "share": 8308,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 397761,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "童话镇系列第四集！一步步接近真相！",
+    "cid": 102178804,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 102178804,
+            "page": 1,
+            "from": "vupload",
+            "part": "wolf4_1_new_file(1)_x264",
+            "duration": 652,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": true,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 58590641,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

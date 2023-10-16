@@ -1,0 +1,130 @@
+{
+    "bvid": "BV1oG41127aM",
+    "aid": 406864969,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/75893822637f2dcdb4bbf8d7488569ce2a018bc2.jpg",
+    "title": "【泛式/剧情MAD】祝你幸福，这一次我没有『说谎 』......  （mygo/祥子）",
+    "pubdate": 1696412262,
+    "ctime": 1696412262,
+    "desc": "很多年前就想拿这首歌做MAD，精髓在于歌词里“反复强调没说谎 但实则句句都是谎”的【嘴硬感】，和传统失恋苦情歌所没有的微妙【海王感】，本以为这辈子都没机会找到适合这首歌的素材——然后MYGO播出了！！【没有说谎+人艰不拆+祝你幸福+心事遗忘】竟然全都能对上^_^\n\n（当然祥子的故事肯定不能说完全对上这首歌，毕竟有些做法是有争议的，所以我制作时也刻意对很多情节进行了“软化”加工，让本MAD带有误解要素、不能完全反映原片，大祥老师请付我公关费谢谢！^_^）",
+    "desc_v2": [
+        {
+            "raw_text": "很多年前就想拿这首歌做MAD，精髓在于歌词里“反复强调没说谎 但实则句句都是谎”的【嘴硬感】，和传统失恋苦情歌所没有的微妙【海王感】，本以为这辈子都没机会找到适合这首歌的素材——然后MYGO播出了！！【没有说谎+人艰不拆+祝你幸福+心事遗忘】竟然全都能对上^_^\n\n（当然祥子的故事肯定不能说完全对上这首歌，毕竟有些做法是有争议的，所以我制作时也刻意对很多情节进行了“软化”加工，让本MAD带有误解要素、不能完全反映原片，大祥老师请付我公关费谢谢！^_^）",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 283,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 406864969,
+        "view": 1293354,
+        "danmaku": 3450,
+        "reply": 7180,
+        "favorite": 64244,
+        "coin": 143717,
+        "share": 23459,
+        "now_rank": 0,
+        "his_rank": 8,
+        "like": 173328,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "客服小泛，MAD更新！",
+    "cid": 1288759619,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1288759619,
+            "page": 1,
+            "from": "vupload",
+            "part": "【泛式/剧情MAD】祝你幸福，这一次我没有『说谎 』......  （mygo/祥子）",
+            "duration": 283,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n231004a2mglvi4bje5b420hqou9aoe1_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 406864969,
+                "type": 2,
+                "desc": "第237期每周必看",
+                "weekly_recommend_num": 237
+            },
+            {
+                "aid": 406864969,
+                "type": 3,
+                "desc": "全站排行榜最高第8名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 406864969,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1Es411D7jh",
+    "aid": 2255029,
+    "videos": 1,
+    "tid": 24,
+    "tname": "MAD·AMV",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/5e1a5862c532c57559c7c05e61eb03d7c1727ddb.jpg",
+    "title": "【黑篮/剧情向】弱虫黑子的炎之篮球物语——再弱小的火焰,也有绽放光明的一天",
+    "pubdate": 1429941074,
+    "ctime": 1497367945,
+    "desc": "自制 冲着弱虫な炎这首BGM开的坑，黑子和火神对应的弱虫和炎的关系很有趣， 所以选择了黑篮这个题材。|| 在剧情上进行了一定程度的改编，希望非原作党和原作党都能安定地食用= =+   ||  总之最需要感谢的人是三次元的学长兼室友虚渊喧，在补图、C4D、音效和生活上对我的支持，能在你搬走前夕做完这个视频真的太好了。|| 替换了部分未经授权的素材，在片尾附上了图源ID，想求图的可以去P站支持原作者。",
+    "desc_v2": [
+        {
+            "raw_text": "自制 冲着弱虫な炎这首BGM开的坑，黑子和火神对应的弱虫和炎的关系很有趣， 所以选择了黑篮这个题材。|| 在剧情上进行了一定程度的改编，希望非原作党和原作党都能安定地食用= =+   ||  总之最需要感谢的人是三次元的学长兼室友虚渊喧，在补图、C4D、音效和生活上对我的支持，能在你搬走前夕做完这个视频真的太好了。|| 替换了部分未经授权的素材，在片尾附上了图源ID，想求图的可以去P站支持原作者。",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 174,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 0,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 2255029,
+        "view": 411441,
+        "danmaku": 4140,
+        "reply": 987,
+        "favorite": 12024,
+        "coin": 9542,
+        "share": 1576,
+        "now_rank": 0,
+        "his_rank": 67,
+        "like": 6457,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "",
+    "cid": 3534780,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "season_id": 1107570,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": true,
+    "pages": [
+        {
+            "cid": 3534780,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 174,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 2255029,
+                "type": 3,
+                "desc": "全站排行榜最高第67名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

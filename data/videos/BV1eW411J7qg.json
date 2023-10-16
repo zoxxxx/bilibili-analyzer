@@ -1,0 +1,117 @@
+{
+    "bvid": "BV1eW411J7qg",
+    "aid": 19184869,
+    "videos": 1,
+    "tid": 172,
+    "tname": "手机游戏",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/54a9ff19d5bd3f5026d245f00efcb93012c99edb.jpg",
+    "title": "【泛式/vlog】带你逛国内首期FGO超弩级线下活动！「FES 2018」",
+    "pubdate": 1517846451,
+    "ctime": 1517839446,
+    "desc": "相关游戏: Fate/Grand Order\n简介补充: FGO线下活动「FES」游场vlog （2018年1月27日）\n\n视频BGM: \nBeneath the Mask - Lyn \nTokyo Emergency - 目黒将司\nLife Goes On - 目黒将司\nLife Will Change -instrumental version- -目黒将司",
+    "desc_v2": [
+        {
+            "raw_text": "相关游戏: Fate/Grand Order\n简介补充: FGO线下活动「FES」游场vlog （2018年1月27日）\n\n视频BGM: \nBeneath the Mask - Lyn \nTokyo Emergency - 目黒将司\nLife Goes On - 目黒将司\nLife Will Change -instrumental version- -目黒将司",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 631,
+    "order_id": 908,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 63231,
+        "name": "泛式",
+        "face": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg"
+    },
+    "stat": {
+        "aid": 19184869,
+        "view": 280513,
+        "danmaku": 2658,
+        "reply": 991,
+        "favorite": 2845,
+        "coin": 5186,
+        "share": 1155,
+        "now_rank": 0,
+        "his_rank": 78,
+        "like": 5688,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "上周参加FGO线下活动时拍摄的游场vlog（内含丢人泛式）",
+    "cid": 31290543,
+    "dimension": {
+        "width": 640,
+        "height": 360,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 31290543,
+            "page": 1,
+            "from": "vupload",
+            "part": "",
+            "duration": 631,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 640,
+                "height": 360,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 19184869,
+                "type": 3,
+                "desc": "全站排行榜最高第78名",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

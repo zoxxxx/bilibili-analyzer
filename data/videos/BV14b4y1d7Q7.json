@@ -1,0 +1,340 @@
+{
+    "bvid": "BV14b4y1d7Q7",
+    "aid": 631028294,
+    "videos": 1,
+    "tid": 193,
+    "tname": "MV",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/3f6dc1ee2bf9a4237e3deb4d135c84f981be815e.jpg",
+    "title": "《你眼里的光》bilibili x老番茄x老坛胡说 ｜ 不要关掉你眼里的光",
+    "pubdate": 1623286815,
+    "ctime": 1623283858,
+    "desc": "#你眼里的光二创# 同步开启https://www.bilibili.com/blackboard/dynamic/146573\n2021年毕业前夕，我们前往各高校拍摄，并将这些真实画面制作成MV，记录下毕业前夕最珍贵的时光。\nbilibili x 老番茄 x 老坛胡说 联合发布《你眼里的光》，送给所有即将或已经毕业的你——不管今后是躺着、站着、还是奔跑着，都睁开双眼，去拥有天空、朋友和时光！\n \nbilibili 出品｜SG胜加 联合出品｜光明日报 中国青年报 联合发布",
+    "desc_v2": [
+        {
+            "raw_text": "#你眼里的光二创# 同步开启https://www.bilibili.com/blackboard/dynamic/146573\n2021年毕业前夕，我们前往各高校拍摄，并将这些真实画面制作成MV，记录下毕业前夕最珍贵的时光。\nbilibili x 老番茄 x 老坛胡说 联合发布《你眼里的光》，送给所有即将或已经毕业的你——不管今后是躺着、站着、还是奔跑着，都睁开双眼，去拥有天空、朋友和时光！\n \nbilibili 出品｜SG胜加 联合出品｜光明日报 中国青年报 联合发布",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 329,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 1,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 8047632,
+        "name": "哔哩哔哩弹幕网",
+        "face": "https://i0.hdslb.com/bfs/face/0c84b9f4ad546d3f20324809d45fc439a2a8ddab.jpg"
+    },
+    "stat": {
+        "aid": 631028294,
+        "view": 6964094,
+        "danmaku": 15592,
+        "reply": 16712,
+        "favorite": 145750,
+        "coin": 219180,
+        "share": 35526,
+        "now_rank": 0,
+        "his_rank": 3,
+        "like": 476208,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "#你眼里的光# 2021毕业歌上线啦～ bilibili x @老番茄 x @老坛胡说 联合发布！送给即将或已经毕业的你——希望无论多少年以后，不管是躺着，站着，还是跑着，都睁开双眼，去拥有天空、朋友和时光！",
+    "cid": 351717846,
+    "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 351717846,
+            "page": 1,
+            "from": "vupload",
+            "part": "横版_0610_尾版2 光明_中青422proxy",
+            "duration": 329,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+            }
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "staff": [
+        {
+            "mid": 8047632,
+            "title": "UP主",
+            "name": "哔哩哔哩弹幕网",
+            "face": "https://i0.hdslb.com/bfs/face/0c84b9f4ad546d3f20324809d45fc439a2a8ddab.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1924963200000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "十年大会员",
+                    "label_theme": "ten_annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/adb599797dd171e2d3d6d012f448b49679258344.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/sGu57N6pgK.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 7,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1655395200
+            },
+            "official": {
+                "role": 3,
+                "title": "哔哩哔哩弹幕网官方账号 ",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 3532422,
+            "label_style": 0
+        },
+        {
+            "mid": 546195,
+            "title": "演唱",
+            "name": "老番茄",
+            "face": "http://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1728144000000,
+                "vip_pay_type": 1,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1630166400
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2022百大UP主、2022年度联合创作奖UP主、知名UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 19271915,
+            "label_style": 0
+        },
+        {
+            "mid": 279583114,
+            "title": "演唱",
+            "name": "老坛胡说",
+            "face": "https://i1.hdslb.com/bfs/face/01b96e872a5b0df74e66b94126e13a78cb6f9b74.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1721664000000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 1622217600
+            },
+            "official": {
+                "role": 1,
+                "title": "bilibili 2020百大UP主、2019年度原创栏目奖UP主",
+                "desc": "",
+                "type": 0
+            },
+            "follower": 2340533,
+            "label_style": 0
+        },
+        {
+            "mid": 404414222,
+            "title": "策划",
+            "name": "光明日报",
+            "face": "https://i2.hdslb.com/bfs/face/c6bee244342b7c64df388c120f918a7bc0fe50b1.jpg",
+            "vip": {
+                "type": 1,
+                "status": 0,
+                "due_date": 1687276800000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "",
+                    "label_theme": "",
+                    "text_color": "",
+                    "bg_style": 0,
+                    "bg_color": "",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                },
+                "avatar_subscript": 0,
+                "nickname_color": "",
+                "role": 0,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 5,
+                "title": "光明日报官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 588690,
+            "label_style": 0
+        },
+        {
+            "mid": 32708543,
+            "title": "策划",
+            "name": "大家的音乐机",
+            "face": "https://i2.hdslb.com/bfs/face/927600c9ac351375bc63fa6e0ce06e7ed7a8bbd3.jpg",
+            "vip": {
+                "type": 2,
+                "status": 1,
+                "due_date": 1699545600000,
+                "vip_pay_type": 0,
+                "theme_type": 0,
+                "label": {
+                    "path": "",
+                    "text": "年度大会员",
+                    "label_theme": "annual_vip",
+                    "text_color": "#FFFFFF",
+                    "bg_style": 1,
+                    "bg_color": "#FB7299",
+                    "border_color": "",
+                    "use_img_label": true,
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                },
+                "avatar_subscript": 1,
+                "nickname_color": "#FB7299",
+                "role": 3,
+                "avatar_subscript_url": "",
+                "tv_vip_status": 0,
+                "tv_vip_pay_type": 0,
+                "tv_due_date": 0
+            },
+            "official": {
+                "role": 3,
+                "title": "音乐区官方账号",
+                "desc": "",
+                "type": 1
+            },
+            "follower": 1436985,
+            "label_style": 0
+        }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 631028294,
+                "type": 2,
+                "desc": "第116期每周必看",
+                "weekly_recommend_num": 116
+            },
+            {
+                "aid": 631028294,
+                "type": 3,
+                "desc": "全站排行榜最高第3名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 631028294,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}
