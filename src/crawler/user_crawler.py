@@ -2,9 +2,14 @@ from src.utils import *
 import time
 class UserCrawler(Crawler):
     '爬取bilibili用户信息'
-    def __init__(self, mid):
+    def __init__(self, mid = None, name = None):
         super().__init__()
-        self.mid = mid
+        if mid is None and name is None:
+            raise Exception('mid and name cannot be both None')
+        if mid is None:
+            self.mid = self.getMid(name)
+        else:
+            self.mid = mid
     
     def getVideos(self):
         '获取用户所有视频'
@@ -51,6 +56,29 @@ class UserCrawler(Crawler):
             return None
         self.logger.debug('success to get user info from user {}'.format(self.mid))
         return load['data']
+    def getMid(self, name):
+        '通过用户名获取用户mid'
+        url = 'https://api.bilibili.com/x/web-interface/search/type'
+        params = {
+            'search_type': 'bili_user',
+            'keyword': name,
+            'page': 1,
+            'order': 'totalrank',
+            'category_id': 0,
+            'user_type': 0,
+            'order_sort': 0,
+        }
+
+        cookies = {
+            "buvid3": self.getBuvid3()
+        }
+        html = self.getPage(url, params=params, cookies=cookies)
+        self.logger.debug(html)
+        load = json.loads(html)
+        if load['code'] != 0:
+            self.logger.error('fail to get mid from user {}, error code = {}'.format(name, load['code']))
+            return None
+        return load['data']['result'][0]['mid']
     
     def getData(self):
         data = self.getUserInfo()

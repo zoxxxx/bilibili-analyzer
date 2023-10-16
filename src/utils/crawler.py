@@ -17,11 +17,20 @@ class Crawler(object):
         }
         self.logger = getLogger(__name__)
         self.wbiEncoder = WbiEncoder()
-    
-    def getPage(self, url, params = None):
+    def getBuvid3(self):
+        url = 'https://api.bilibili.com/x/frontend/finger/spi'
+        html = self.getPage(url)
+        load = json.loads(html)
+        if load['code'] != 0:
+            self.logger.error('fail to get buvid3, error code = {}'.format(load['code']))
+            return None
+        self.logger.debug('buvid3: {}'.format(json.loads(html)['data']['b_3']))
+
+        return load['data']['b_3']
+    def getPage(self, url, params = None, cookies = None):
         '获取网页源代码'
         try:
-            html = self.session.get(url, params=params)
+            html = self.session.get(url, params=params, cookies=cookies)
             html.raise_for_status()
             html.encoding = html.apparent_encoding
             self.logger.debug('html encoding: {}'.format(html.encoding))

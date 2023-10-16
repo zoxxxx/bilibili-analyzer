@@ -12,14 +12,14 @@ def main():
     st.set_page_config(layout="wide", page_title="b站up主数据查询")
     with st.sidebar.form("my_form"):
         st.write("## 选择用户")
-        mid_input = st.text_input("输入用户mid", "546195")
+        name_input = st.text_input("输入用户名", "老番茄")
 
         if st.form_submit_button(label='查询'):
-            mid = mid_input
+            name = name_input
             progress_text = '正在加载数据...'
             my_bar = st.progress(0, text=progress_text)
 
-            st.session_state.userData = UserData(mid)
+            st.session_state.userData = UserData(name=name)
             st.session_state.userDataStorage = st.session_state.userData.getData()
             st.session_state.userDataStorage["videos"].sort(key=lambda x: x["created"])
 
@@ -109,7 +109,7 @@ def main():
                 "type": "slider",
                 "start": 0,
                 "end": 100,
-            }
+            },
         ]
     }
     
