@@ -43,7 +43,8 @@ class UserCrawler(Crawler):
         params = {
             'mid': self.mid
         }
-        html = self.getPage(url, params=params)
+        signedParams = self.wbiEncoder.getSignedParams(params)
+        html = self.getPage(url, params=signedParams)
         load = json.loads(html)
         if load['code'] != 0:
             self.logger.error('fail to get user info from user {}, error code = {}'.format(self.mid, load['code']))

@@ -1,0 +1,337 @@
+{
+    "bvid": "BV1sm4y1g7iM",
+    "aid": 704530941,
+    "videos": 1,
+    "tid": 250,
+    "tname": "出行",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/9b59548c91b982e4aacf3a99d808e49447505959.jpg",
+    "title": "跟着福岛渔民出海，捞上来的鱼检测结果如何？",
+    "pubdate": 1697191500,
+    "ctime": 1697184372,
+    "desc": "金玉其表 削足适履 粉饰太平",
+    "desc_v2": [
+        {
+            "raw_text": "金玉其表 削足适履 粉饰太平",
+            "type": 1,
+            "biz_id": 0
+        }
+    ],
+    "state": 0,
+    "duration": 3209,
+    "mission_id": 1693937,
+    "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 1,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+    },
+    "owner": {
+        "mid": 39627524,
+        "name": "食贫道",
+        "face": "https://i2.hdslb.com/bfs/face/eef12b850c10b0d7a7929236abb08604955823c0.jpg"
+    },
+    "stat": {
+        "aid": 704530941,
+        "view": 7786970,
+        "danmaku": 106300,
+        "reply": 35071,
+        "favorite": 487058,
+        "coin": 1555044,
+        "share": 298800,
+        "now_rank": 0,
+        "his_rank": 1,
+        "like": 1214339,
+        "dislike": 0,
+        "evaluation": "",
+        "argue_msg": "",
+        "vt": 0
+    },
+    "dynamic": "比谎言更骇人的，是半真半假。【东瀛大宝荐02】",
+    "cid": 1297777670,
+    "dimension": {
+        "width": 3840,
+        "height": 2160,
+        "rotate": 0
+    },
+    "season_id": 1726562,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "no_cache": false,
+    "pages": [
+        {
+            "cid": 1297777670,
+            "page": 1,
+            "from": "vupload",
+            "part": "跟着福岛渔民出海，捞上来的鱼检测结果如何？",
+            "duration": 3209,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 3840,
+                "height": 2160,
+                "rotate": 0
+            },
+            "first_frame": "http://i1.hdslb.com/bfs/storyff/n231013sa1c828e32zvxtdcc355b9kne_firsti.jpg"
+        }
+    ],
+    "subtitle": {
+        "allow_submit": false,
+        "list": []
+    },
+    "label": {
+        "type": 1
+    },
+    "ugc_season": {
+        "id": 1726562,
+        "title": "东瀛大宝荐",
+        "cover": "https://archive.biliimg.com/bfs/archive/f9a30f7975bce1741aaa970e5385a61bae23166e.jpg",
+        "mid": 39627524,
+        "intro": "",
+        "sign_state": 0,
+        "attribute": 140,
+        "sections": [
+            {
+                "season_id": 1726562,
+                "id": 1982217,
+                "title": "正片",
+                "type": 1,
+                "episodes": [
+                    {
+                        "season_id": 1726562,
+                        "section_id": 1982217,
+                        "id": 39623392,
+                        "aid": 321068249,
+                        "cid": 1270712773,
+                        "title": "毛骨悚然！军国主义如何洗脑日本人",
+                        "attribute": 0,
+                        "arc": {
+                            "aid": 321068249,
+                            "videos": 0,
+                            "type_id": 0,
+                            "type_name": "",
+                            "copyright": 0,
+                            "pic": "http://i0.hdslb.com/bfs/archive/f9a30f7975bce1741aaa970e5385a61bae23166e.jpg",
+                            "title": "毛骨悚然！军国主义如何洗脑日本人",
+                            "pubdate": 1695009600,
+                            "ctime": 1695009600,
+                            "desc": "",
+                            "state": 0,
+                            "duration": 3096,
+                            "rights": {
+                                "bp": 0,
+                                "elec": 0,
+                                "download": 0,
+                                "movie": 0,
+                                "pay": 0,
+                                "hd5": 0,
+                                "no_reprint": 0,
+                                "autoplay": 0,
+                                "ugc_pay": 0,
+                                "is_cooperation": 0,
+                                "ugc_pay_preview": 0,
+                                "arc_pay": 0,
+                                "free_watch": 0
+                            },
+                            "author": {
+                                "mid": 0,
+                                "name": "",
+                                "face": ""
+                            },
+                            "stat": {
+                                "aid": 321068249,
+                                "view": 4131184,
+                                "danmaku": 111226,
+                                "reply": 20937,
+                                "fav": 239304,
+                                "coin": 676960,
+                                "share": 107354,
+                                "now_rank": 0,
+                                "his_rank": 0,
+                                "like": 641789,
+                                "dislike": 0,
+                                "evaluation": "",
+                                "argue_msg": "",
+                                "vt": 0,
+                                "vv": 4131184
+                            },
+                            "dynamic": "",
+                            "dimension": {
+                                "width": 0,
+                                "height": 0,
+                                "rotate": 0
+                            },
+                            "desc_v2": null,
+                            "is_chargeable_season": false,
+                            "is_blooper": false,
+                            "enable_vt": 0,
+                            "vt_display": ""
+                        },
+                        "page": {
+                            "cid": 1270712773,
+                            "page": 1,
+                            "from": "vupload",
+                            "part": "毛骨悚然！军国主义如何洗脑日本人",
+                            "duration": 3096,
+                            "vid": "",
+                            "weblink": "",
+                            "dimension": {
+                                "width": 3840,
+                                "height": 2160,
+                                "rotate": 0
+                            }
+                        },
+                        "bvid": "BV1Xw411i7Dq"
+                    },
+                    {
+                        "season_id": 1726562,
+                        "section_id": 1982217,
+                        "id": 41581392,
+                        "aid": 704530941,
+                        "cid": 1297777670,
+                        "title": "跟着福岛渔民出海，捞上来的鱼核辐射检测结果如何？",
+                        "attribute": 0,
+                        "arc": {
+                            "aid": 704530941,
+                            "videos": 0,
+                            "type_id": 0,
+                            "type_name": "",
+                            "copyright": 0,
+                            "pic": "http://i1.hdslb.com/bfs/archive/9b59548c91b982e4aacf3a99d808e49447505959.jpg",
+                            "title": "跟着福岛渔民出海，捞上来的鱼核辐射检测结果如何？",
+                            "pubdate": 1697191500,
+                            "ctime": 1697191500,
+                            "desc": "",
+                            "state": 0,
+                            "duration": 3209,
+                            "rights": {
+                                "bp": 0,
+                                "elec": 0,
+                                "download": 0,
+                                "movie": 0,
+                                "pay": 0,
+                                "hd5": 0,
+                                "no_reprint": 0,
+                                "autoplay": 0,
+                                "ugc_pay": 0,
+                                "is_cooperation": 0,
+                                "ugc_pay_preview": 0,
+                                "arc_pay": 0,
+                                "free_watch": 0
+                            },
+                            "author": {
+                                "mid": 0,
+                                "name": "",
+                                "face": ""
+                            },
+                            "stat": {
+                                "aid": 704530941,
+                                "view": 7786970,
+                                "danmaku": 106300,
+                                "reply": 35071,
+                                "fav": 487058,
+                                "coin": 1555044,
+                                "share": 298800,
+                                "now_rank": 0,
+                                "his_rank": 1,
+                                "like": 1214339,
+                                "dislike": 0,
+                                "evaluation": "",
+                                "argue_msg": "",
+                                "vt": 0,
+                                "vv": 7786970
+                            },
+                            "dynamic": "",
+                            "dimension": {
+                                "width": 0,
+                                "height": 0,
+                                "rotate": 0
+                            },
+                            "desc_v2": null,
+                            "is_chargeable_season": false,
+                            "is_blooper": false,
+                            "enable_vt": 0,
+                            "vt_display": ""
+                        },
+                        "page": {
+                            "cid": 1297777670,
+                            "page": 1,
+                            "from": "vupload",
+                            "part": "跟着福岛渔民出海，捞上来的鱼检测结果如何？",
+                            "duration": 3209,
+                            "vid": "",
+                            "weblink": "",
+                            "dimension": {
+                                "width": 3840,
+                                "height": 2160,
+                                "rotate": 0
+                            }
+                        },
+                        "bvid": "BV1sm4y1g7iM"
+                    }
+                ]
+            }
+        ],
+        "stat": {
+            "season_id": 1726562,
+            "view": 11918154,
+            "danmaku": 217526,
+            "reply": 56008,
+            "fav": 726362,
+            "coin": 2232004,
+            "share": 406154,
+            "now_rank": 0,
+            "his_rank": 0,
+            "like": 1856128,
+            "vt": 0,
+            "vv": 0
+        },
+        "ep_count": 2,
+        "season_type": 1,
+        "is_pay_season": false,
+        "enable_vt": 0
+    },
+    "is_season_display": true,
+    "user_garb": {
+        "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+        "honor": [
+            {
+                "aid": 704530941,
+                "type": 3,
+                "desc": "全站排行榜最高第1名",
+                "weekly_recommend_num": 0
+            },
+            {
+                "aid": 704530941,
+                "type": 4,
+                "desc": "热门",
+                "weekly_recommend_num": 0
+            }
+        ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false
+}

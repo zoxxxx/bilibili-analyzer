@@ -5,6 +5,7 @@ import logging
 import random
 from bs4 import BeautifulSoup
 from src.utils.logger import *
+from src.utils.wbi_encoder import *
 
 class Crawler(object):
     '爬虫的基类'
@@ -15,6 +16,7 @@ class Crawler(object):
             'Referer': 'https://www.bilibili.com/',
         }
         self.logger = getLogger(__name__)
+        self.wbiEncoder = WbiEncoder()
     
     def getPage(self, url, params = None):
         '获取网页源代码'
